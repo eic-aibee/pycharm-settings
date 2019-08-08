@@ -28,6 +28,13 @@
         <mark key="^" line="62" column="14" />
         <mark key="." line="62" column="14" />
       </file>
+      <file name="$USER_HOME$/aibee/k11-label/label/settings.py" timestamp="1565264930890">
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="75" column="19" />
+        <mark key="." line="75" column="19" />
+        <mark key="^" line="75" column="19" />
+      </file>
+      <file name="$USER_HOME$/.local/share/virtualenvs/k11-label-uUlzxg54/src/humancheck/HumanCheck/GenerateCluster.py" timestamp="1565264596608" />
       <file name="$USER_HOME$/aibee/sku/sku/utils.py" timestamp="1564992400910">
         <mark key="[" line="10" column="56" />
         <mark key="]" line="11" column="14" />
@@ -54,23 +61,11 @@
         <mark key="^" line="19" column="19" />
         <mark key="." line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/__init__.py" timestamp="1565229221381">
-        <mark key="'" line="7" column="12" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1565236039858">
         <mark key="[" line="99" column="15" />
         <mark key="]" line="99" column="15" />
         <mark key="." line="99" column="15" />
         <mark key="^" line="99" column="15" />
-      </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1565171327678">
-        <mark key="'" line="42" column="12" />
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/flask_prometheus/__init__.py" timestamp="1564997154758">
         <mark key="[" line="36" column="40" />
@@ -104,7 +99,13 @@
         <mark key="^" line="9" column="16" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/auth.py" timestamp="1565263746703" />
+      <file name="$USER_HOME$/aibee/k11-label/label/tasks.py" timestamp="1565265115695">
+        <mark key="[" line="215" column="97" />
+        <mark key="]" line="215" column="125" />
+        <mark key="^" line="215" column="125" />
+        <mark key="." line="215" column="125" />
+      </file>
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/auth.py" timestamp="1565264672212" />
       <file name="$USER_HOME$/aibee/image_search/k8s_test/nginx-deployment.yaml" timestamp="1565167640940">
         <mark key="'" line="26" column="20" />
         <mark key="[" line="34" column="28" />
@@ -268,17 +269,16 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/aibee/image_search/image_search/prometheus/__init__.py" timestamp="1565229588385">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/aibee/image_search/init_dev.sh" timestamp="1564574504011">
         <mark key="[" line="6" column="39" />
         <mark key="]" line="6" column="47" />
         <mark key="." line="6" column="47" />
         <mark key="^" line="6" column="47" />
+      </file>
+      <file name="$USER_HOME$/aibee/k11-label/Makefile" timestamp="1565265317866">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-service-deployment.yaml" timestamp="1564721474285">
         <mark key="[" line="7" column="12" />
@@ -435,50 +435,50 @@
       <jump line="31" column="0" filename="$USER_HOME$/aibee/image_search/image_search/prometheus/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWt1YmVjdGwgY29uZmlnIHVzZS1jb250ZXh0IGd6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>smart_counter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSBwaXBlbnYK</text>
+        <text encoding="base64">CWt1YmVjdGwgY29uZmlnIHVzZS1jb250ZXh0IGd6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSBwaXBlbnYK</text>
+        <text encoding="base64">ICAgIElTX1RFU1QgPSBUcnVlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB3ZXJremV1Zy53c2dpIGltcG9ydCBEaXNwYXRjaGVyTWlkZGxld2FyZQpmcm9tIHByb21ldGhldXNfY2xpZW50IGltcG9ydCBtYWtlX3dzZ2lfYXBwCg==</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSBwaXBlbnYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgcHJvbWV0aGV1c19hcHAgPSBtYWtlX3dzZ2lfYXBwKCkKICAgICMgYXBwLndzZ2lfYXBwID0gRGlzcGF0Y2hlck1pZGRsZXdhcmUoYXBwLndzZ2lfYXBwLCB7CiAgICAjICAgICBwYXRoOiBwcm9tZXRoZXVzX2FwcAogICAgIyB9KQo=</text>
+        <text encoding="base64">ZnJvbSB3ZXJremV1Zy53c2dpIGltcG9ydCBEaXNwYXRjaGVyTWlkZGxld2FyZQpmcm9tIHByb21ldGhldXNfY2xpZW50IGltcG9ydCBtYWtlX3dzZ2lfYXBwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJib3giOiBbIDE0Ni4zMTc1MDQ4ODI4MTI1LAogICAgICAyNzcuMDk5NzkyNDgwNDY4NzUsCiAgICAgIDUxMS43NDQ5MzQwODIwMzEyNSwKICAgICAgNjg0LjE1MDgxNzg3MTA5MzgsCiAgICAgIDQuMCwKICAgICAgMC45OTkzNDg1ODA4MzcyNDk4CiAgICBdCg==</text>
+        <text encoding="base64">ICAgICMgcHJvbWV0aGV1c19hcHAgPSBtYWtlX3dzZ2lfYXBwKCkKICAgICMgYXBwLndzZ2lfYXBwID0gRGlzcGF0Y2hlck1pZGRsZXdhcmUoYXBwLndzZ2lfYXBwLCB7CiAgICAjICAgICBwYXRoOiBwcm9tZXRoZXVzX2FwcAogICAgIyB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGV4dHJhY3Qoc2VsZiwgcmVxdWVzdCwgY29udGV4dCk6CiAgICAjICAgICByZXR1cm4gW1swLCAwLCAxLCAyLCAxLCAwLjU0XSwgWzAuNCwgMSwgMS41LCA0LCAyLCAwLjk5XSwgWzEsIDEsIDIuMiwgMy4zLCAxLCAwLjk4XSwgWzAsIDAsIDEsIDEsIDIsIDAuMV1dCiAgICAjIG1vZGVsID0gc2VsZi5fX2NsYXNzX18uZ2V0X29yX2NyZWF0ZV9tb2RlbCgpCiAgICAjIHJlc3BvbnNlID0gbW9kZWwuZXh0cmFjdChyZXF1ZXN0LmltYWdlX2Jhc2U2NCkKICAgICMgcmV0dXJuIHNrdV9kZXRlY3Rvcl9wYjIuRGV0ZWN0b3JSZXBseShmZWF0dXJlPXJlc3BvbnNlKQoK</text>
+        <text encoding="base64">ICAgICJib3giOiBbIDE0Ni4zMTc1MDQ4ODI4MTI1LAogICAgICAyNzcuMDk5NzkyNDgwNDY4NzUsCiAgICAgIDUxMS43NDQ5MzQwODIwMzEyNSwKICAgICAgNjg0LjE1MDgxNzg3MTA5MzgsCiAgICAgIDQuMCwKICAgICAgMC45OTkzNDg1ODA4MzcyNDk4CiAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHNlcnZlKCk6CiAgICAjIOagueaNruS4jeWQjOeahOeOr+Wig+WPmOmHj+iuvue9ruS4jeWQjOeahOWAvCwg6buY6K6k5pivTE9DQUwKICAgIGVudiA9IG9zLmVudmlyb24uZ2V0KCdFTlYnLCAnTE9DQUwnKQogICAgaWYgZW52ID09ICdMT0NBTCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCIiKQogICAgZWxpZiBlbnYgPT0gJ0RFVic6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzk1ODgwNjMyN2FiMTQ4YTc5NGU5MDNiNzgwNzZmYmQ0OmMzZGE1NzZkNTFmYzQzYjRiNjk3NjlkZWRlMzgxODgxQHRqLXNlbnRyeS5haWJlZS5jbi8xcyIpCiAgICBlbGlmIGVudiA9PSAnVEVTVCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzcwODQzN2JjMzcwMDQ2YmE5MzkyM2ZmYjk5MzIxOTc2OjRjNTVkM2YzM2Y0MDQ5ODI5YWY2ODEzM2JlNDMxMTUzQHRqLXNlbnRyeS5haWJlZS5jbi8xNCIpCiAgICBlbGlmIGVudiA9PSAnUFJPRCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCJodHRwOi8vMzRiOTA5YWY4OGYxNDhhODhlNGI2Mzc2MDY5YTU4ZDBAc2VudHJ5LmFpYmVlLmNuLzEzIikKCiAgICBNQVhfTUVTU0FHRV9MRU5HVEggPSA0MTk0MzA0MAogICAgc2VydmVyID0gZ3JwYy5zZXJ2ZXIodGhyZWFkX3Bvb2w9ZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9MSksCiAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zPVsoJ2dycGMubWF4X3NlbmRfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpLCAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dycGMubWF4X3JlY2VpdmVfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpXSwKICAgICAgICAgICAgICAgICAgICAgICAgIGludGVyY2VwdG9ycz0oUHJvbVNlcnZlckludGVyY2VwdG9yKCksKSkKICAgIHNrdV9kZXRlY3Rvcl9wYjJfZ3JwYy5hZGRfU2t1RGV0ZWN0b3JTZXJ2aWNlcl90b19zZXJ2ZXIoU2t1RGV0ZWN0b3IoKSwgc2VydmVyKQogICAgc2VydmVyLmFkZF9pbnNlY3VyZV9wb3J0KCdbOjpdOjUwMDUzJykKICAgIHNlcnZlci5zdGFydCgpCiAgICBzdGFydF9odHRwX3NlcnZlcig1MDA2MykKICAgIHNrdV9kZXRlY3Rvcl9jbGllbnQucnVuKCkKICAgIHRyeToKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICB0aW1lLnNsZWVwKF9PTkVfREFZX0lOX1NFQ09ORFMpCiAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgc2VydmVyLnN0b3AoMCkKCgo=</text>
+        <text encoding="base64">ICAgICMgZGVmIGV4dHJhY3Qoc2VsZiwgcmVxdWVzdCwgY29udGV4dCk6CiAgICAjICAgICByZXR1cm4gW1swLCAwLCAxLCAyLCAxLCAwLjU0XSwgWzAuNCwgMSwgMS41LCA0LCAyLCAwLjk5XSwgWzEsIDEsIDIuMiwgMy4zLCAxLCAwLjk4XSwgWzAsIDAsIDEsIDEsIDIsIDAuMV1dCiAgICAjIG1vZGVsID0gc2VsZi5fX2NsYXNzX18uZ2V0X29yX2NyZWF0ZV9tb2RlbCgpCiAgICAjIHJlc3BvbnNlID0gbW9kZWwuZXh0cmFjdChyZXF1ZXN0LmltYWdlX2Jhc2U2NCkKICAgICMgcmV0dXJuIHNrdV9kZXRlY3Rvcl9wYjIuRGV0ZWN0b3JSZXBseShmZWF0dXJlPXJlc3BvbnNlKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHNlcnZlKCk6CiAgICAjIOagueaNruS4jeWQjOeahOeOr+Wig+WPmOmHj+iuvue9ruS4jeWQjOeahOWAvCwg6buY6K6k5pivTE9DQUwKICAgIGVudiA9IG9zLmVudmlyb24uZ2V0KCdFTlYnLCAnTE9DQUwnKQogICAgaWYgZW52ID09ICdMT0NBTCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCIiKQogICAgZWxpZiBlbnYgPT0gJ0RFVic6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzk1ODgwNjMyN2FiMTQ4YTc5NGU5MDNiNzgwNzZmYmQ0OmMzZGE1NzZkNTFmYzQzYjRiNjk3NjlkZWRlMzgxODgxQHRqLXNlbnRyeS5haWJlZS5jbi8xcyIpCiAgICBlbGlmIGVudiA9PSAnVEVTVCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzcwODQzN2JjMzcwMDQ2YmE5MzkyM2ZmYjk5MzIxOTc2OjRjNTVkM2YzM2Y0MDQ5ODI5YWY2ODEzM2JlNDMxMTUzQHRqLXNlbnRyeS5haWJlZS5jbi8xNCIpCiAgICBlbGlmIGVudiA9PSAnUFJPRCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCJodHRwOi8vMzRiOTA5YWY4OGYxNDhhODhlNGI2Mzc2MDY5YTU4ZDBAc2VudHJ5LmFpYmVlLmNuLzEzIikKCiAgICBNQVhfTUVTU0FHRV9MRU5HVEggPSA0MTk0MzA0MAogICAgc2VydmVyID0gZ3JwYy5zZXJ2ZXIodGhyZWFkX3Bvb2w9ZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9MSksCiAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zPVsoJ2dycGMubWF4X3NlbmRfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpLCAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dycGMubWF4X3JlY2VpdmVfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpXSwKICAgICAgICAgICAgICAgICAgICAgICAgIGludGVyY2VwdG9ycz0oUHJvbVNlcnZlckludGVyY2VwdG9yKCksKSkKICAgIHNrdV9kZXRlY3Rvcl9wYjJfZ3JwYy5hZGRfU2t1RGV0ZWN0b3JTZXJ2aWNlcl90b19zZXJ2ZXIoU2t1RGV0ZWN0b3IoKSwgc2VydmVyKQogICAgc2VydmVyLmFkZF9pbnNlY3VyZV9wb3J0KCdbOjpdOjUwMDUzJykKICAgIHNlcnZlci5zdGFydCgpCiAgICBzdGFydF9odHRwX3NlcnZlcig1MDA2MykKICAgIHNrdV9kZXRlY3Rvcl9jbGllbnQucnVuKCkKICAgIHRyeToKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICB0aW1lLnNsZWVwKF9PTkVfREFZX0lOX1NFQ09ORFMpCiAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgc2VydmVyLnN0b3AoMCkKCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/smart_counter/image_search/g</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -532,8 +532,8 @@
         <entry>%s/label_tool/smart_counter/g</entry>
         <entry>%s/smart_counter/{{cookiecutter.project_name}}/g</entry>
         <entry>SP</entry>
-        <entry>sp</entry>
         <entry>%s/smart_counter/image_search/g</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
