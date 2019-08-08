@@ -1,0 +1,9 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="k11-product-recognition-service-20" type="docker">
+      <configuration>
+        <option name="apiUrl" value="http://172.20.10.20:2375" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

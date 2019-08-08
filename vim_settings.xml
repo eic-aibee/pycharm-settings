@@ -1,0 +1,611 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/aibee/sku/k8s_test/sku-grpc-ingress.yaml" timestamp="1564992293101">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/image_search/api/image_web.py" timestamp="1565168253906" />
+      <file name="$USER_HOME$/aibee/sku_detector/README.md" timestamp="1565147519371">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="14" />
+        <mark key="^" line="62" column="14" />
+        <mark key="." line="62" column="14" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/k8s_test/nginx-service.yaml" timestamp="1565162741172" />
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/weekly_files.py" timestamp="1565246749013" />
+      <file name="$USER_HOME$/aibee/sku/sku/utils.py" timestamp="1564992400910">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_counter/manage.py" timestamp="1564973501262" />
+      <file name="$USER_HOME$/aibee/image_search/Makefile" timestamp="1565234255330">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="42" column="82" />
+        <mark key="]" line="42" column="85" />
+        <mark key="." line="42" column="85" />
+        <mark key="^" line="42" column="85" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/nginx_dev/Dockerfile" timestamp="1565168895537">
+        <mark key="'" line="20" column="7" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/sku/prometheus/__init__.py" timestamp="1564997897024">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="46" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku_detector/ghz_extract_config.json" timestamp="1565149160949">
+        <mark key="'" line="5" column="10" />
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-ingress.yaml" timestamp="1565171341252" />
+      <file name="$USER_HOME$/aibee/image_search/k8s_test/nginx-deployment.yaml" timestamp="1565167640940">
+        <mark key="'" line="26" column="20" />
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="50" />
+        <mark key="." line="34" column="50" />
+        <mark key="^" line="34" column="50" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku_detector/Makefile" timestamp="1565157911843">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="68" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku_detector/Dockerfile" timestamp="1565148891108">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="17" column="95" />
+        <mark key="." line="17" column="95" />
+        <mark key="^" line="17" column="95" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku_detector/.bumpversion.cfg" timestamp="1564389817522">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/nginx_prod/flask.conf" timestamp="1564480292997">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="59" />
+        <mark key="." line="11" column="59" />
+        <mark key="^" line="11" column="59" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/celery_start.sh" timestamp="1564889225195" />
+      <file name="$USER_HOME$/aibee/ctf-api/Dockerfile" timestamp="1565075202004" />
+      <file name="$USER_HOME$/aibee/sku_detector/sku_detector/models/det_lh_default.json" timestamp="1565147869824" />
+      <file name="$USER_HOME$/aibee/image_search/manage.py" timestamp="1565168409295" />
+      <file name="$USER_HOME$/.local/share/virtualenvs/sku-NL9Q8_NY/lib/python2.7/site-packages/prometheus_client/exposition.py" timestamp="1564998079955" />
+      <file name="$USER_HOME$/aibee/sku/start.sh" timestamp="1565094931042">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/image_file.py" timestamp="1564720421090" />
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/rfid.py" timestamp="1564485089253">
+        <mark key="[" line="159" column="41" />
+        <mark key="]" line="159" column="58" />
+        <mark key="^" line="159" column="58" />
+        <mark key="." line="159" column="58" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/image_search/__init__.py" timestamp="1565229231488">
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="79" column="15" />
+        <mark key="^" line="79" column="15" />
+        <mark key="." line="79" column="15" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku_detector/detector.md" timestamp="1565244018227" />
+      <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1565074016928" />
+      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1564973260280">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+        <mark key="^" line="37" column="31" />
+      </file>
+      <file name="$USER_HOME$/aibee/label-tool/label_tool/api/ctf/transaction_record.py" timestamp="1565090262761">
+        <mark key="[" line="213" column="51" />
+        <mark key="]" line="213" column="51" />
+        <mark key="^" line="213" column="51" />
+        <mark key="." line="213" column="51" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/k8s_test/sku-grpc-service.yaml" timestamp="1564992070542">
+        <mark key="'" line="9" column="14" />
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/aibee/crm/crm/config/config.yml" timestamp="1564731391842" />
+      <file name="$USER_HOME$/aibee/sku_detector/ghz_detect_all_config.json" timestamp="1565152039719">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/image_search/prometheus/__init__.py" timestamp="1565229588385">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku_detector/sku_detector/protos/sku_detector.proto" timestamp="1565149124956" />
+      <file name="$USER_HOME$/aibee/sku_detector/docker-compose.yml" timestamp="1564999436684">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
+      </file>
+      <file name="$USER_HOME$/aibee/label-tool/label_tool/models/job.py" timestamp="1564711285336" />
+      <file name="$USER_HOME$/aibee/image_search/start_prod.sh" timestamp="1564479436698">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/k8s_test/image-search-service-deployment.yaml" timestamp="1565167992021">
+        <mark key="'" line="16" column="12" />
+        <mark key="[" line="22" column="60" />
+        <mark key="]" line="22" column="64" />
+        <mark key="." line="22" column="64" />
+        <mark key="^" line="22" column="64" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku_detector/start.sh" timestamp="1564574054496">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/init_prod.sh" timestamp="1564539539068">
+        <mark key="[" line="6" column="68" />
+        <mark key="]" line="6" column="83" />
+        <mark key="." line="6" column="83" />
+        <mark key="^" line="6" column="83" />
+      </file>
+      <file name="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/Pipfile" timestamp="1564989650733" />
+      <file name="$USER_HOME$/aibee/image_search/nginx_dev/nginx.conf" timestamp="1565158252226" />
+      <file name="$USER_HOME$/aibee/sku/ghz_extract_config.json" timestamp="1565077958578">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/__init__.py" timestamp="1565229221381">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1565236039858">
+        <mark key="[" line="99" column="15" />
+        <mark key="]" line="99" column="15" />
+        <mark key="." line="99" column="15" />
+        <mark key="^" line="99" column="15" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1565171327678">
+        <mark key="'" line="42" column="12" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/aibee/label-tool/k8s_test/nginx-deployment.yaml" timestamp="1565167701066" />
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/flask_prometheus/__init__.py" timestamp="1564997154758">
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="35" column="53" />
+        <mark key="^" line="35" column="53" />
+        <mark key="." line="35" column="53" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/.bumpversion.cfg" timestamp="1565168550006">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="9" />
+        <mark key="^" line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/Makefile" timestamp="1565147578041">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="68" />
+        <mark key="^" line="25" column="76" />
+        <mark key="." line="25" column="76" />
+      </file>
+      <file name="$USER_HOME$/aibee/ctf-api/ctf/api/bi/statistic.py" timestamp="1564973149630" />
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/models/reader.py" timestamp="1565246766264" />
+      <file name="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_server.py" timestamp="1565235590539">
+        <mark key="'" line="106" column="4" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="153" column="3" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/ghz_config.json" timestamp="1565071516916">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/k8s_test/sku-grpc-deployment.yaml" timestamp="1564565678542">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+        <mark key="^" line="27" column="22" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/周大福珠宝图片特征提取器接口.md" timestamp="1565234579591" />
+      <file name="$USER_HOME$/aibee/sku_detector/ghz_detect_best_config.json" timestamp="1565152052447">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/nginx_dev/flask.conf" timestamp="1564417781090">
+        <mark key="[" line="11" column="57" />
+        <mark key="]" line="11" column="57" />
+        <mark key="." line="11" column="57" />
+        <mark key="^" line="11" column="43" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/README.md" timestamp="1565147487569">
+        <mark key="[" line="64" column="54" />
+        <mark key="]" line="66" column="44" />
+        <mark key="." line="66" column="44" />
+        <mark key="^" line="66" column="44" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/counter.py" timestamp="1565247930932" />
+      <file name="$USER_HOME$/aibee/label-tool/label_tool/flask_prometheus/__init__.py" timestamp="1564987942322" />
+      <file name="$USER_HOME$/aibee/testp/Pipfile" timestamp="1564990926934" />
+      <file name="$USER_HOME$/aibee/image_search/Dockerfile" timestamp="1565232783449">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="97" />
+        <mark key="." line="13" column="97" />
+        <mark key="^" line="13" column="97" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/Pipfile" timestamp="1565088830833" />
+      <file name="$USER_HOME$/aibee/image_search/start.sh" timestamp="1565229889716">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku_detector/sku_detector/Dockerfile" timestamp="1565057974525" />
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/config/config.yml" timestamp="1565249753705" />
+      <file name="$USER_HOME$/aibee/sku/docker-compose.yml" timestamp="1564999029967">
+        <mark key="'" line="2" column="2" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/start.sh" timestamp="1565171296200" />
+      <file name="$USER_HOME$/aibee/cookiecutter-flask/README.md" timestamp="1565244942171">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/ghz_extract_and_classify_best_config.json" timestamp="1565077971797">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="19" />
+        <mark key="^" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/aibee/label-tool/label_tool/api/workload.py" timestamp="1564630512241">
+        <mark key="[" line="702" column="35" />
+        <mark key="]" line="702" column="41" />
+        <mark key="." line="702" column="35" />
+        <mark key="^" line="694" column="40" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_counter/start.sh" timestamp="1565229598181" />
+      <file name="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/__init__.py" timestamp="1564990511985">
+        <mark key="'" line="25" column="53" />
+        <mark key="[" line="25" column="60" />
+        <mark key="]" line="25" column="60" />
+        <mark key="^" line="25" column="63" />
+        <mark key="." line="25" column="60" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/init_dev.sh" timestamp="1564574504011">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="47" />
+        <mark key="." line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_counter/Pipfile" timestamp="1565248124310" />
+      <file name="$USER_HOME$/aibee/ctf-api/docker-compose-test.yml" timestamp="1565248079052" />
+      <file name="$USER_HOME$/aibee/sku_detector/Pipfile" timestamp="1565147331552" />
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/__init__.py" timestamp="1564891228532" />
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-service-deployment.yaml" timestamp="1564721474285">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_pb2_grpc.py" timestamp="1564389190005">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/aibee/image_search/start_dev.sh" timestamp="1564465484041">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/.bumpversion.cfg" timestamp="1564459492648">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" timestamp="1564721697007" />
+      <file name="$USER_HOME$/aibee/image_search/image_search/config/config.yml" timestamp="1565168303585">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="89" column="29" />
+        <mark key="]" line="89" column="29" />
+        <mark key="." line="89" column="29" />
+        <mark key="^" line="87" column="72" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="51" column="15" filename="$USER_HOME$/aibee/crm/crm/config/config.yml" />
+      <jump line="69" column="21" filename="$USER_HOME$/aibee/crm/crm/config/config.yml" />
+      <jump line="72" column="22" filename="$USER_HOME$/aibee/crm/crm/config/config.yml" />
+      <jump line="491" column="33" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
+      <jump line="33" column="66" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
+      <jump line="157" column="5" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
+      <jump line="241" column="5" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
+      <jump line="348" column="5" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" />
+      <jump line="1136" column="15" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/product_uploaded.py" />
+      <jump line="18" column="14" filename="$USER_HOME$/aibee/k11_product_recognition/k8s_test/k11-product-recognition-service-schedule-deployment.yaml" />
+      <jump line="23" column="0" filename="$USER_HOME$/aibee/k11_product_recognition/Dockerfile" />
+      <jump line="25" column="3" filename="$USER_HOME$/aibee/k11_product_recognition/Dockerfile" />
+      <jump line="27" column="4" filename="$USER_HOME$/aibee/k11_product_recognition/Dockerfile" />
+      <jump line="18" column="0" filename="$USER_HOME$/aibee/proxy/nginx/flask.conf" />
+      <jump line="8" column="9" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
+      <jump line="297" column="9" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
+      <jump line="427" column="0" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
+      <jump line="0" column="0" filename="$USER_HOME$/aibee/proxy/nginx/flask.conf" />
+      <jump line="266" column="25" filename="$USER_HOME$/aibee/sku_detector/sku_detector/Dockerfile" />
+      <jump line="141" column="17" filename="$USER_HOME$/aibee/sku_detector/sku_detector/Dockerfile" />
+      <jump line="3" column="0" filename="$USER_HOME$/aibee/sku_detector/requirements.txt" />
+      <jump line="26" column="0" filename="$USER_HOME$/aibee/sku/sku/protos/sku.proto" />
+      <jump line="49" column="23" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/aibee/sku/Dockerfile" />
+      <jump line="58" column="19" filename="$USER_HOME$/aibee/sku/sku/protos/sku.proto" />
+      <jump line="222" column="32" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
+      <jump line="30" column="46" filename="$USER_HOME$/aibee/sku/sku/sku_client.py" />
+      <jump line="61" column="22" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
+      <jump line="64" column="37" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
+      <jump line="21" column="14" filename="$USER_HOME$/aibee/sku/docker-compose.yml" />
+      <jump line="3" column="2" filename="$USER_HOME$/aibee/sku/docker-compose.yml" />
+      <jump line="3" column="4" filename="$USER_HOME$/aibee/sku_detector/docker-compose.yml" />
+      <jump line="60" column="35" filename="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_server.py" />
+      <jump line="38" column="58" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
+      <jump line="94" column="9" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
+      <jump line="12" column="14" filename="$USER_HOME$/aibee/sku/k8s_test/sku-ingress.yaml" />
+      <jump line="61" column="23" filename="$USER_HOME$/aibee/sku/k8s_test/sku-service-deployment.yaml" />
+      <jump line="30" column="0" filename="$USER_HOME$/aibee/sku/k8s_test/sku-service-deployment.yaml" />
+      <jump line="9" column="14" filename="$USER_HOME$/aibee/sku/k8s_test/sku-grpc-service.yaml" />
+      <jump line="33" column="34" filename="$USER_HOME$/aibee/sku/Makefile" />
+      <jump line="7" column="13" filename="$USER_HOME$/aibee/sku_detector/k8s_test/sku-detector-grpc-deployment.yaml" />
+      <jump line="15" column="0" filename="$USER_HOME$/aibee/sku_detector/k8s_test/sku-detector-grpc-ingress.yaml" />
+      <jump line="13" column="0" filename="$USER_HOME$/aibee/sku_detector/k8s_test/sku-detector-grpc-service.yaml" />
+      <jump line="25" column="23" filename="$USER_HOME$/aibee/image_search/requirements.txt" />
+      <jump line="30" column="1" filename="$USER_HOME$/aibee/image_search/requirements.txt" />
+      <jump line="43" column="8" filename="$USER_HOME$/aibee/image_search/image_search/tasks.py" />
+      <jump line="46" column="6" filename="$USER_HOME$/aibee/image_search/image_search/tasks.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/aibee/sku/sku/sku_client.py" />
+      <jump line="19" column="4" filename="$USER_HOME$/aibee/image_search/nginx_dev/Dockerfile" />
+      <jump line="20" column="30" filename="$USER_HOME$/aibee/image_search/nginx_dev/Dockerfile" />
+      <jump line="21" column="7" filename="$USER_HOME$/aibee/image_search/nginx_dev/Dockerfile" />
+      <jump line="5" column="15" filename="$USER_HOME$/aibee/image_search/docker-compose-dev.yml" />
+      <jump line="25" column="20" filename="$USER_HOME$/aibee/image_search/k8s_test/nginx-deployment.yaml" />
+      <jump line="15" column="0" filename="$USER_HOME$/aibee/image_search/k8s_test/nginx-ingress.yaml" />
+      <jump line="19" column="0" filename="$USER_HOME$/aibee/image_search/k8s_test/nginx-service.yaml" />
+      <jump line="16" column="12" filename="$USER_HOME$/aibee/image_search/k8s_test/image-search-service-deployment.yaml" />
+      <jump line="15" column="0" filename="$USER_HOME$/aibee/image_search/k8s_test/image-search-service-service.yaml" />
+      <jump line="0" column="14" filename="$USER_HOME$/aibee/sku/Makefile" />
+      <jump line="6" column="0" filename="$USER_HOME$/aibee/image_search/Makefile" />
+      <jump line="46" column="2" filename="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/config/config.yml" />
+      <jump line="14" column="2" filename="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/config/config.yml" />
+      <jump line="30" column="2" filename="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/config/config.yml" />
+      <jump line="36" column="54" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="35" column="4" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="1815" column="11" filename="$USER_HOME$/.local/share/virtualenvs/sku-NL9Q8_NY/lib/python2.7/site-packages/grpc/__init__.py" />
+      <jump line="1830" column="6" filename="$USER_HOME$/.local/share/virtualenvs/sku-NL9Q8_NY/lib/python2.7/site-packages/grpc/__init__.py" />
+      <jump line="1846" column="57" filename="$USER_HOME$/.local/share/virtualenvs/sku-NL9Q8_NY/lib/python2.7/site-packages/grpc/__init__.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/aibee/image_search/image_search/config/config.yml" />
+      <jump line="65" column="22" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
+      <jump line="131" column="4" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
+      <jump line="83" column="10" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_server.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/aibee/label-tool/requirements.txt" />
+      <jump line="37" column="0" filename="$USER_HOME$/aibee/label-tool/requirements.txt" />
+      <jump line="7" column="12" filename="$USER_HOME$/aibee/smart_counter/smart_counter/__init__.py" />
+      <jump line="37" column="35" filename="$USER_HOME$/aibee/smart_counter/smart_counter/flask_prometheus/__init__.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/aibee/smart_counter/.gitignore" />
+      <jump line="9" column="0" filename="$USER_HOME$/aibee/smart_counter/.dockerignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/aibee/smart_counter/.dockerignore" />
+      <jump line="71" column="25" filename="$USER_HOME$/aibee/smart_counter/smart_counter/flask_prometheus/__init__.py" />
+      <jump line="91" column="0" filename="$USER_HOME$/aibee/smart_counter/.gitignore" />
+      <jump line="27" column="0" filename="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/prometheus/__init__.py" />
+      <jump line="25" column="53" filename="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/__init__.py" />
+      <jump line="208" column="11" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/aibee/label-tool/label_tool/settings.py" />
+      <jump line="31" column="30" filename="$USER_HOME$/aibee/sku/sku/sku_client.py" />
+      <jump line="35" column="15" filename="$USER_HOME$/aibee/sku/sku/sku_client.py" />
+      <jump line="37" column="25" filename="$USER_HOME$/aibee/sku/sku/sku_client.py" />
+      <jump line="153" column="4" filename="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_server.py" />
+      <jump line="26" column="30" filename="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_server.py" />
+      <jump line="106" column="4" filename="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_server.py" />
+      <jump line="1" column="12" filename="$USER_HOME$/aibee/sku_detector/ghz_extract_config.json" />
+      <jump line="5" column="10" filename="$USER_HOME$/aibee/sku_detector/ghz_extract_config.json" />
+      <jump line="36" column="79" filename="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" />
+      <jump line="37" column="56" filename="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" />
+      <jump line="42" column="12" filename="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" />
+      <jump line="31" column="0" filename="$USER_HOME$/aibee/image_search/image_search/prometheus/__init__.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>e</text>
+      </register>
+      <register name="-" type="4">
+        <text>e</text>
+      </register>
+      <register name="/" type="4">
+        <text>smart_counter</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSBwaXBlbnYK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSBwaXBlbnYK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSB3ZXJremV1Zy53c2dpIGltcG9ydCBEaXNwYXRjaGVyTWlkZGxld2FyZQpmcm9tIHByb21ldGhldXNfY2xpZW50IGltcG9ydCBtYWtlX3dzZ2lfYXBwCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgcHJvbWV0aGV1c19hcHAgPSBtYWtlX3dzZ2lfYXBwKCkKICAgICMgYXBwLndzZ2lfYXBwID0gRGlzcGF0Y2hlck1pZGRsZXdhcmUoYXBwLndzZ2lfYXBwLCB7CiAgICAjICAgICBwYXRoOiBwcm9tZXRoZXVzX2FwcAogICAgIyB9KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJib3giOiBbIDE0Ni4zMTc1MDQ4ODI4MTI1LAogICAgICAyNzcuMDk5NzkyNDgwNDY4NzUsCiAgICAgIDUxMS43NDQ5MzQwODIwMzEyNSwKICAgICAgNjg0LjE1MDgxNzg3MTA5MzgsCiAgICAgIDQuMCwKICAgICAgMC45OTkzNDg1ODA4MzcyNDk4CiAgICBdCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgZGVmIGV4dHJhY3Qoc2VsZiwgcmVxdWVzdCwgY29udGV4dCk6CiAgICAjICAgICByZXR1cm4gW1swLCAwLCAxLCAyLCAxLCAwLjU0XSwgWzAuNCwgMSwgMS41LCA0LCAyLCAwLjk5XSwgWzEsIDEsIDIuMiwgMy4zLCAxLCAwLjk4XSwgWzAsIDAsIDEsIDEsIDIsIDAuMV1dCiAgICAjIG1vZGVsID0gc2VsZi5fX2NsYXNzX18uZ2V0X29yX2NyZWF0ZV9tb2RlbCgpCiAgICAjIHJlc3BvbnNlID0gbW9kZWwuZXh0cmFjdChyZXF1ZXN0LmltYWdlX2Jhc2U2NCkKICAgICMgcmV0dXJuIHNrdV9kZXRlY3Rvcl9wYjIuRGV0ZWN0b3JSZXBseShmZWF0dXJlPXJlc3BvbnNlKQoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIHNlcnZlKCk6CiAgICAjIOagueaNruS4jeWQjOeahOeOr+Wig+WPmOmHj+iuvue9ruS4jeWQjOeahOWAvCwg6buY6K6k5pivTE9DQUwKICAgIGVudiA9IG9zLmVudmlyb24uZ2V0KCdFTlYnLCAnTE9DQUwnKQogICAgaWYgZW52ID09ICdMT0NBTCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCIiKQogICAgZWxpZiBlbnYgPT0gJ0RFVic6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzk1ODgwNjMyN2FiMTQ4YTc5NGU5MDNiNzgwNzZmYmQ0OmMzZGE1NzZkNTFmYzQzYjRiNjk3NjlkZWRlMzgxODgxQHRqLXNlbnRyeS5haWJlZS5jbi8xcyIpCiAgICBlbGlmIGVudiA9PSAnVEVTVCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzcwODQzN2JjMzcwMDQ2YmE5MzkyM2ZmYjk5MzIxOTc2OjRjNTVkM2YzM2Y0MDQ5ODI5YWY2ODEzM2JlNDMxMTUzQHRqLXNlbnRyeS5haWJlZS5jbi8xNCIpCiAgICBlbGlmIGVudiA9PSAnUFJPRCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCJodHRwOi8vMzRiOTA5YWY4OGYxNDhhODhlNGI2Mzc2MDY5YTU4ZDBAc2VudHJ5LmFpYmVlLmNuLzEzIikKCiAgICBNQVhfTUVTU0FHRV9MRU5HVEggPSA0MTk0MzA0MAogICAgc2VydmVyID0gZ3JwYy5zZXJ2ZXIodGhyZWFkX3Bvb2w9ZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9MSksCiAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zPVsoJ2dycGMubWF4X3NlbmRfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpLCAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dycGMubWF4X3JlY2VpdmVfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpXSwKICAgICAgICAgICAgICAgICAgICAgICAgIGludGVyY2VwdG9ycz0oUHJvbVNlcnZlckludGVyY2VwdG9yKCksKSkKICAgIHNrdV9kZXRlY3Rvcl9wYjJfZ3JwYy5hZGRfU2t1RGV0ZWN0b3JTZXJ2aWNlcl90b19zZXJ2ZXIoU2t1RGV0ZWN0b3IoKSwgc2VydmVyKQogICAgc2VydmVyLmFkZF9pbnNlY3VyZV9wb3J0KCdbOjpdOjUwMDUzJykKICAgIHNlcnZlci5zdGFydCgpCiAgICBzdGFydF9odHRwX3NlcnZlcig1MDA2MykKICAgIHNrdV9kZXRlY3Rvcl9jbGllbnQucnVuKCkKICAgIHRyeToKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICB0aW1lLnNsZWVwKF9PTkVfREFZX0lOX1NFQ09ORFMpCiAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgc2VydmVyLnN0b3AoMCkKCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>%s/smart_counter/image_search/g</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>smart_counter</last-search>
+      <last-offset />
+      <last-pattern>smart_counter</last-pattern>
+      <last-replace>image_search</last-replace>
+      <last-substitute>smart_counter</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>update_images</entry>
+        <entry>centrifugo</entry>
+        <entry>smart-counter</entry>
+        <entry>image_search</entry>
+        <entry encoding="base64">XDxTUUxBTENIRU1ZX0RBVEFCQVNFX1VSSVw+</entry>
+        <entry encoding="base64">XDxXRUJfVVNFUl9QQVNTV0RcPg==</entry>
+        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
+        <entry>print</entry>
+        <entry>prometheus</entry>
+        <entry>monitor</entry>
+        <entry>INF</entry>
+        <entry>label_tool</entry>
+        <entry encoding="base64">XDxtb25pdG9yXD4=</entry>
+        <entry>environ</entry>
+        <entry>extract</entry>
+        <entry encoding="base64">XDxleHRyYWN0X2FuZF9jbGFzc2lmeV9iZXN0XD4=</entry>
+        <entry encoding="base64">XDxzdGFydF9odHRwX3NlcnZlclw+</entry>
+        <entry encoding="base64">XDxza3VfZGV0ZWN0b3JcPg==</entry>
+        <entry>smart</entry>
+        <entry>smart_counter</entry>
+      </history-search>
+      <history-cmd>
+        <entry>50,54s/_extract_model/_classifier_model/g</entry>
+        <entry>41</entry>
+        <entry>87</entry>
+        <entry>538</entry>
+        <entry>%s/ctf/sku/g</entry>
+        <entry>39</entry>
+        <entry>%s/smart-counter/sku/g</entry>
+        <entry>%s/smart-counter/sku-grpc/g</entry>
+        <entry>%s/staging-cpu/staging-gpu/g</entry>
+        <entry>%s/sku/sku-detector/g</entry>
+        <entry>%s/centrifugo/service/g</entry>
+        <entry>%s/smart-counter/image-search/g</entry>
+        <entry>%s/smart-counter/image_search/g</entry>
+        <entry>%s/image_search/image-search/g</entry>
+        <entry>157</entry>
+        <entry>%s/label_tool/smart_counter/g</entry>
+        <entry>%s/smart_counter/{{cookiecutter.project_name}}/g</entry>
+        <entry>SP</entry>
+        <entry>sp</entry>
+        <entry>%s/smart_counter/image_search/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
