@@ -62,6 +62,7 @@
         <mark key="^" line="11" column="59" />
       </file>
       <file name="$USER_HOME$/aibee/k11-label/requirements.txt" timestamp="1565348628909" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" timestamp="1565349409626" />
       <file name="$USER_HOME$/aibee/smart_counter/README.md" timestamp="1565251828804">
         <mark key="[" line="99" column="51" />
         <mark key="]" line="100" column="0" />
@@ -100,14 +101,14 @@
         <mark key="^" line="213" column="51" />
         <mark key="." line="213" column="51" />
       </file>
-      <file name="$USER_HOME$/aibee/k11-label/README.md" timestamp="1565348613989" />
+      <file name="$USER_HOME$/aibee/k11-label/README.md" timestamp="1565349504724" />
       <file name="$USER_HOME$/aibee/sku_detector/ghz_detect_all_config.json" timestamp="1565152039719">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/aibee/k11-label/Makefile" timestamp="1565344920728">
+      <file name="$USER_HOME$/aibee/k11-label/Makefile" timestamp="1565350240424">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="33" />
         <mark key="." line="28" column="0" />
@@ -175,7 +176,7 @@
         <mark key="." line="27" column="22" />
         <mark key="^" line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1565263119253" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1565349468111" />
       <file name="$USER_HOME$/aibee/sku_detector/ghz_detect_best_config.json" timestamp="1565152052447">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="19" />
