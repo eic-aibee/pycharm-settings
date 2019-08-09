@@ -3,33 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/aibee/sku/k8s_test/sku-grpc-ingress.yaml" timestamp="1564992293101">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="42" />
-      </file>
       <file name="$USER_HOME$/aibee/k11-label/init_test.sh" timestamp="1565266826149" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/customer_flow.py" timestamp="1565263371243" />
-      <file name="$USER_HOME$/aibee/sku_detector/README.md" timestamp="1565147519371">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="62" column="14" />
-        <mark key="^" line="62" column="14" />
-        <mark key="." line="62" column="14" />
-      </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/k11-label-uUlzxg54/src/humancheck/HumanCheck/GenerateCluster.py" timestamp="1565337225694" />
-      <file name="$USER_HOME$/aibee/sku/sku/utils.py" timestamp="1564992400910">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="14" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku/sku/prometheus/__init__.py" timestamp="1564997897024">
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="4" column="46" />
-        <mark key="." line="4" column="46" />
-        <mark key="^" line="4" column="46" />
-      </file>
       <file name="$USER_HOME$/aibee/k11-label/label/tasks.py" timestamp="1565343731634">
         <mark key="[" line="155" column="79" />
         <mark key="]" line="155" column="79" />
@@ -37,101 +13,17 @@
         <mark key="." line="155" column="79" />
       </file>
       <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/auth.py" timestamp="1565264672212" />
-      <file name="$USER_HOME$/aibee/sku_detector/Makefile" timestamp="1565157911843">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="68" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku_detector/Dockerfile" timestamp="1565148891108">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="17" column="95" />
-        <mark key="." line="17" column="95" />
-        <mark key="^" line="17" column="95" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku_detector/.bumpversion.cfg" timestamp="1564389817522">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="59" />
-        <mark key="." line="7" column="59" />
-        <mark key="^" line="7" column="59" />
-      </file>
-      <file name="$USER_HOME$/aibee/image_search/nginx_prod/flask.conf" timestamp="1564480292997">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="59" />
-        <mark key="." line="11" column="59" />
-        <mark key="^" line="11" column="59" />
-      </file>
       <file name="$USER_HOME$/aibee/k11-label/requirements.txt" timestamp="1565348628909" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" timestamp="1565349409626" />
-      <file name="$USER_HOME$/aibee/smart_counter/README.md" timestamp="1565251828804">
-        <mark key="[" line="99" column="51" />
-        <mark key="]" line="100" column="0" />
-        <mark key="^" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
       <file name="$USER_HOME$/aibee/ctf-api/Dockerfile" timestamp="1565347867736" />
       <file name="$USER_HOME$/aibee/k11-label/start.sh" timestamp="1565267056934" />
-      <file name="$USER_HOME$/aibee/sku/start.sh" timestamp="1565094931042">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/rfid.py" timestamp="1564485089253">
-        <mark key="[" line="159" column="41" />
-        <mark key="]" line="159" column="58" />
-        <mark key="^" line="159" column="58" />
-        <mark key="." line="159" column="58" />
-      </file>
-      <file name="$USER_HOME$/aibee/image_search/image_search/__init__.py" timestamp="1565229231488">
-        <mark key="[" line="78" column="16" />
-        <mark key="]" line="79" column="15" />
-        <mark key="^" line="79" column="15" />
-        <mark key="." line="79" column="15" />
-      </file>
-      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1564973260280">
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="37" column="31" />
-        <mark key="." line="37" column="31" />
-        <mark key="^" line="37" column="31" />
-      </file>
-      <file name="$USER_HOME$/aibee/label-tool/label_tool/api/ctf/transaction_record.py" timestamp="1565090262761">
-        <mark key="[" line="213" column="51" />
-        <mark key="]" line="213" column="51" />
-        <mark key="^" line="213" column="51" />
-        <mark key="." line="213" column="51" />
-      </file>
       <file name="$USER_HOME$/aibee/k11-label/README.md" timestamp="1565349504724" />
-      <file name="$USER_HOME$/aibee/sku_detector/ghz_detect_all_config.json" timestamp="1565152039719">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-      </file>
       <file name="$USER_HOME$/aibee/k11-label/Makefile" timestamp="1565350240424">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="33" />
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/utils.py" timestamp="1565348464642" />
-      <file name="$USER_HOME$/aibee/image_search/start_prod.sh" timestamp="1564479436698">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku_detector/start.sh" timestamp="1564574054496">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/aibee/image_search/init_prod.sh" timestamp="1564539539068">
-        <mark key="[" line="6" column="68" />
-        <mark key="]" line="6" column="83" />
-        <mark key="." line="6" column="83" />
-        <mark key="^" line="6" column="83" />
-      </file>
       <file name="$USER_HOME$/aibee/k11_product_recognition/README.md" timestamp="1565343663135" />
       <file name="$USER_HOME$/aibee/k11-label/label/settings.py" timestamp="1565331224312">
         <mark key="[" line="75" column="15" />
@@ -140,123 +32,10 @@
         <mark key="^" line="75" column="19" />
       </file>
       <file name="$USER_HOME$/aibee/k11-label/label/api/api.py" timestamp="1565266982295" />
-      <file name="$USER_HOME$/aibee/sku/ghz_extract_config.json" timestamp="1565077958578">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="19" />
-        <mark key="^" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1565236039858">
-        <mark key="[" line="99" column="15" />
-        <mark key="]" line="99" column="15" />
-        <mark key="." line="99" column="15" />
-        <mark key="^" line="99" column="15" />
-      </file>
-      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/flask_prometheus/__init__.py" timestamp="1564997154758">
-        <mark key="[" line="36" column="40" />
-        <mark key="]" line="35" column="53" />
-        <mark key="^" line="35" column="53" />
-        <mark key="." line="35" column="53" />
-      </file>
-      <file name="$USER_HOME$/aibee/image_search/.bumpversion.cfg" timestamp="1565168550006">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="9" />
-        <mark key="." line="3" column="9" />
-        <mark key="^" line="3" column="9" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku/ghz_config.json" timestamp="1565071516916">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="25" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku/k8s_test/sku-grpc-deployment.yaml" timestamp="1564565678542">
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="22" />
-        <mark key="." line="27" column="22" />
-        <mark key="^" line="27" column="22" />
-      </file>
       <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1565349468111" />
-      <file name="$USER_HOME$/aibee/sku_detector/ghz_detect_best_config.json" timestamp="1565152052447">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-      </file>
-      <file name="$USER_HOME$/aibee/image_search/nginx_dev/flask.conf" timestamp="1564417781090">
-        <mark key="[" line="11" column="57" />
-        <mark key="]" line="11" column="57" />
-        <mark key="." line="11" column="57" />
-        <mark key="^" line="11" column="43" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku/README.md" timestamp="1565147487569">
-        <mark key="[" line="64" column="54" />
-        <mark key="]" line="66" column="44" />
-        <mark key="." line="66" column="44" />
-        <mark key="^" line="66" column="44" />
-      </file>
-      <file name="$USER_HOME$/aibee/image_search/Dockerfile" timestamp="1565232783449">
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="97" />
-        <mark key="." line="13" column="97" />
-        <mark key="^" line="13" column="97" />
-      </file>
-      <file name="$USER_HOME$/aibee/image_search/start.sh" timestamp="1565229889716">
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-      </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1565348186499" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/config/config.yml" timestamp="1565252386413" />
-      <file name="$USER_HOME$/aibee/cookiecutter-flask/README.md" timestamp="1565244942171">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku/ghz_extract_and_classify_best_config.json" timestamp="1565077971797">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="19" />
-        <mark key="^" line="19" column="19" />
-      </file>
-      <file name="$USER_HOME$/aibee/label-tool/label_tool/api/workload.py" timestamp="1564630512241">
-        <mark key="[" line="702" column="35" />
-        <mark key="]" line="702" column="41" />
-        <mark key="." line="702" column="35" />
-        <mark key="^" line="694" column="40" />
-      </file>
-      <file name="$USER_HOME$/aibee/image_search/init_dev.sh" timestamp="1564574504011">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="47" />
-      </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-service-deployment.yaml" timestamp="1564721474285">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_pb2_grpc.py" timestamp="1564389190005">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/aibee/image_search/start_dev.sh" timestamp="1564465484041">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku/.bumpversion.cfg" timestamp="1564459492648">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="26" />
-      </file>
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/__init__.py" timestamp="1565351695208" />
     </filemarks>
     <jumps>
       <jump line="51" column="15" filename="$USER_HOME$/aibee/crm/crm/config/config.yml" />
