@@ -17,7 +17,7 @@
         <mark key="^" line="62" column="14" />
         <mark key="." line="62" column="14" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/k11-label-uUlzxg54/src/humancheck/HumanCheck/GenerateCluster.py" timestamp="1565264596608" />
+      <file name="$USER_HOME$/.local/share/virtualenvs/k11-label-uUlzxg54/src/humancheck/HumanCheck/GenerateCluster.py" timestamp="1565333431341" />
       <file name="$USER_HOME$/aibee/sku/sku/utils.py" timestamp="1564992400910">
         <mark key="[" line="10" column="56" />
         <mark key="]" line="11" column="14" />
@@ -30,7 +30,7 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/aibee/k11-label/label/tasks.py" timestamp="1565265115695">
+      <file name="$USER_HOME$/aibee/k11-label/label/tasks.py" timestamp="1565333410699">
         <mark key="[" line="215" column="97" />
         <mark key="]" line="215" column="125" />
         <mark key="^" line="215" column="125" />
@@ -61,6 +61,7 @@
         <mark key="." line="11" column="59" />
         <mark key="^" line="11" column="59" />
       </file>
+      <file name="$USER_HOME$/aibee/k11-label/requirements.txt" timestamp="1565332658062" />
       <file name="$USER_HOME$/aibee/smart_counter/README.md" timestamp="1565251828804">
         <mark key="[" line="99" column="51" />
         <mark key="]" line="100" column="0" />
@@ -98,6 +99,7 @@
         <mark key="^" line="213" column="51" />
         <mark key="." line="213" column="51" />
       </file>
+      <file name="$USER_HOME$/aibee/k11-label/README.md" timestamp="1565333352303" />
       <file name="$USER_HOME$/aibee/sku_detector/ghz_detect_all_config.json" timestamp="1565152039719">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="19" />
@@ -127,7 +129,7 @@
         <mark key="." line="6" column="83" />
         <mark key="^" line="6" column="83" />
       </file>
-      <file name="$USER_HOME$/aibee/k11-label/label/settings.py" timestamp="1565264930890">
+      <file name="$USER_HOME$/aibee/k11-label/label/settings.py" timestamp="1565331224312">
         <mark key="[" line="75" column="15" />
         <mark key="]" line="75" column="19" />
         <mark key="." line="75" column="19" />
@@ -397,7 +399,7 @@
         <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>184</text>
       </register>
     </registers>
     <search>
@@ -433,8 +435,6 @@
         <entry>smart_counter</entry>
       </history-search>
       <history-cmd>
-        <entry>50,54s/_extract_model/_classifier_model/g</entry>
-        <entry>41</entry>
         <entry>87</entry>
         <entry>538</entry>
         <entry>%s/ctf/sku/g</entry>
@@ -453,6 +453,8 @@
         <entry>SP</entry>
         <entry>%s/smart_counter/image_search/g</entry>
         <entry>sp</entry>
+        <entry>101</entry>
+        <entry>184</entry>
       </history-cmd>
       <history-expr />
       <history-input />
