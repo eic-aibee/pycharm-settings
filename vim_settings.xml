@@ -30,11 +30,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/aibee/k11-label/label/tasks.py" timestamp="1565341287958">
+      <file name="$USER_HOME$/aibee/k11-label/label/tasks.py" timestamp="1565343731634">
         <mark key="[" line="155" column="79" />
-        <mark key="]" line="155" column="80" />
-        <mark key="^" line="155" column="80" />
-        <mark key="." line="155" column="80" />
+        <mark key="]" line="155" column="79" />
+        <mark key="^" line="155" column="79" />
+        <mark key="." line="155" column="79" />
       </file>
       <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/auth.py" timestamp="1565264672212" />
       <file name="$USER_HOME$/aibee/sku_detector/Makefile" timestamp="1565157911843">
@@ -99,7 +99,7 @@
         <mark key="^" line="213" column="51" />
         <mark key="." line="213" column="51" />
       </file>
-      <file name="$USER_HOME$/aibee/k11-label/README.md" timestamp="1565342905588" />
+      <file name="$USER_HOME$/aibee/k11-label/README.md" timestamp="1565344155290" />
       <file name="$USER_HOME$/aibee/sku_detector/ghz_detect_all_config.json" timestamp="1565152039719">
         <mark key="[" line="11" column="11" />
         <mark key="]" line="11" column="19" />
@@ -129,7 +129,7 @@
         <mark key="." line="6" column="83" />
         <mark key="^" line="6" column="83" />
       </file>
-      <file name="$USER_HOME$/aibee/k11_product_recognition/README.md" timestamp="1565341554932" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/README.md" timestamp="1565343663135" />
       <file name="$USER_HOME$/aibee/k11-label/label/settings.py" timestamp="1565331224312">
         <mark key="[" line="75" column="15" />
         <mark key="]" line="75" column="19" />
@@ -358,10 +358,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>smart_counter</text>
