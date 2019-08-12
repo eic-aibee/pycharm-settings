@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/aibee/k11-label/init_test.sh" timestamp="1565266826149" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/customer_flow.py" timestamp="1565263371243" />
       <file name="$USER_HOME$/.local/share/virtualenvs/k11-label-uUlzxg54/src/humancheck/HumanCheck/GenerateCluster.py" timestamp="1565337225694" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/init_baiduyun.sh" timestamp="1565581154265" />
       <file name="$USER_HOME$/aibee/k11-label/label/tasks.py" timestamp="1565343731634">
         <mark key="[" line="155" column="79" />
         <mark key="]" line="155" column="79" />
@@ -24,7 +25,7 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/utils.py" timestamp="1565348464642" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/README.md" timestamp="1565343663135" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/README.md" timestamp="1565578147113" />
       <file name="$USER_HOME$/aibee/k11-label/label/settings.py" timestamp="1565331224312">
         <mark key="[" line="75" column="15" />
         <mark key="]" line="75" column="19" />
@@ -32,9 +33,10 @@
         <mark key="^" line="75" column="19" />
       </file>
       <file name="$USER_HOME$/aibee/k11-label/label/api/api.py" timestamp="1565266982295" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1565354744921" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1565579107644" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1565348186499" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/config/config.yml" timestamp="1565252386413" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1565580792601" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/__init__.py" timestamp="1565351695208" />
     </filemarks>
     <jumps>
@@ -183,7 +185,7 @@
         <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name=":" type="4">
-        <text>48</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
@@ -234,11 +236,11 @@
         <entry>%s/smart_counter/{{cookiecutter.project_name}}/g</entry>
         <entry>SP</entry>
         <entry>%s/smart_counter/image_search/g</entry>
-        <entry>sp</entry>
         <entry>101</entry>
         <entry>184</entry>
         <entry>251</entry>
         <entry>48</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
