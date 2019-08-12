@@ -10,10 +10,21 @@
         <mark key="." line="155" column="79" />
       </file>
       <file name="$USER_HOME$/aibee/k11-label/README.md" timestamp="1565592296145" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/__init__.py" timestamp="1565593550952">
+        <mark key="[" line="75" column="4" />
+        <mark key="]" line="76" column="14" />
+        <mark key="^" line="76" column="14" />
+        <mark key="." line="76" column="14" />
+      </file>
       <file name="$USER_HOME$/aibee/k11-label/Makefile" timestamp="1565590652717">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="33" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/aibee/k11_product_recognition/requirements.txt" timestamp="1565593861823">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/k11-label/label/settings.py" timestamp="1565592258628">
         <mark key="[" line="75" column="15" />
@@ -22,10 +33,18 @@
         <mark key="^" line="75" column="19" />
       </file>
       <file name="$USER_HOME$/aibee/k11_product_recognition/init_baiduyun.sh" timestamp="1565590227776" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1565591340766" />
+      <file name="$USER_HOME$/aibee/ctf-api/requirements.txt" timestamp="1565593355027">
+        <mark key="'" line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/aibee/ctf-api/ctf/__init__.py" timestamp="1565593292447" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1565593702194">
+        <mark key="[" line="233" column="18" />
+        <mark key="]" line="233" column="75" />
+        <mark key="^" line="233" column="75" />
+        <mark key="." line="233" column="75" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="15" filename="$USER_HOME$/aibee/crm/crm/config/config.yml" />
       <jump line="69" column="21" filename="$USER_HOME$/aibee/crm/crm/config/config.yml" />
       <jump line="72" column="22" filename="$USER_HOME$/aibee/crm/crm/config/config.yml" />
       <jump line="491" column="33" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
@@ -125,58 +144,59 @@
       <jump line="37" column="56" filename="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" />
       <jump line="42" column="12" filename="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" />
       <jump line="31" column="0" filename="$USER_HOME$/aibee/image_search/image_search/prometheus/__init__.py" />
+      <jump line="16" column="12" filename="$USER_HOME$/aibee/ctf-api/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YmNlLXB5dGhvbi1zZGs9PTAuOC4yNAo=</text>
       </register>
       <register name="-" type="4">
         <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>smart_counter</text>
+        <text>sentry</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWt1YmVjdGwgY29uZmlnIHVzZS1jb250ZXh0IGd6Cg==</text>
+        <text encoding="base64">ICAgIFNFTlRSWV9EU04gPSAnJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIElTX1RFU1QgPSBUcnVlCg==</text>
+        <text encoding="base64">YmNlLXB5dGhvbi1zZGs9PTAuOC4yNAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSBwaXBlbnYK</text>
+        <text encoding="base64">LWUgZ2l0K2h0dHA6Ly9wemhhbmc6JCVeYWJjMTIzQGdpdGxhYi5haWJlZS5jbi96a3dhbmcvUHJvZHVjdFNlYXJjaC5naXRAOGU0MjJjODg4ZmYyY2VjNDUzNWI1YTcxNjAyMzU3NWRhZmM0MzdkNCNlZ2c9UHJvZHVjdFNlYXJjaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB3ZXJremV1Zy53c2dpIGltcG9ydCBEaXNwYXRjaGVyTWlkZGxld2FyZQpmcm9tIHByb21ldGhldXNfY2xpZW50IGltcG9ydCBtYWtlX3dzZ2lfYXBwCg==</text>
+        <text encoding="base64">ICAgIElTX1RFU1QgPSBUcnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJvbWV0aGV1c19hcHAgPSBtYWtlX3dzZ2lfYXBwKCkKICAgICMgYXBwLndzZ2lfYXBwID0gRGlzcGF0Y2hlck1pZGRsZXdhcmUoYXBwLndzZ2lfYXBwLCB7CiAgICAjICAgICBwYXRoOiBwcm9tZXRoZXVzX2FwcAogICAgIyB9KQo=</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSBwaXBlbnYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJib3giOiBbIDE0Ni4zMTc1MDQ4ODI4MTI1LAogICAgICAyNzcuMDk5NzkyNDgwNDY4NzUsCiAgICAgIDUxMS43NDQ5MzQwODIwMzEyNSwKICAgICAgNjg0LjE1MDgxNzg3MTA5MzgsCiAgICAgIDQuMCwKICAgICAgMC45OTkzNDg1ODA4MzcyNDk4CiAgICBdCg==</text>
+        <text encoding="base64">ZnJvbSB3ZXJremV1Zy53c2dpIGltcG9ydCBEaXNwYXRjaGVyTWlkZGxld2FyZQpmcm9tIHByb21ldGhldXNfY2xpZW50IGltcG9ydCBtYWtlX3dzZ2lfYXBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGV4dHJhY3Qoc2VsZiwgcmVxdWVzdCwgY29udGV4dCk6CiAgICAjICAgICByZXR1cm4gW1swLCAwLCAxLCAyLCAxLCAwLjU0XSwgWzAuNCwgMSwgMS41LCA0LCAyLCAwLjk5XSwgWzEsIDEsIDIuMiwgMy4zLCAxLCAwLjk4XSwgWzAsIDAsIDEsIDEsIDIsIDAuMV1dCiAgICAjIG1vZGVsID0gc2VsZi5fX2NsYXNzX18uZ2V0X29yX2NyZWF0ZV9tb2RlbCgpCiAgICAjIHJlc3BvbnNlID0gbW9kZWwuZXh0cmFjdChyZXF1ZXN0LmltYWdlX2Jhc2U2NCkKICAgICMgcmV0dXJuIHNrdV9kZXRlY3Rvcl9wYjIuRGV0ZWN0b3JSZXBseShmZWF0dXJlPXJlc3BvbnNlKQoK</text>
+        <text encoding="base64">ICAgICMgcHJvbWV0aGV1c19hcHAgPSBtYWtlX3dzZ2lfYXBwKCkKICAgICMgYXBwLndzZ2lfYXBwID0gRGlzcGF0Y2hlck1pZGRsZXdhcmUoYXBwLndzZ2lfYXBwLCB7CiAgICAjICAgICBwYXRoOiBwcm9tZXRoZXVzX2FwcAogICAgIyB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHNlcnZlKCk6CiAgICAjIOagueaNruS4jeWQjOeahOeOr+Wig+WPmOmHj+iuvue9ruS4jeWQjOeahOWAvCwg6buY6K6k5pivTE9DQUwKICAgIGVudiA9IG9zLmVudmlyb24uZ2V0KCdFTlYnLCAnTE9DQUwnKQogICAgaWYgZW52ID09ICdMT0NBTCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCIiKQogICAgZWxpZiBlbnYgPT0gJ0RFVic6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzk1ODgwNjMyN2FiMTQ4YTc5NGU5MDNiNzgwNzZmYmQ0OmMzZGE1NzZkNTFmYzQzYjRiNjk3NjlkZWRlMzgxODgxQHRqLXNlbnRyeS5haWJlZS5jbi8xcyIpCiAgICBlbGlmIGVudiA9PSAnVEVTVCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzcwODQzN2JjMzcwMDQ2YmE5MzkyM2ZmYjk5MzIxOTc2OjRjNTVkM2YzM2Y0MDQ5ODI5YWY2ODEzM2JlNDMxMTUzQHRqLXNlbnRyeS5haWJlZS5jbi8xNCIpCiAgICBlbGlmIGVudiA9PSAnUFJPRCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCJodHRwOi8vMzRiOTA5YWY4OGYxNDhhODhlNGI2Mzc2MDY5YTU4ZDBAc2VudHJ5LmFpYmVlLmNuLzEzIikKCiAgICBNQVhfTUVTU0FHRV9MRU5HVEggPSA0MTk0MzA0MAogICAgc2VydmVyID0gZ3JwYy5zZXJ2ZXIodGhyZWFkX3Bvb2w9ZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9MSksCiAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zPVsoJ2dycGMubWF4X3NlbmRfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpLCAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dycGMubWF4X3JlY2VpdmVfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpXSwKICAgICAgICAgICAgICAgICAgICAgICAgIGludGVyY2VwdG9ycz0oUHJvbVNlcnZlckludGVyY2VwdG9yKCksKSkKICAgIHNrdV9kZXRlY3Rvcl9wYjJfZ3JwYy5hZGRfU2t1RGV0ZWN0b3JTZXJ2aWNlcl90b19zZXJ2ZXIoU2t1RGV0ZWN0b3IoKSwgc2VydmVyKQogICAgc2VydmVyLmFkZF9pbnNlY3VyZV9wb3J0KCdbOjpdOjUwMDUzJykKICAgIHNlcnZlci5zdGFydCgpCiAgICBzdGFydF9odHRwX3NlcnZlcig1MDA2MykKICAgIHNrdV9kZXRlY3Rvcl9jbGllbnQucnVuKCkKICAgIHRyeToKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICB0aW1lLnNsZWVwKF9PTkVfREFZX0lOX1NFQ09ORFMpCiAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgc2VydmVyLnN0b3AoMCkKCgo=</text>
+        <text encoding="base64">ICAgICJib3giOiBbIDE0Ni4zMTc1MDQ4ODI4MTI1LAogICAgICAyNzcuMDk5NzkyNDgwNDY4NzUsCiAgICAgIDUxMS43NDQ5MzQwODIwMzEyNSwKICAgICAgNjg0LjE1MDgxNzg3MTA5MzgsCiAgICAgIDQuMCwKICAgICAgMC45OTkzNDg1ODA4MzcyNDk4CiAgICBdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGVmIGV4dHJhY3Qoc2VsZiwgcmVxdWVzdCwgY29udGV4dCk6CiAgICAjICAgICByZXR1cm4gW1swLCAwLCAxLCAyLCAxLCAwLjU0XSwgWzAuNCwgMSwgMS41LCA0LCAyLCAwLjk5XSwgWzEsIDEsIDIuMiwgMy4zLCAxLCAwLjk4XSwgWzAsIDAsIDEsIDEsIDIsIDAuMV1dCiAgICAjIG1vZGVsID0gc2VsZi5fX2NsYXNzX18uZ2V0X29yX2NyZWF0ZV9tb2RlbCgpCiAgICAjIHJlc3BvbnNlID0gbW9kZWwuZXh0cmFjdChyZXF1ZXN0LmltYWdlX2Jhc2U2NCkKICAgICMgcmV0dXJuIHNrdV9kZXRlY3Rvcl9wYjIuRGV0ZWN0b3JSZXBseShmZWF0dXJlPXJlc3BvbnNlKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+        <text encoding="base64">ZGVmIHNlcnZlKCk6CiAgICAjIOagueaNruS4jeWQjOeahOeOr+Wig+WPmOmHj+iuvue9ruS4jeWQjOeahOWAvCwg6buY6K6k5pivTE9DQUwKICAgIGVudiA9IG9zLmVudmlyb24uZ2V0KCdFTlYnLCAnTE9DQUwnKQogICAgaWYgZW52ID09ICdMT0NBTCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCIiKQogICAgZWxpZiBlbnYgPT0gJ0RFVic6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzk1ODgwNjMyN2FiMTQ4YTc5NGU5MDNiNzgwNzZmYmQ0OmMzZGE1NzZkNTFmYzQzYjRiNjk3NjlkZWRlMzgxODgxQHRqLXNlbnRyeS5haWJlZS5jbi8xcyIpCiAgICBlbGlmIGVudiA9PSAnVEVTVCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzcwODQzN2JjMzcwMDQ2YmE5MzkyM2ZmYjk5MzIxOTc2OjRjNTVkM2YzM2Y0MDQ5ODI5YWY2ODEzM2JlNDMxMTUzQHRqLXNlbnRyeS5haWJlZS5jbi8xNCIpCiAgICBlbGlmIGVudiA9PSAnUFJPRCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCJodHRwOi8vMzRiOTA5YWY4OGYxNDhhODhlNGI2Mzc2MDY5YTU4ZDBAc2VudHJ5LmFpYmVlLmNuLzEzIikKCiAgICBNQVhfTUVTU0FHRV9MRU5HVEggPSA0MTk0MzA0MAogICAgc2VydmVyID0gZ3JwYy5zZXJ2ZXIodGhyZWFkX3Bvb2w9ZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9MSksCiAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zPVsoJ2dycGMubWF4X3NlbmRfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpLCAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dycGMubWF4X3JlY2VpdmVfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpXSwKICAgICAgICAgICAgICAgICAgICAgICAgIGludGVyY2VwdG9ycz0oUHJvbVNlcnZlckludGVyY2VwdG9yKCksKSkKICAgIHNrdV9kZXRlY3Rvcl9wYjJfZ3JwYy5hZGRfU2t1RGV0ZWN0b3JTZXJ2aWNlcl90b19zZXJ2ZXIoU2t1RGV0ZWN0b3IoKSwgc2VydmVyKQogICAgc2VydmVyLmFkZF9pbnNlY3VyZV9wb3J0KCdbOjpdOjUwMDUzJykKICAgIHNlcnZlci5zdGFydCgpCiAgICBzdGFydF9odHRwX3NlcnZlcig1MDA2MykKICAgIHNrdV9kZXRlY3Rvcl9jbGllbnQucnVuKCkKICAgIHRyeToKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICB0aW1lLnNsZWVwKF9PTkVfREFZX0lOX1NFQ09ORFMpCiAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgc2VydmVyLnN0b3AoMCkKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>smart_counter</last-search>
+      <last-search>sentry</last-search>
       <last-offset />
-      <last-pattern>smart_counter</last-pattern>
+      <last-pattern>sentry</last-pattern>
       <last-replace>image_search</last-replace>
       <last-substitute>smart_counter</last-substitute>
       <last-dir>1</last-dir>
@@ -184,7 +204,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update_images</entry>
         <entry>centrifugo</entry>
         <entry>smart-counter</entry>
         <entry>image_search</entry>
@@ -204,6 +223,7 @@
         <entry encoding="base64">XDxza3VfZGV0ZWN0b3JcPg==</entry>
         <entry>smart</entry>
         <entry>smart_counter</entry>
+        <entry>sentry</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ctf/sku/g</entry>
