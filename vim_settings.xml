@@ -3,6 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/aibee/k11-label/label/settings.py" timestamp="1565592258628">
+        <mark key="[" line="75" column="15" />
+        <mark key="]" line="75" column="19" />
+        <mark key="." line="75" column="19" />
+        <mark key="^" line="75" column="19" />
+      </file>
+      <file name="$USER_HOME$/aibee/k11_product_recognition/init_baiduyun.sh" timestamp="1565590227776" />
+      <file name="$USER_HOME$/aibee/smart_counter/Makefile" timestamp="1565676526980" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1565593702194">
+        <mark key="[" line="233" column="18" />
+        <mark key="]" line="233" column="75" />
+        <mark key="^" line="233" column="75" />
+        <mark key="." line="233" column="75" />
+      </file>
       <file name="$USER_HOME$/aibee/k11-label/label/tasks.py" timestamp="1565343731634">
         <mark key="[" line="155" column="79" />
         <mark key="]" line="155" column="79" />
@@ -27,24 +41,11 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/utils.py" timestamp="1565594427671" />
-      <file name="$USER_HOME$/aibee/k11-label/label/settings.py" timestamp="1565592258628">
-        <mark key="[" line="75" column="15" />
-        <mark key="]" line="75" column="19" />
-        <mark key="." line="75" column="19" />
-        <mark key="^" line="75" column="19" />
-      </file>
       <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1565595774765" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/init_baiduyun.sh" timestamp="1565590227776" />
       <file name="$USER_HOME$/aibee/ctf-api/requirements.txt" timestamp="1565593355027">
         <mark key="'" line="16" column="12" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/__init__.py" timestamp="1565593292447" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1565593702194">
-        <mark key="[" line="233" column="18" />
-        <mark key="]" line="233" column="75" />
-        <mark key="^" line="233" column="75" />
-        <mark key="." line="233" column="75" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="69" column="21" filename="$USER_HOME$/aibee/crm/crm/config/config.yml" />
