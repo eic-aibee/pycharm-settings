@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/aibee/k11_product_recognition/README.md" timestamp="1565752865259">
+        <mark key="^" line="4" column="32" />
+      </file>
       <file name="$USER_HOME$/aibee/k11-label/label/settings.py" timestamp="1565592258628">
         <mark key="[" line="75" column="15" />
         <mark key="]" line="75" column="19" />
@@ -12,26 +15,20 @@
       <file name="$USER_HOME$/aibee/k11_product_recognition/init_baiduyun.sh" timestamp="1565590227776" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/config/config.yml" timestamp="1565682548254" />
       <file name="$USER_HOME$/aibee/smart_counter/Makefile" timestamp="1565676526980" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1565751749978">
-        <mark key="[" line="233" column="18" />
-        <mark key="]" line="233" column="75" />
-        <mark key="^" line="233" column="75" />
-        <mark key="." line="233" column="75" />
-      </file>
       <file name="$USER_HOME$/aibee/k11-label/label/tasks.py" timestamp="1565343731634">
         <mark key="[" line="155" column="79" />
         <mark key="]" line="155" column="79" />
         <mark key="^" line="155" column="79" />
         <mark key="." line="155" column="79" />
       </file>
-      <file name="$USER_HOME$/aibee/k11-label/README.md" timestamp="1565592296145" />
+      <file name="$USER_HOME$/aibee/k11-label/README.md" timestamp="1565752912439" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/__init__.py" timestamp="1565593550952">
         <mark key="[" line="75" column="4" />
         <mark key="]" line="76" column="14" />
         <mark key="^" line="76" column="14" />
         <mark key="." line="76" column="14" />
       </file>
-      <file name="$USER_HOME$/aibee/k11-label/Makefile" timestamp="1565590652717">
+      <file name="$USER_HOME$/aibee/k11-label/Makefile" timestamp="1565753096589">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="33" />
         <mark key="." line="28" column="0" />
@@ -42,7 +39,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/utils.py" timestamp="1565594427671" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1565595774765" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1565752798868" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/models/setting.py" timestamp="1565701084974" />
       <file name="$USER_HOME$/aibee/ctf-api/requirements.txt" timestamp="1565593355027">
         <mark key="'" line="16" column="12" />
@@ -152,11 +149,11 @@
       <jump line="16" column="12" filename="$USER_HOME$/aibee/ctf-api/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YmNlLXB5dGhvbi1zZGs9PTAuOC4yNAo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>sentry</text>
