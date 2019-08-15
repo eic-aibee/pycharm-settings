@@ -3,25 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/aibee/crm/crm/api/face_order.py" timestamp="1565838178621" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/err.py" timestamp="1565862359501" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/COMMAND.py" timestamp="1565862826332" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/util.py" timestamp="1565862755531" />
       <file name="$USER_HOME$/aibee/sku/周大福珠宝图片分类器接口.md" timestamp="1565839106129" />
       <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1565839742594" />
-      <file name="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" timestamp="1565857712740" />
-      <file name="$USER_HOME$/aibee/crm/crm/api/face_order.py" timestamp="1565838178621" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" timestamp="1565861954126">
+        <mark key="'" line="331" column="13" />
+      </file>
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/converters.py" timestamp="1565861906906" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/FLAG.py" timestamp="1565862934250" />
       <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1565838812571" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/connections.py" timestamp="1565859272050" />
     </filemarks>
     <jumps>
-      <jump line="69" column="21" filename="$USER_HOME$/aibee/crm/crm/config/config.yml" />
-      <jump line="72" column="22" filename="$USER_HOME$/aibee/crm/crm/config/config.yml" />
-      <jump line="491" column="33" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
-      <jump line="33" column="66" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
-      <jump line="157" column="5" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
-      <jump line="241" column="5" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
-      <jump line="348" column="5" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/sku.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" />
-      <jump line="1136" column="15" filename="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/product_uploaded.py" />
-      <jump line="18" column="14" filename="$USER_HOME$/aibee/k11_product_recognition/k8s_test/k11-product-recognition-service-schedule-deployment.yaml" />
-      <jump line="23" column="0" filename="$USER_HOME$/aibee/k11_product_recognition/Dockerfile" />
-      <jump line="25" column="3" filename="$USER_HOME$/aibee/k11_product_recognition/Dockerfile" />
       <jump line="27" column="4" filename="$USER_HOME$/aibee/k11_product_recognition/Dockerfile" />
       <jump line="18" column="0" filename="$USER_HOME$/aibee/proxy/nginx/flask.conf" />
       <jump line="8" column="9" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
@@ -110,6 +106,18 @@
       <jump line="42" column="12" filename="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" />
       <jump line="31" column="0" filename="$USER_HOME$/aibee/image_search/image_search/prometheus/__init__.py" />
       <jump line="16" column="12" filename="$USER_HOME$/aibee/ctf-api/requirements.txt" />
+      <jump line="44" column="13" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="275" column="60" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="277" column="22" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="284" column="16" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="287" column="22" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="288" column="43" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="294" column="16" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="297" column="26" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="299" column="26" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="300" column="34" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="312" column="34" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="331" column="13" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -119,7 +127,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>sentry</text>
+        <text encoding="base64">XDxfcm93c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFNFTlRSWV9EU04gPSAnJwo=</text>
@@ -159,9 +167,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sentry</last-search>
+      <last-search encoding="base64">XDxfcm93c1w+</last-search>
       <last-offset />
-      <last-pattern>sentry</last-pattern>
+      <last-pattern encoding="base64">XDxfcm93c1w+</last-pattern>
       <last-replace>image_search</last-replace>
       <last-substitute>smart_counter</last-substitute>
       <last-dir>1</last-dir>
@@ -169,7 +177,6 @@
     </search>
     <history>
       <history-search>
-        <entry>centrifugo</entry>
         <entry>smart-counter</entry>
         <entry>image_search</entry>
         <entry encoding="base64">XDxTUUxBTENIRU1ZX0RBVEFCQVNFX1VSSVw+</entry>
@@ -189,6 +196,7 @@
         <entry>smart</entry>
         <entry>smart_counter</entry>
         <entry>sentry</entry>
+        <entry encoding="base64">XDxfcm93c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ctf/sku/g</entry>
