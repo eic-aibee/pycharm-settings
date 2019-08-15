@@ -3,9 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/github/flask-login/flask_login/login_manager.py" timestamp="1565870176741" />
       <file name="$USER_HOME$/aibee/crm/crm/api/face_order.py" timestamp="1565838178621" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/protocol.py" timestamp="1565868042088" />
+      <file name="$USER_HOME$/aibee/smart_counter/Pipfile" timestamp="1565870031721" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/tests/test_cursor.py" timestamp="1565869798359" />
+      <file name="$USER_HOME$/github/flask-login/flask_login/utils.py" timestamp="1565870200210" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/err.py" timestamp="1565862359501" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/COMMAND.py" timestamp="1565862826332" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/__init__.py" timestamp="1565868141151" />
@@ -15,11 +18,13 @@
       <file name="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" timestamp="1565861954126">
         <mark key="'" line="331" column="13" />
       </file>
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/rpc/bos_service.py" timestamp="1565869964663" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/converters.py" timestamp="1565861906906" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/FLAG.py" timestamp="1565862934250" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/tests/base.py" timestamp="1565869628204" />
       <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1565838812571" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/connections.py" timestamp="1565868083526" />
+      <file name="$USER_HOME$/github/flask-login/install_requirements.py" timestamp="1565870307806" />
     </filemarks>
     <jumps>
       <jump line="27" column="4" filename="$USER_HOME$/aibee/k11_product_recognition/Dockerfile" />
