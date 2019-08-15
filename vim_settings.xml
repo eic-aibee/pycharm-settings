@@ -5,6 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/aibee/crm/crm/api/face_order.py" timestamp="1565838178621" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/protocol.py" timestamp="1565868042088" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/tests/test_cursor.py" timestamp="1565869798359" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/err.py" timestamp="1565862359501" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/COMMAND.py" timestamp="1565862826332" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/__init__.py" timestamp="1565868141151" />
@@ -16,6 +17,7 @@
       </file>
       <file name="$USER_HOME$/github/PyMySQL/pymysql/converters.py" timestamp="1565861906906" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/FLAG.py" timestamp="1565862934250" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/tests/base.py" timestamp="1565869628204" />
       <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1565838812571" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/connections.py" timestamp="1565868083526" />
     </filemarks>
