@@ -8,17 +8,22 @@
       <file name="$USER_HOME$/github/PyMySQL/pymysql/protocol.py" timestamp="1565868042088" />
       <file name="$USER_HOME$/github/flask-login/flask_login/utils.py" timestamp="1565922808229" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/COMMAND.py" timestamp="1565862826332" />
+      <file name="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/Pipfile" timestamp="1565926958615" />
       <file name="$USER_HOME$/aibee/sku/周大福珠宝图片分类器接口.md" timestamp="1565839106129" />
-      <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1565925951552" />
+      <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1565926493775" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/FLAG.py" timestamp="1565862934250" />
       <file name="$USER_HOME$/github/flask-login/flask_login/_compat.py" timestamp="1565873961701" />
+      <file name="$USER_HOME$/aibee/sku/requirements.txt" timestamp="1565926697458" />
       <file name="$USER_HOME$/github/flask-login/flask_login/config.py" timestamp="1565924134631" />
-      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1565926176982" />
+      <file name="$USER_HOME$/aibee/sku/docker-compose.yml" timestamp="1565926548037" />
+      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1565926456450" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/connections.py" timestamp="1565868083526" />
       <file name="$USER_HOME$/github/flask-login/flask_login/mixins.py" timestamp="1565874912574" />
       <file name="$USER_HOME$/github/flask-login/setup.py" timestamp="1565873728555" />
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/cookiecutter.json" timestamp="1565927087017" />
       <file name="$USER_HOME$/github/flask-login/test_login.py" timestamp="1565924500195" />
       <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/extensions.py" timestamp="1565926185847" />
+      <file name="$USER_HOME$/aibee/sku/k8s_test/sku-grpc-service.yaml" timestamp="1565926518095" />
       <file name="$USER_HOME$/aibee/crm/crm/api/face_order.py" timestamp="1565838178621" />
       <file name="$USER_HOME$/aibee/smart_counter/Pipfile" timestamp="1565925741914" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/tests/test_cursor.py" timestamp="1565869798359" />
@@ -28,6 +33,7 @@
       <file name="$USER_HOME$/github/flask-login/venv/lib/python2.7/site-packages/flask/app.py" timestamp="1565875922593" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/rpc/bos_service.py" timestamp="1565869964663" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/converters.py" timestamp="1565861906906" />
+      <file name="$USER_HOME$/aibee/sku/Pipfile.lock" timestamp="1565926607220" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/tests/base.py" timestamp="1565869628204" />
       <file name="$USER_HOME$/github/flask-login/install_requirements.py" timestamp="1565870307806" />
     </filemarks>
