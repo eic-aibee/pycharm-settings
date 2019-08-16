@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2011</Count>
+          <Count>2013</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -214,7 +214,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>150</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Black'">
@@ -1679,6 +1679,14 @@
           <ShortCut>'⌥U'</ShortCut>
           <Description>Upload to gpu018</Description>
           <Count>78</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Upload to gpu018.aibee.cn">
+        <Item>
+          <IdeaActionID>PublishGroup.Upload</IdeaActionID>
+          <ShortCut>'⌥U'</ShortCut>
+          <Description>Upload to gpu018.aibee.cn</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to idc_237">
