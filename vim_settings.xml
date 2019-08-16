@@ -3,42 +3,79 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/github/flask-login/flask_login/test_client.py" timestamp="1565875003733" />
       <file name="$USER_HOME$/github/flask-login/flask_login/login_manager.py" timestamp="1565924021158" />
-      <file name="$USER_HOME$/github/PyMySQL/pymysql/protocol.py" timestamp="1565868042088" />
-      <file name="$USER_HOME$/github/flask-login/flask_login/utils.py" timestamp="1565922808229" />
+      <file name="/a.dummy" timestamp="1565934816590">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/aibee/bosideng_sku/Pipfile" timestamp="1565935728556" />
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/sku_client.py" timestamp="1565934793547">
+        <mark key="[" line="51" column="26" />
+        <mark key="]" line="51" column="26" />
+        <mark key="." line="51" column="26" />
+      </file>
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/protos/example.proto" timestamp="1565935458371">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/COMMAND.py" timestamp="1565862826332" />
       <file name="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/Pipfile" timestamp="1565926958615" />
       <file name="$USER_HOME$/aibee/sku/周大福珠宝图片分类器接口.md" timestamp="1565839106129" />
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/.bumpversion.cfg" timestamp="1565935217210">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/Pipfile" timestamp="1565935673996">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/Makefile" timestamp="1565935398172">
+        <mark key="'" line="32" column="58" />
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1565926456450" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/connections.py" timestamp="1565868083526" />
+      <file name="$USER_HOME$/github/flask-login/setup.py" timestamp="1565873728555" />
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/docker-compose-example.yml" timestamp="1565935059300" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/extensions.py" timestamp="1565926185847" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/__init__.py" timestamp="1565868141151" />
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/start_example.sh" timestamp="1565935008021" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/tests/base.py" timestamp="1565869628204" />
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/README.md" timestamp="1565935537829" />
+      <file name="$USER_HOME$/github/flask-login/install_requirements.py" timestamp="1565870307806" />
+      <file name="$USER_HOME$/github/flask-login/flask_login/test_client.py" timestamp="1565875003733" />
+      <file name="$USER_HOME$/github/PyMySQL/pymysql/protocol.py" timestamp="1565868042088" />
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/example_server.py" timestamp="1565934838218" />
+      <file name="$USER_HOME$/github/flask-login/flask_login/utils.py" timestamp="1565922808229" />
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/start.sh" timestamp="1565934992226" />
       <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1565926493775" />
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/k8s_test/example-grpc-service.yaml" timestamp="1565934740719" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/FLAG.py" timestamp="1565862934250" />
       <file name="$USER_HOME$/github/flask-login/flask_login/_compat.py" timestamp="1565873961701" />
       <file name="$USER_HOME$/aibee/sku/requirements.txt" timestamp="1565926697458" />
       <file name="$USER_HOME$/github/flask-login/flask_login/config.py" timestamp="1565924134631" />
       <file name="$USER_HOME$/aibee/sku/docker-compose.yml" timestamp="1565926548037" />
-      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1565926456450" />
-      <file name="$USER_HOME$/github/PyMySQL/pymysql/connections.py" timestamp="1565868083526" />
       <file name="$USER_HOME$/github/flask-login/flask_login/mixins.py" timestamp="1565874912574" />
-      <file name="$USER_HOME$/github/flask-login/setup.py" timestamp="1565873728555" />
       <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/cookiecutter.json" timestamp="1565927087017" />
       <file name="$USER_HOME$/github/flask-login/test_login.py" timestamp="1565924500195" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/extensions.py" timestamp="1565926185847" />
       <file name="$USER_HOME$/aibee/sku/k8s_test/sku-grpc-service.yaml" timestamp="1565926518095" />
       <file name="$USER_HOME$/aibee/crm/crm/api/face_order.py" timestamp="1565838178621" />
       <file name="$USER_HOME$/aibee/smart_counter/Pipfile" timestamp="1565925741914" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/tests/test_cursor.py" timestamp="1565869798359" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/err.py" timestamp="1565862359501" />
-      <file name="$USER_HOME$/github/PyMySQL/pymysql/__init__.py" timestamp="1565868141151" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/util.py" timestamp="1565862755531" />
       <file name="$USER_HOME$/github/flask-login/venv/lib/python2.7/site-packages/flask/app.py" timestamp="1565875922593" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/rpc/bos_service.py" timestamp="1565869964663" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/converters.py" timestamp="1565861906906" />
       <file name="$USER_HOME$/aibee/sku/Pipfile.lock" timestamp="1565926607220" />
-      <file name="$USER_HOME$/github/PyMySQL/pymysql/tests/base.py" timestamp="1565869628204" />
-      <file name="$USER_HOME$/github/flask-login/install_requirements.py" timestamp="1565870307806" />
     </filemarks>
     <jumps>
-      <jump line="27" column="4" filename="$USER_HOME$/aibee/k11_product_recognition/Dockerfile" />
       <jump line="18" column="0" filename="$USER_HOME$/aibee/proxy/nginx/flask.conf" />
       <jump line="8" column="9" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
       <jump line="297" column="9" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
@@ -138,66 +175,66 @@
       <jump line="300" column="34" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
       <jump line="312" column="34" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
       <jump line="331" column="13" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
+      <jump line="31" column="58" filename="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>REMEMBER_COOKIE_NAME</text>
+        <text>sku</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNFTlRSWV9EU04gPSAnJwo=</text>
+        <text encoding="base64">I3RvZG8gY2hhbmdlIGl0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YmNlLXB5dGhvbi1zZGs9PTAuOC4yNAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LWUgZ2l0K2h0dHA6Ly9wemhhbmc6JCVeYWJjMTIzQGdpdGxhYi5haWJlZS5jbi96a3dhbmcvUHJvZHVjdFNlYXJjaC5naXRAOGU0MjJjODg4ZmYyY2VjNDUzNWI1YTcxNjAyMzU3NWRhZmM0MzdkNCNlZ2c9UHJvZHVjdFNlYXJjaAo=</text>
+        <text encoding="base64">W2J1bXB2ZXJzaW9uOmZpbGU6azhzX3Rlc3Qvc2t1LWdycGMtZGVwbG95bWVudC55YW1sXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIElTX1RFU1QgPSBUcnVlCg==</text>
+        <text encoding="base64">I3RvZG8gY2hhbmdlIGl0CltidW1wdmVyc2lvbjpmaWxlOms4c190ZXN0L3NrdS1ncnBjLWRlcGxveW1lbnQueWFtbF0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSBwaXBlbnYK</text>
+        <text encoding="base64">Ly8KLy9tZXNzYWdlIENsYXNzaWZ5UmVxdWVzdCB7Ci8vICAgIOWbvueJh+eahGJhc2U2NOe8lueggQovLyAgICBzdHJpbmcgaW1hZ2VfYmFzZTY0ID0gMTsKLy8gICAgc3RyaW5nIGJveCA9IDI7IC8v5Y+v6YCJ5pyJ5qGG5oiW6ICF5rKh5qGGCi8vfQovLwovL21lc3NhZ2UgQ2xhc3NpZnlCZXN0UmVwbHkgewovLyAgICByZXBlYXRlZCBzdHJpbmcgY2xhc3NlcyA9IDE7Ci8vfQoKLy9tZXNzYWdlIENsYXNzaWZ5QWxsUmVwbHkgewovLyAgICBzdHJpbmcgY2xhc3MgPSAxOwovL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB3ZXJremV1Zy53c2dpIGltcG9ydCBEaXNwYXRjaGVyTWlkZGxld2FyZQpmcm9tIHByb21ldGhldXNfY2xpZW50IGltcG9ydCBtYWtlX3dzZ2lfYXBwCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHJwYyBjbGFzc2lmeV9hbGwgKENsYXNzaWZ5UmVxdWVzdCkgcmV0dXJucyAoQ2xhc3NpZnlBbGxSZXBseSkgewogICAgLy8gICAgfQogICAgLy8KICAgIC8vICAgIHJwYyBjbGFzc2lmeV9iZXN0IChDbGFzc2lmeVJlcXVlc3QpIHJldHVybnMgKENsYXNzaWZ5QmVzdFJlcGx5KSB7CiAgICAvLyAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcHJvbWV0aGV1c19hcHAgPSBtYWtlX3dzZ2lfYXBwKCkKICAgICMgYXBwLndzZ2lfYXBwID0gRGlzcGF0Y2hlck1pZGRsZXdhcmUoYXBwLndzZ2lfYXBwLCB7CiAgICAjICAgICBwYXRoOiBwcm9tZXRoZXVzX2FwcAogICAgIyB9KQo=</text>
+        <text encoding="base64">cHJvZHVjdGV4dHJhY3RvciA9ICI9PTAuMC45Igpwcm9kdWN0Y2xhc3NpZmllciA9ICI9PTAuMC42Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJib3giOiBbIDE0Ni4zMTc1MDQ4ODI4MTI1LAogICAgICAyNzcuMDk5NzkyNDgwNDY4NzUsCiAgICAgIDUxMS43NDQ5MzQwODIwMzEyNSwKICAgICAgNjg0LjE1MDgxNzg3MTA5MzgsCiAgICAgIDQuMCwKICAgICAgMC45OTkzNDg1ODA4MzcyNDk4CiAgICBdCg==</text>
+        <text encoding="base64">YmNlLXB5dGhvbi1zZGs9PTAuOC4yNAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZGVmIGV4dHJhY3Qoc2VsZiwgcmVxdWVzdCwgY29udGV4dCk6CiAgICAjICAgICByZXR1cm4gW1swLCAwLCAxLCAyLCAxLCAwLjU0XSwgWzAuNCwgMSwgMS41LCA0LCAyLCAwLjk5XSwgWzEsIDEsIDIuMiwgMy4zLCAxLCAwLjk4XSwgWzAsIDAsIDEsIDEsIDIsIDAuMV1dCiAgICAjIG1vZGVsID0gc2VsZi5fX2NsYXNzX18uZ2V0X29yX2NyZWF0ZV9tb2RlbCgpCiAgICAjIHJlc3BvbnNlID0gbW9kZWwuZXh0cmFjdChyZXF1ZXN0LmltYWdlX2Jhc2U2NCkKICAgICMgcmV0dXJuIHNrdV9kZXRlY3Rvcl9wYjIuRGV0ZWN0b3JSZXBseShmZWF0dXJlPXJlc3BvbnNlKQoK</text>
+        <text encoding="base64">LWUgZ2l0K2h0dHA6Ly9wemhhbmc6JCVeYWJjMTIzQGdpdGxhYi5haWJlZS5jbi96a3dhbmcvUHJvZHVjdFNlYXJjaC5naXRAOGU0MjJjODg4ZmYyY2VjNDUzNWI1YTcxNjAyMzU3NWRhZmM0MzdkNCNlZ2c9UHJvZHVjdFNlYXJjaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHNlcnZlKCk6CiAgICAjIOagueaNruS4jeWQjOeahOeOr+Wig+WPmOmHj+iuvue9ruS4jeWQjOeahOWAvCwg6buY6K6k5pivTE9DQUwKICAgIGVudiA9IG9zLmVudmlyb24uZ2V0KCdFTlYnLCAnTE9DQUwnKQogICAgaWYgZW52ID09ICdMT0NBTCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCIiKQogICAgZWxpZiBlbnYgPT0gJ0RFVic6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzk1ODgwNjMyN2FiMTQ4YTc5NGU5MDNiNzgwNzZmYmQ0OmMzZGE1NzZkNTFmYzQzYjRiNjk3NjlkZWRlMzgxODgxQHRqLXNlbnRyeS5haWJlZS5jbi8xcyIpCiAgICBlbGlmIGVudiA9PSAnVEVTVCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KAogICAgICAgICAgICAiaHR0cDovLzcwODQzN2JjMzcwMDQ2YmE5MzkyM2ZmYjk5MzIxOTc2OjRjNTVkM2YzM2Y0MDQ5ODI5YWY2ODEzM2JlNDMxMTUzQHRqLXNlbnRyeS5haWJlZS5jbi8xNCIpCiAgICBlbGlmIGVudiA9PSAnUFJPRCc6CiAgICAgICAgc2VudHJ5X3Nkay5pbml0KCJodHRwOi8vMzRiOTA5YWY4OGYxNDhhODhlNGI2Mzc2MDY5YTU4ZDBAc2VudHJ5LmFpYmVlLmNuLzEzIikKCiAgICBNQVhfTUVTU0FHRV9MRU5HVEggPSA0MTk0MzA0MAogICAgc2VydmVyID0gZ3JwYy5zZXJ2ZXIodGhyZWFkX3Bvb2w9ZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9MSksCiAgICAgICAgICAgICAgICAgICAgICAgICBvcHRpb25zPVsoJ2dycGMubWF4X3NlbmRfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpLCAoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2dycGMubWF4X3JlY2VpdmVfbWVzc2FnZV9sZW5ndGgnLCBNQVhfTUVTU0FHRV9MRU5HVEgpXSwKICAgICAgICAgICAgICAgICAgICAgICAgIGludGVyY2VwdG9ycz0oUHJvbVNlcnZlckludGVyY2VwdG9yKCksKSkKICAgIHNrdV9kZXRlY3Rvcl9wYjJfZ3JwYy5hZGRfU2t1RGV0ZWN0b3JTZXJ2aWNlcl90b19zZXJ2ZXIoU2t1RGV0ZWN0b3IoKSwgc2VydmVyKQogICAgc2VydmVyLmFkZF9pbnNlY3VyZV9wb3J0KCdbOjpdOjUwMDUzJykKICAgIHNlcnZlci5zdGFydCgpCiAgICBzdGFydF9odHRwX3NlcnZlcig1MDA2MykKICAgIHNrdV9kZXRlY3Rvcl9jbGllbnQucnVuKCkKICAgIHRyeToKICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICB0aW1lLnNsZWVwKF9PTkVfREFZX0lOX1NFQ09ORFMpCiAgICBleGNlcHQgS2V5Ym9hcmRJbnRlcnJ1cHQ6CiAgICAgICAgc2VydmVyLnN0b3AoMCkKCgo=</text>
+        <text encoding="base64">ICAgIElTX1RFU1QgPSBUcnVlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>31,$s/sku/example/g</text>
       </register>
     </registers>
     <search>
-      <last-search>REMEMBER_COOKIE_NAME</last-search>
+      <last-search>sku</last-search>
       <last-offset />
-      <last-pattern>REMEMBER_COOKIE_NAME</last-pattern>
-      <last-replace>image_search</last-replace>
-      <last-substitute>smart_counter</last-substitute>
+      <last-pattern>sku</last-pattern>
+      <last-replace>example</last-replace>
+      <last-substitute>sku</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>image_search</entry>
         <entry encoding="base64">XDxTUUxBTENIRU1ZX0RBVEFCQVNFX1VSSVw+</entry>
         <entry encoding="base64">XDxXRUJfVVNFUl9QQVNTV0RcPg==</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
@@ -217,9 +254,9 @@
         <entry>sentry</entry>
         <entry encoding="base64">XDxfcm93c1w+</entry>
         <entry>REMEMBER_COOKIE_NAME</entry>
+        <entry>sku</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ctf/sku/g</entry>
         <entry>39</entry>
         <entry>%s/smart-counter/sku/g</entry>
         <entry>%s/smart-counter/sku-grpc/g</entry>
@@ -239,6 +276,7 @@
         <entry>251</entry>
         <entry>48</entry>
         <entry>sp</entry>
+        <entry>31,$s/sku/example/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
