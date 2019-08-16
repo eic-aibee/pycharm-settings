@@ -7,7 +7,7 @@
       <file name="/a.dummy" timestamp="1565938555352">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku/Pipfile" timestamp="1565936617505" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/Pipfile" timestamp="1565942370591" />
       <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/protos/sku.proto" timestamp="1565939009119">
         <mark key="[" line="27" column="98" />
         <mark key="]" line="27" column="98" />
@@ -27,11 +27,12 @@
       </file>
       <file name="$USER_HOME$/github/PyMySQL/pymysql/constants/COMMAND.py" timestamp="1565862826332" />
       <file name="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/Pipfile" timestamp="1565926958615" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_server.py" timestamp="1565939288229">
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="21" column="53" />
-        <mark key="." line="21" column="53" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_server.py" timestamp="1565942786563">
+        <mark key="'" line="46" column="91" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="33" column="30" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="33" column="30" />
       </file>
       <file name="$USER_HOME$/aibee/sku/周大福珠宝图片分类器接口.md" timestamp="1565839106129" />
       <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/.bumpversion.cfg" timestamp="1565935217210">
@@ -65,13 +66,16 @@
       <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/README.md" timestamp="1565935537829" />
       <file name="$USER_HOME$/github/flask-login/install_requirements.py" timestamp="1565870307806" />
       <file name="$USER_HOME$/github/flask-login/flask_login/test_client.py" timestamp="1565875003733" />
+      <file name="/Python Console" timestamp="1565942676634">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_client.py" timestamp="1565938698542">
         <mark key="[" line="22" column="5" />
         <mark key="]" line="22" column="6" />
         <mark key="." line="22" column="6" />
         <mark key="^" line="22" column="6" />
       </file>
-      <file name="$USER_HOME$/aibee/sku/Dockerfile" timestamp="1565940051960" />
+      <file name="$USER_HOME$/aibee/sku/Dockerfile" timestamp="1565941940252" />
       <file name="$USER_HOME$/github/PyMySQL/pymysql/protocol.py" timestamp="1565868042088" />
       <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/example_server.py" timestamp="1565938478232">
         <mark key="[" line="152" column="0" />
@@ -79,6 +83,7 @@
         <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/github/flask-login/flask_login/utils.py" timestamp="1565922808229" />
+      <file name="$USER_HOME$/aibee/sku/Pipfile" timestamp="1565942260014" />
       <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/start.sh" timestamp="1565934992226" />
       <file name="$USER_HOME$/aibee/sku_detector/detector.md" timestamp="1565937878324" />
       <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1565926493775" />
@@ -110,8 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/aibee/proxy/nginx/flask.conf" />
-      <jump line="8" column="9" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
       <jump line="297" column="9" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
       <jump line="427" column="0" filename="$USER_HOME$/aibee/sku/Pipfile.lock" />
       <jump line="0" column="0" filename="$USER_HOME$/aibee/proxy/nginx/flask.conf" />
@@ -210,6 +213,8 @@
       <jump line="312" column="34" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
       <jump line="331" column="13" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
       <jump line="31" column="58" filename="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/Makefile" />
+      <jump line="18" column="9" filename="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_server.py" />
+      <jump line="44" column="91" filename="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -219,7 +224,7 @@
         <text encoding="base64">c2t1IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sku</text>
+        <text>extractor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I3RvZG8gY2hhbmdlIGl0Cg==</text>
@@ -259,9 +264,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sku</last-search>
+      <last-search>extractor</last-search>
       <last-offset />
-      <last-pattern>sku</last-pattern>
+      <last-pattern>extractor</last-pattern>
       <last-replace>example</last-replace>
       <last-substitute>sku</last-substitute>
       <last-dir>1</last-dir>
@@ -269,7 +274,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTUUxBTENIRU1ZX0RBVEFCQVNFX1VSSVw+</entry>
         <entry encoding="base64">XDxXRUJfVVNFUl9QQVNTV0RcPg==</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry>print</entry>
@@ -289,6 +293,7 @@
         <entry encoding="base64">XDxfcm93c1w+</entry>
         <entry>REMEMBER_COOKIE_NAME</entry>
         <entry>sku</entry>
+        <entry>extractor</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
