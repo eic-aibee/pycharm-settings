@@ -55,7 +55,7 @@
       </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/request.py" timestamp="1566200251841" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/__init__.py" timestamp="1566200182437" />
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/docker-compose.yml" timestamp="1566268325560">
+      <file name="$USER_HOME$/aibee/bosideng_sku_detector/docker-compose.yml" timestamp="1566286995382">
         <mark key="'" line="4" column="20" />
         <mark key="[" line="13" column="15" />
         <mark key="]" line="14" column="29" />
@@ -111,7 +111,7 @@
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/_compat.py" timestamp="1565949902874" />
       <file name="/usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py" timestamp="1566217040140" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/dispatcher.py" timestamp="1566201560052" />
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/serving.py" timestamp="1566216977606">
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/serving.py" timestamp="1566287072962">
         <mark key="'" line="191" column="44" />
       </file>
       <file name="$USER_HOME$/github/werkzeug/.pre-commit-config.yaml" timestamp="1565949677591" />
