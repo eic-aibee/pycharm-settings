@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/_internal.py" timestamp="1566202159995" />
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/_internal.py" timestamp="1566373262230" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/README.md" timestamp="1566267962016">
         <mark key="[" line="64" column="1" />
         <mark key="]" line="65" column="12" />
@@ -16,14 +16,10 @@
         <mark key="." line="27" column="98" />
         <mark key="^" line="27" column="97" />
       </file>
-      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/sku_client.py" timestamp="1565934793547">
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="51" column="26" />
-        <mark key="." line="51" column="26" />
-      </file>
       <file name="$USER_HOME$/aibee/sku_detector/sku_detector/product_detector/detector.py" timestamp="1565958152402" />
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/debug/console.py" timestamp="1566372202258" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/accept.py" timestamp="1566201627440" />
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/urls.py" timestamp="1566208566849" />
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/urls.py" timestamp="1566372625500" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/bosideng_sku_detector/protos/sku_detector.proto" timestamp="1565956623554" />
       <file name="$USER_HOME$/aibee/bosideng_sku/README.md" timestamp="1566369571272">
         <mark key="[" line="78" column="0" />
@@ -42,7 +38,7 @@
         <mark key="^" line="57" column="106" />
       </file>
       <file name="$USER_HOME$/github/flask/src/flask/app.py" timestamp="1566293271060" />
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/shared_data.py" timestamp="1565953866250" />
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/shared_data.py" timestamp="1566371756394" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/formparser.py" timestamp="1566200349241" />
       <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_client.py" timestamp="1565946406191">
         <mark key="[" line="22" column="31" />
@@ -50,21 +46,9 @@
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/.bumpversion.cfg" timestamp="1566267413718">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/request.py" timestamp="1566200251841" />
       <file name="$USER_HOME$/github/flask/flask/app.py" timestamp="1566292089753" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/__init__.py" timestamp="1566200182437" />
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/docker-compose.yml" timestamp="1566286995382">
-        <mark key="'" line="4" column="20" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/_reloader.py" timestamp="1565949877787" />
       <file name="$USER_HOME$/github/werkzeug/tests/test_routing.py" timestamp="1566215712498" />
       <file name="$USER_HOME$/aibee/sku_detector/sku_detector/protos/sku_detector.proto" timestamp="1565958561196" />
@@ -74,78 +58,33 @@
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/routing.py" timestamp="1566215459693">
         <mark key="'" line="879" column="58" />
       </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-ingress.yaml" timestamp="1566267481591">
-        <mark key="'" line="9" column="10" />
-      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/http_proxy.py" timestamp="1566201577517" />
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/__init__.py" timestamp="1566372959926" />
       <file name="$USER_HOME$/aibee/bosideng_sku/Pipfile" timestamp="1565946548315" />
       <file name="$USER_HOME$/.local/share/virtualenvs/bosideng_sku-MTSlzZgF/lib/python2.7/site-packages/bsd_product_extractor/extractor.py" timestamp="1565946937550" />
-      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/protos/example.proto" timestamp="1565935458371">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/aibee/label-tool/label_tool/api/role.py" timestamp="1566358225977" />
       <file name="/usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socketserver.py" timestamp="1566216369034" />
       <file name="$USER_HOME$/github/flask/src/flask/ctx.py" timestamp="1566293722015" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_server.py" timestamp="1565953945841">
-        <mark key="'" line="45" column="91" />
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-      </file>
-      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/.bumpversion.cfg" timestamp="1565935217210">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/Pipfile" timestamp="1565935815875">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-service.yaml" timestamp="1566267547548">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-deployment.yaml" timestamp="1566267467866">
-        <mark key="'" line="10" column="22" />
-      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/security.py" timestamp="1566215784634" />
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/_compat.py" timestamp="1565949902874" />
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/_compat.py" timestamp="1566373028386" />
       <file name="/usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py" timestamp="1566217040140" />
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/dispatcher.py" timestamp="1566201560052" />
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/serving.py" timestamp="1566287072962">
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/dispatcher.py" timestamp="1566369788682" />
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/serving.py" timestamp="1566370916244">
         <mark key="'" line="191" column="44" />
       </file>
       <file name="$USER_HOME$/github/werkzeug/.pre-commit-config.yaml" timestamp="1565949677591" />
       <file name="$USER_HOME$/aibee/bosideng_sku/requirements.txt" timestamp="1565947046639" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/datastructures.py" timestamp="1565949871147" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/requirements.txt" timestamp="1566267349309" />
-      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/example_server.py" timestamp="1565938478232">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-      </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/Makefile" timestamp="1566267410157">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-      </file>
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/lint.py" timestamp="1566370323191" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/user_agent.py" timestamp="1565949975257" />
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wsgi.py" timestamp="1566294891315" />
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/local.py" timestamp="1566291659362" />
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wsgi.py" timestamp="1566372159816" />
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/local.py" timestamp="1566370717240" />
       <file name="$USER_HOME$/github/flask/src/flask/globals.py" timestamp="1566294976263" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/http.py" timestamp="1566202237184" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/docker-compose-example.yml" timestamp="1565944759396">
-        <mark key="'" line="14" column="33" />
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-      </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/sku-NL9Q8_NY/lib/python2.7/site-packages/product_extractor/extractor.py" timestamp="1565943036579" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/auth.py" timestamp="1565949920467" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/bosideng_sku_detector/example_client.py" timestamp="1566180135355" />
@@ -158,12 +97,7 @@
         <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/response.py" timestamp="1566201747983" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/Makefile" timestamp="1565938030459">
-        <mark key="[" line="22" column="110" />
-        <mark key="]" line="22" column="133" />
-        <mark key="^" line="22" column="133" />
-        <mark key="." line="22" column="133" />
-      </file>
+      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/testapp.py" timestamp="1566372016294" />
     </filemarks>
     <jumps>
       <jump line="5" column="15" filename="$USER_HOME$/aibee/image_search/docker-compose-dev.yml" />
