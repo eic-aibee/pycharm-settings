@@ -950,7 +950,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>268</Count>
+          <Count>269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ctf-smart-tray'">
@@ -1646,7 +1646,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥T'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1049</Count>
+          <Count>1050</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
