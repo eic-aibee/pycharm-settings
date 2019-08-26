@@ -131,6 +131,7 @@
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-service.yaml" timestamp="1566267547548">
         <mark key="'" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/aibee/k11_product_recognition/manage.py" timestamp="1566800515472" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-deployment.yaml" timestamp="1566267467866">
         <mark key="'" line="10" column="22" />
       </file>
@@ -138,6 +139,7 @@
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/_compat.py" timestamp="1566373028386" />
       <file name="/usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py" timestamp="1566217040140" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/dispatcher.py" timestamp="1566369788682" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1566800260052" />
       <file name="$USER_HOME$/aibee/label-tool/Makefile" timestamp="1566548283517" />
       <file name="$USER_HOME$/aibee/bosideng_sku/k8s_test/bosideng-sku-grpc-ingress.yaml" timestamp="1566541278531">
         <mark key="'" line="15" column="0" />
@@ -178,6 +180,7 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1566800633349" />
       <file name="$USER_HOME$/.local/share/virtualenvs/sku-NL9Q8_NY/lib/python2.7/site-packages/product_extractor/extractor.py" timestamp="1565943036579" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/auth.py" timestamp="1565949920467" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/bosideng_sku_detector/example_client.py" timestamp="1566180135355" />
