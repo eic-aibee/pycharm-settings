@@ -131,7 +131,7 @@
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-service.yaml" timestamp="1566267547548">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/k11_product_recognition/manage.py" timestamp="1566800515472" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/manage.py" timestamp="1566811916795" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-deployment.yaml" timestamp="1566267467866">
         <mark key="'" line="10" column="22" />
       </file>
