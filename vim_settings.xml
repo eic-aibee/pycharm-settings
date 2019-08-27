@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/aibee/k11_product_recognition/apidoc.json" timestamp="1566897733495" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/_internal.py" timestamp="1566374113941" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/k8s_test/k11-product-recognition-service-schedule-deployment.yaml" timestamp="1566875406122" />
       <file name="$USER_HOME$/aibee/bosideng_sku/k8s_test/example-grpc-deployment.yaml" timestamp="1566540042681" />
