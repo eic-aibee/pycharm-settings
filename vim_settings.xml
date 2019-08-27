@@ -18,16 +18,18 @@
         <mark key="." line="27" column="98" />
         <mark key="^" line="27" column="97" />
       </file>
+      <file name="$USER_HOME$/github/flask/venv/lib/python3.7/site-packages/werkzeug/http.py" timestamp="1566891901816" />
       <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/sku_client.py" timestamp="1565934793547">
         <mark key="[" line="51" column="26" />
         <mark key="]" line="51" column="26" />
         <mark key="." line="51" column="26" />
       </file>
+      <file name="$USER_HOME$/github/flask/src/flask/testing.py" timestamp="1566891643202" />
       <file name="$USER_HOME$/aibee/sku_detector/sku_detector/product_detector/detector.py" timestamp="1565958152402" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/debug/console.py" timestamp="1566372202258" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/accept.py" timestamp="1566201627440" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/urls.py" timestamp="1566380297698" />
-      <file name="$USER_HOME$/github/flask/src/flask/json/__init__.py" timestamp="1566889446404" />
+      <file name="$USER_HOME$/github/flask/src/flask/json/__init__.py" timestamp="1566892938317" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/bosideng_sku_detector/protos/sku_detector.proto" timestamp="1565956623554" />
       <file name="$USER_HOME$/aibee/bosideng_sku/README.md" timestamp="1566369571272">
         <mark key="[" line="78" column="0" />
@@ -37,7 +39,7 @@
       </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/useragents.py" timestamp="1566379889506" />
       <file name="$USER_HOME$/github/flask/src/flask/wrappers.py" timestamp="1566890671555" />
-      <file name="$USER_HOME$/github/flask/src/flask/config.py" timestamp="1566474276402" />
+      <file name="$USER_HOME$/github/flask/src/flask/config.py" timestamp="1566891550184" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/common_descriptors.py" timestamp="1566201713006" />
       <file name="$USER_HOME$/aibee/label-tool/README.md" timestamp="1566547431378">
         <mark key="[" line="32" column="10" />
@@ -67,12 +69,6 @@
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="39" />
       </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/.bumpversion.cfg" timestamp="1566542381887">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/request.py" timestamp="1566200251841" />
       <file name="$USER_HOME$/github/flask/flask/app.py" timestamp="1566292089753" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/__init__.py" timestamp="1566200182437" />
@@ -98,7 +94,7 @@
       <file name="$USER_HOME$/aibee/bosideng_sku/docker-compose.yml" timestamp="1565947354162" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/base_request.py" timestamp="1566201644444" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/http_proxy.py" timestamp="1566201577517" />
-      <file name="$USER_HOME$/github/flask/src/flask/json/tag.py" timestamp="1566889418390" />
+      <file name="$USER_HOME$/github/flask/src/flask/json/tag.py" timestamp="1566894002208" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/store.py" timestamp="1566461782936" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/__init__.py" timestamp="1566372959926" />
       <file name="$USER_HOME$/aibee/bosideng_sku/Pipfile" timestamp="1565946548315" />
@@ -117,12 +113,6 @@
         <mark key="]" line="22" column="16" />
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
-      </file>
-      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/.bumpversion.cfg" timestamp="1565935217210">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/Pipfile" timestamp="1565935815875">
         <mark key="[" line="7" column="0" />
@@ -189,12 +179,6 @@
       </file>
       <file name="$USER_HOME$/github/flask/src/flask/blueprints.py" timestamp="1566888732725" />
       <file name="$USER_HOME$/github/flask/src/flask/signals.py" timestamp="1566295210156" />
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/bosideng-sku-detector-grpc-deployment.yaml" timestamp="1566542052867">
-        <mark key="[" line="20" column="75" />
-        <mark key="]" line="20" column="75" />
-        <mark key="^" line="20" column="60" />
-        <mark key="." line="20" column="75" />
-      </file>
       <file name="$USER_HOME$/github/flask/src/flask/cli.py" timestamp="1566889676313" />
       <file name="$USER_HOME$/aibee/bosideng_sku/start.sh" timestamp="1565944696080">
         <mark key="[" line="3" column="7" />
