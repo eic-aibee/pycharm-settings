@@ -91,9 +91,6 @@
       <file name="$USER_HOME$/aibee/bosideng_sku/Dockerfile" timestamp="1565947323156" />
       <file name="$USER_HOME$/aibee/bosideng_sku/docker-compose.yml" timestamp="1565947354162" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/base_request.py" timestamp="1566201644444" />
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/routing.py" timestamp="1566215459693">
-        <mark key="'" line="879" column="58" />
-      </file>
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-ingress.yaml" timestamp="1566267481591">
         <mark key="'" line="9" column="10" />
       </file>
@@ -128,9 +125,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-service.yaml" timestamp="1566267547548">
-        <mark key="'" line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/aibee/k11_product_recognition/manage.py" timestamp="1566811916795" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-deployment.yaml" timestamp="1566267467866">
         <mark key="'" line="10" column="22" />
@@ -141,11 +135,12 @@
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/dispatcher.py" timestamp="1566369788682" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1566800260052" />
       <file name="$USER_HOME$/aibee/label-tool/Makefile" timestamp="1566548283517" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/k8s_test/bosideng-sku-grpc-ingress.yaml" timestamp="1566541278531">
-        <mark key="'" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/github/werkzeug/src/werkzeug/serving.py" timestamp="1566370916244">
-        <mark key="'" line="191" column="44" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/k8s_test/bosideng-sku-grpc-ingress.yaml" timestamp="1566875220687">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/github/werkzeug/.pre-commit-config.yaml" timestamp="1565949677591" />
       <file name="$USER_HOME$/aibee/bosideng_sku/requirements.txt" timestamp="1565947046639" />
@@ -321,10 +316,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>example</text>
