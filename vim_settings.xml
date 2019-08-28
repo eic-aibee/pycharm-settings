@@ -31,11 +31,13 @@
       </file>
       <file name="$USER_HOME$/github/flask/venv/lib/python3.7/site-packages/werkzeug/http.py" timestamp="1566891901816" />
       <file name="$USER_HOME$/github/flask/src/flask/testing.py" timestamp="1566891643202" />
+      <file name="$USER_HOME$/github/click/click/testing.py" timestamp="1566984170526" />
       <file name="$USER_HOME$/aibee/sku_detector/sku_detector/product_detector/detector.py" timestamp="1565958152402" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/debug/console.py" timestamp="1566372202258" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/accept.py" timestamp="1566201627440" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/urls.py" timestamp="1566380297698" />
       <file name="$USER_HOME$/github/flask/src/flask/json/__init__.py" timestamp="1566892938317" />
+      <file name="$USER_HOME$/github/click/click/_compat.py" timestamp="1566984324819" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/bosideng_sku_detector/protos/sku_detector.proto" timestamp="1565956623554" />
       <file name="$USER_HOME$/aibee/bosideng_sku/README.md" timestamp="1566369571272">
         <mark key="[" line="78" column="0" />
@@ -56,6 +58,7 @@
       </file>
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/auth.py" timestamp="1566461735858" />
       <file name="$USER_HOME$/github/flask/src/flask/app.py" timestamp="1566479164771" />
+      <file name="$USER_HOME$/github/click/click/globals.py" timestamp="1566984117524" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/shared_data.py" timestamp="1566371756394" />
       <file name="$USER_HOME$/aibee/bosideng_sku/.bumpversion.cfg" timestamp="1566540978481">
         <mark key="[" line="8" column="0" />
@@ -131,9 +134,10 @@
       </file>
       <file name="$USER_HOME$/aibee/k11_product_recognition/manage.py" timestamp="1566811916795" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/security.py" timestamp="1566379722671" />
+      <file name="$USER_HOME$/github/click/click/core.py" timestamp="1566984394477" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/_compat.py" timestamp="1566373028386" />
       <file name="/usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/server.py" timestamp="1566217040140" />
-      <file name="$USER_HOME$/github/click/click/utils.py" timestamp="1566959466909" />
+      <file name="$USER_HOME$/github/click/click/utils.py" timestamp="1566983863446" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/dispatcher.py" timestamp="1566369788682" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/Makefile" timestamp="1566899313197">
         <mark key="'" line="2" column="0" />
@@ -153,6 +157,7 @@
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/serving.py" timestamp="1566370916244">
         <mark key="'" line="191" column="44" />
       </file>
+      <file name="$USER_HOME$/github/click/click/_termui_impl.py" timestamp="1566983907919" />
       <file name="$USER_HOME$/github/werkzeug/.pre-commit-config.yaml" timestamp="1565949677591" />
       <file name="$USER_HOME$/aibee/bosideng_sku/requirements.txt" timestamp="1565947046639" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/k8s_test/nginx-deployment.yaml" timestamp="1566898475544">
