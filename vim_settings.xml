@@ -3,8 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/aibee/k11_product_recognition/apidoc.json" timestamp="1566898810218">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/_internal.py" timestamp="1566374113941" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k8s_test/k11-product-recognition-service-schedule-deployment.yaml" timestamp="1566898467316">
+        <mark key="[" line="15" column="74" />
+        <mark key="]" line="15" column="78" />
+        <mark key="." line="15" column="78" />
+        <mark key="^" line="15" column="78" />
+      </file>
       <file name="$USER_HOME$/aibee/bosideng_sku/k8s_test/example-grpc-deployment.yaml" timestamp="1566540042681" />
+      <file name="$USER_HOME$/aibee/bosideng_sku_detector/README.md" timestamp="1566267962016">
+        <mark key="[" line="64" column="1" />
+        <mark key="]" line="65" column="12" />
+        <mark key="^" line="65" column="12" />
+        <mark key="." line="65" column="12" />
+      </file>
+      <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/protos/sku.proto" timestamp="1566549700592">
+        <mark key="[" line="27" column="98" />
+        <mark key="]" line="27" column="98" />
+        <mark key="." line="27" column="98" />
+        <mark key="^" line="27" column="97" />
+      </file>
       <file name="$USER_HOME$/github/flask/venv/lib/python3.7/site-packages/werkzeug/http.py" timestamp="1566891901816" />
       <file name="$USER_HOME$/github/flask/src/flask/testing.py" timestamp="1566891643202" />
       <file name="$USER_HOME$/github/click/click/testing.py" timestamp="1566984170526" />
@@ -15,6 +39,12 @@
       <file name="$USER_HOME$/github/flask/src/flask/json/__init__.py" timestamp="1566892938317" />
       <file name="$USER_HOME$/github/click/click/_compat.py" timestamp="1566985826804" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/bosideng_sku_detector/protos/sku_detector.proto" timestamp="1565956623554" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/README.md" timestamp="1566369571272">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="77" column="80" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/useragents.py" timestamp="1566379889506" />
       <file name="$USER_HOME$/github/click/click/__init__.py" timestamp="1566984973930" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/api/auth.py" timestamp="1567045303091">
@@ -24,6 +54,12 @@
       <file name="$USER_HOME$/github/flask/src/flask/config.py" timestamp="1567070987896" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/common_descriptors.py" timestamp="1566201713006" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/json.py" timestamp="1566201737753" />
+      <file name="$USER_HOME$/aibee/bosideng_sku_detector/sku_detector/sku_detector_server.py" timestamp="1566268386897">
+        <mark key="[" line="174" column="25" />
+        <mark key="]" line="174" column="25" />
+        <mark key="." line="174" column="25" />
+        <mark key="^" line="57" column="106" />
+      </file>
       <file name="$USER_HOME$/aibee/k11-label/requirements.txt" timestamp="1567047323585">
         <mark key="'" line="31" column="12" />
         <mark key="[" line="24" column="21" />
@@ -34,24 +70,36 @@
       <file name="$USER_HOME$/github/flask/src/flask/app.py" timestamp="1566479164771" />
       <file name="$USER_HOME$/github/click/click/globals.py" timestamp="1566984117524" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/shared_data.py" timestamp="1566371756394" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/.bumpversion.cfg" timestamp="1566540978481">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="59" />
+      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/formparser.py" timestamp="1566379002796" />
       <file name="$USER_HOME$/aibee/ctf-api/docker-compose-aliyun.yml" timestamp="1567050056081" />
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/.bumpversion.cfg" timestamp="1566542381887">
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="35" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_client.py" timestamp="1565946406191">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="39" />
+        <mark key="^" line="22" column="39" />
+        <mark key="." line="22" column="39" />
       </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/request.py" timestamp="1566200251841" />
-      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567144576444">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="24" />
-        <mark key="^" line="46" column="24" />
-        <mark key="." line="46" column="24" />
+      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567147628843">
+        <mark key="[" line="46" column="25" />
+        <mark key="]" line="46" column="32" />
+        <mark key="^" line="46" column="32" />
+        <mark key="." line="46" column="32" />
       </file>
       <file name="$USER_HOME$/github/flask/flask/app.py" timestamp="1566292089753" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/__init__.py" timestamp="1566200182437" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/filesystem.py" timestamp="1566378448029" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k8s_test/k11-product-recognition-service-deployment.yaml" timestamp="1566898455263">
+        <mark key="[" line="15" column="74" />
+        <mark key="]" line="15" column="78" />
+        <mark key="." line="15" column="78" />
+        <mark key="^" line="15" column="78" />
+      </file>
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/docker-compose.yml" timestamp="1566286995382">
         <mark key="'" line="4" column="20" />
         <mark key="[" line="13" column="15" />
@@ -70,6 +118,12 @@
       <file name="$USER_HOME$/aibee/sku_detector/sku_detector/protos/sku_detector.proto" timestamp="1565958561196" />
       <file name="$USER_HOME$/aibee/bosideng_sku/Dockerfile" timestamp="1565947323156" />
       <file name="$USER_HOME$/aibee/bosideng_sku/docker-compose.yml" timestamp="1565947354162" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k8s/nginx-deployment.yaml" timestamp="1566898428191">
+        <mark key="[" line="16" column="70" />
+        <mark key="]" line="16" column="74" />
+        <mark key="." line="16" column="74" />
+        <mark key="^" line="16" column="74" />
+      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/base_request.py" timestamp="1566201644444" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/routing.py" timestamp="1566215459693">
         <mark key="'" line="879" column="58" />
@@ -90,16 +144,16 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/.bumpversion.cfg" timestamp="1565935217210">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-service.yaml" timestamp="1566267547548">
         <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/github/click/click/_bashcomplete.py" timestamp="1566985417493" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/.bumpversion.cfg" timestamp="1566898915079">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+      </file>
       <file name="$USER_HOME$/aibee/k11_product_recognition/manage.py" timestamp="1566811916795" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/security.py" timestamp="1566379722671" />
       <file name="$USER_HOME$/github/click/click/core.py" timestamp="1566994190511" />
@@ -124,11 +178,23 @@
       <file name="$USER_HOME$/github/click/click/_termui_impl.py" timestamp="1566986184434" />
       <file name="$USER_HOME$/github/werkzeug/.pre-commit-config.yaml" timestamp="1565949677591" />
       <file name="$USER_HOME$/aibee/bosideng_sku/requirements.txt" timestamp="1565947046639" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k8s_test/nginx-deployment.yaml" timestamp="1566898475544">
+        <mark key="[" line="16" column="70" />
+        <mark key="]" line="16" column="74" />
+        <mark key="." line="16" column="74" />
+        <mark key="^" line="16" column="74" />
+      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/datastructures.py" timestamp="1566376844940" />
       <file name="$USER_HOME$/github/flask/src/flask/helpers.py" timestamp="1567072346763" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/requirements.txt" timestamp="1566267349309" />
       <file name="$USER_HOME$/github/flask/src/flask/logging.py" timestamp="1567072403840" />
       <file name="$USER_HOME$/github/flask-restful/flask_restful/__init__.py" timestamp="1567133556046" />
+      <file name="$USER_HOME$/aibee/bosideng_sku_detector/Makefile" timestamp="1566542508509">
+        <mark key="[" line="39" column="54" />
+        <mark key="]" line="39" column="54" />
+        <mark key="." line="39" column="54" />
+        <mark key="^" line="39" column="54" />
+      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/lint.py" timestamp="1566370323191" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/user_agent.py" timestamp="1565949975257" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wsgi.py" timestamp="1566380043964" />
@@ -148,6 +214,7 @@
         <mark key="^" line="11" column="10" />
       </file>
       <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1566800633349" />
+      <file name="$USER_HOME$/aibee/ctf-api/ctf/model/customer.py" timestamp="1567148205177" />
       <file name="$USER_HOME$/.local/share/virtualenvs/sku-NL9Q8_NY/lib/python2.7/site-packages/product_extractor/extractor.py" timestamp="1565943036579" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/auth.py" timestamp="1565949920467" />
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/bosideng_sku_detector/example_client.py" timestamp="1566180135355" />
@@ -167,16 +234,22 @@
         <mark key="^" line="14" column="117" />
       </file>
       <file name="$USER_HOME$/github/flask/src/flask/signals.py" timestamp="1566295210156" />
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/bosideng-sku-detector-grpc-deployment.yaml" timestamp="1566542052867">
-        <mark key="[" line="20" column="75" />
-        <mark key="]" line="20" column="75" />
-        <mark key="^" line="20" column="60" />
-        <mark key="." line="20" column="75" />
-      </file>
       <file name="$USER_HOME$/github/flask/src/flask/cli.py" timestamp="1567070570650">
         <mark key="u" line="43" column="18" />
       </file>
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k8s/k11-product-recognition-service-deployment.yaml" timestamp="1566898414657">
+        <mark key="[" line="45" column="74" />
+        <mark key="]" line="45" column="78" />
+        <mark key="." line="45" column="78" />
+        <mark key="^" line="45" column="78" />
+      </file>
       <file name="$USER_HOME$/github/click/click/_winconsole.py" timestamp="1566986528870" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/start.sh" timestamp="1565944696080">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/response.py" timestamp="1566201747983" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/exceptions.py" timestamp="1566378397384" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/testapp.py" timestamp="1566372016294" />
@@ -291,11 +364,11 @@
       <jump line="31" column="12" filename="$USER_HOME$/aibee/k11-label/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>-i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com -r requirements.txt</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>k11-human</text>
