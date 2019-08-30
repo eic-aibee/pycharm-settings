@@ -36,7 +36,19 @@
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/middleware/shared_data.py" timestamp="1566371756394" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/formparser.py" timestamp="1566379002796" />
       <file name="$USER_HOME$/aibee/ctf-api/docker-compose-aliyun.yml" timestamp="1567050056081" />
+      <file name="$USER_HOME$/aibee/bosideng_sku_detector/.bumpversion.cfg" timestamp="1566542381887">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+      </file>
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/request.py" timestamp="1566200251841" />
+      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567144576444">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="24" />
+        <mark key="^" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+      </file>
       <file name="$USER_HOME$/github/flask/flask/app.py" timestamp="1566292089753" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/wrappers/__init__.py" timestamp="1566200182437" />
       <file name="$USER_HOME$/github/werkzeug/src/werkzeug/filesystem.py" timestamp="1566378448029" />
@@ -77,6 +89,12 @@
         <mark key="]" line="22" column="16" />
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/aibee/cookiecutter_grpc_server_python2/{{cookiecutter.project_name}}/.bumpversion.cfg" timestamp="1565935217210">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/sku-detector-grpc-service.yaml" timestamp="1566267547548">
         <mark key="'" line="13" column="0" />
@@ -149,6 +167,12 @@
         <mark key="^" line="14" column="117" />
       </file>
       <file name="$USER_HOME$/github/flask/src/flask/signals.py" timestamp="1566295210156" />
+      <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/bosideng-sku-detector-grpc-deployment.yaml" timestamp="1566542052867">
+        <mark key="[" line="20" column="75" />
+        <mark key="]" line="20" column="75" />
+        <mark key="^" line="20" column="60" />
+        <mark key="." line="20" column="75" />
+      </file>
       <file name="$USER_HOME$/github/flask/src/flask/cli.py" timestamp="1567070570650">
         <mark key="u" line="43" column="18" />
       </file>
@@ -268,7 +292,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">5a6J6KOFIEB5aW5neWlsZSDnmoTkvp3otZYKcGlwZW52IGluc3RhbGwgLWUgZ2l0K2h0dHA6Ly9wemhhbmc6JCVeYWJjMTIzQGdpdGxhYi5haWJlZS5jbi95bHlpbmcvSHVtYW5DaGVjay5naXQjZWdnPUh1bWFuQ2hlY2sKCiNwaXAgaW5zdGFsbCAtZSBnaXQraHR0cDovL3B6aGFuZzokJV5hYmMxMjNAZ2l0bGFiLmFpYmVlLmNuL3lseWluZy9IdW1hbkNoZWNrLmdpdCNlZ2c9SHVtYW5DaGVjawoKcGlwIHVuaW5zdGFsbCAteSBIdW1hbkNoZWNrCnBpcCBpbnN0YWxsIC1lIGdpdCtodHRwOi8vcHpoYW5nOiQlXmFiYzEyM0BnaXRsYWIuYWliZWUuY24vUHJvZHVjdEFuYWx5c2lzL0xhYmVsaW5nU3lzdGVtLmdpdCNlZ2c9SHVtYW5DaGVjawpwaXAgZnJlZXplID4gcmVxdWlyZW1lbnRzLnR4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>-i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com -r requirements.txt</text>
@@ -280,34 +304,34 @@
         <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSAtciByZXF1aXJlbWVudHMudHh0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">5a6J6KOFIEB5aW5neWlsZSDnmoTkvp3otZYKcGlwZW52IGluc3RhbGwgLWUgZ2l0K2h0dHA6Ly9wemhhbmc6JCVeYWJjMTIzQGdpdGxhYi5haWJlZS5jbi95bHlpbmcvSHVtYW5DaGVjay5naXQjZWdnPUh1bWFuQ2hlY2sKCiNwaXAgaW5zdGFsbCAtZSBnaXQraHR0cDovL3B6aGFuZzokJV5hYmMxMjNAZ2l0bGFiLmFpYmVlLmNuL3lseWluZy9IdW1hbkNoZWNrLmdpdCNlZ2c9SHVtYW5DaGVjawoKcGlwIHVuaW5zdGFsbCAteSBIdW1hbkNoZWNrCnBpcCBpbnN0YWxsIC1lIGdpdCtodHRwOi8vcHpoYW5nOiQlXmFiYzEyM0BnaXRsYWIuYWliZWUuY24vUHJvZHVjdEFuYWx5c2lzL0xhYmVsaW5nU3lzdGVtLmdpdCNlZ2c9SHVtYW5DaGVjawpwaXAgZnJlZXplID4gcmVxdWlyZW1lbnRzLnR4dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LWUgZ2l0K2h0dHA6Ly9wemhhbmc6JCVeYWJjMTIzQGdpdGxhYi5haWJlZS5jbi9Qcm9kdWN0QW5hbHlzaXMvTGFiZWxpbmdTeXN0ZW0uZ2l0QDk0YTk1ODk4YTZlZWJiYjVjZGRkNDk4MWVhZTkxOTI4ZDcyOTJiZmEjZWdnPUh1bWFuQ2hlY2sK</text>
+        <text encoding="base64">5a6J6KOFIEB5aW5neWlsZSDnmoTkvp3otZYKcGlwZW52IGluc3RhbGwgLWUgZ2l0K2h0dHA6Ly9wemhhbmc6JCVeYWJjMTIzQGdpdGxhYi5haWJlZS5jbi95bHlpbmcvSHVtYW5DaGVjay5naXQjZWdnPUh1bWFuQ2hlY2sKCiNwaXAgaW5zdGFsbCAtZSBnaXQraHR0cDovL3B6aGFuZzokJV5hYmMxMjNAZ2l0bGFiLmFpYmVlLmNuL3lseWluZy9IdW1hbkNoZWNrLmdpdCNlZ2c9SHVtYW5DaGVjawoKcGlwIHVuaW5zdGFsbCAteSBIdW1hbkNoZWNrCnBpcCBpbnN0YWxsIC1lIGdpdCtodHRwOi8vcHpoYW5nOiQlXmFiYzEyM0BnaXRsYWIuYWliZWUuY24vUHJvZHVjdEFuYWx5c2lzL0xhYmVsaW5nU3lzdGVtLmdpdCNlZ2c9SHVtYW5DaGVjawpwaXAgZnJlZXplID4gcmVxdWlyZW1lbnRzLnR4dAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YnVtcF9wYXRjaDoKCWJ1bXB2ZXJzaW9uIHBhdGNoCglnaXQgcHVzaAoJZ2l0IHB1c2ggLS10YWdzCgoj5aKe5YqgZG9j55u45YWzCmRvYzogYnVtcF9wYXRjaAoJI+WFiOWNh+e6p+eJiOacrOWPt++8jOeEtuWQjueUn+aIkOaWh+aho++8jOeEtuWQjuWGjeWNh+e6p+eJiOacrOWPt++8jOWGjXB1c2gKCWFwaWRvYyAtaSBrMTFfcHJvZHVjdF9yZWNvZ25pdGlvbi8gLW8gYXBpZG9jLwoJYXBpZG9jLW1hcmtkb3duIC1wIGFwaWRvYyAtbyBkb2MubWQKCWdpdCBhZGQgLUEKCWdpdCBjb21taXQgLWFtICJNT0Q6IGRvYyB1cGRhdGUiCglidW1wdmVyc2lvbiBwYXRjaAoJZ2l0IHB1c2gKCWdpdCBwdXNoIC0tdGFncwoK</text>
+        <text encoding="base64">LWUgZ2l0K2h0dHA6Ly9wemhhbmc6JCVeYWJjMTIzQGdpdGxhYi5haWJlZS5jbi9Qcm9kdWN0QW5hbHlzaXMvTGFiZWxpbmdTeXN0ZW0uZ2l0QDk0YTk1ODk4YTZlZWJiYjVjZGRkNDk4MWVhZTkxOTI4ZDcyOTJiZmEjZWdnPUh1bWFuQ2hlY2sK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I3RvZG8gYWRkIGs4cyB2ZXJzaW9uIGZpbGUgcmVsYXRlZAo=</text>
+        <text encoding="base64">YnVtcF9wYXRjaDoKCWJ1bXB2ZXJzaW9uIHBhdGNoCglnaXQgcHVzaAoJZ2l0IHB1c2ggLS10YWdzCgoj5aKe5YqgZG9j55u45YWzCmRvYzogYnVtcF9wYXRjaAoJI+WFiOWNh+e6p+eJiOacrOWPt++8jOeEtuWQjueUn+aIkOaWh+aho++8jOeEtuWQjuWGjeWNh+e6p+eJiOacrOWPt++8jOWGjXB1c2gKCWFwaWRvYyAtaSBrMTFfcHJvZHVjdF9yZWNvZ25pdGlvbi8gLW8gYXBpZG9jLwoJYXBpZG9jLW1hcmtkb3duIC1wIGFwaWRvYyAtbyBkb2MubWQKCWdpdCBhZGQgLUEKCWdpdCBjb21taXQgLWFtICJNT0Q6IGRvYyB1cGRhdGUiCglidW1wdmVyc2lvbiBwYXRjaAoJZ2l0IHB1c2gKCWdpdCBwdXNoIC0tdGFncwoK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">I3RvZG8gYWRkIGs4cyB2ZXJzaW9uIGZpbGUgcmVsYXRlZAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">I3RvZG8gY2hhbmdlIGl0Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">MTAzMzIgIAoxMDMzMyAgCjEwMzM0ICAKMTAzMzUgIAoxMDMzNiAgCjEwMzM3ICAKMTAzMzggIAoxMDMzOSAgCjEwMzQwICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">IyBDb3B5cmlnaHQgMjAxNSBnUlBDIGF1dGhvcnMuCiMKIyBMaWNlbnNlZCB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wICh0aGUgIkxpY2Vuc2UiKTsKIyB5b3UgbWF5IG5vdCB1c2UgdGhpcyBmaWxlIGV4Y2VwdCBpbiBjb21wbGlhbmNlIHdpdGggdGhlIExpY2Vuc2UuCiMgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiMKIyAgICAgaHR0cDovL3d3dy5hcGFjaGUub3JnL2xpY2Vuc2VzL0xJQ0VOU0UtMi4wCiMKIyBVbmxlc3MgcmVxdWlyZWQgYnkgYXBwbGljYWJsZSBsYXcgb3IgYWdyZWVkIHRvIGluIHdyaXRpbmcsIHNvZnR3YXJlCiMgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKIyBXSVRIT1VUIFdBUlJBTlRJRVMgT1IgQ09ORElUSU9OUyBPRiBBTlkgS0lORCwgZWl0aGVyIGV4cHJlc3Mgb3IgaW1wbGllZC4KIyBTZWUgdGhlIExpY2Vuc2UgZm9yIHRoZSBzcGVjaWZpYyBsYW5ndWFnZSBnb3Zlcm5pbmcgcGVybWlzc2lvbnMgYW5kCiMgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiIiIlRoZSBQeXRob24gaW1wbGVtZW50YXRpb24gb2YgdGhlIEdSUEMgaGVsbG93b3JsZC5HcmVldGVyIGNsaWVudC4iIiIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdHViID0gc2t1X3BiMl9ncnBjLlNrdVN0dWIoY2hhbm5lbCkKICAgICAgICByZXNwb25zZSA9IHN0dWIuZXh0cmFjdChza3VfcGIyLkV4dHJhY3RSZXF1ZXN0KAogICAgICAgICAgICBpbWFnZV9iYXNlNjQ9JycsCiAgICAgICAgICAgIGJveD1bXSkpCiAgICAgICAgcHJpbnQoImV4dHJhY3RvciBjbGllbnQgYm94IGVtcHR5IGFycmF5IHJlY2VpdmVkMTogIiArIHN0cihyZXNwb25zZS5mZWF0dXJlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>11</text>
