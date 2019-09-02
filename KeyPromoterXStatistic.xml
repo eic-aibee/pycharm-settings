@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2098</Count>
+          <Count>2101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -950,7 +950,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>270</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ctf-smart-tray'">
