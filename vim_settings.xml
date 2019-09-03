@@ -28,7 +28,9 @@
         <mark key="." line="27" column="98" />
         <mark key="^" line="27" column="97" />
       </file>
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/weekly_files.py" timestamp="1567517316440" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/schedule/job.py" timestamp="1567392880914" />
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/models/user.py" timestamp="1567517406316" />
       <file name="$USER_HOME$/aibee/bosideng_sku/README.md" timestamp="1566369571272">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -47,6 +49,7 @@
         <mark key="." line="174" column="25" />
         <mark key="^" line="57" column="106" />
       </file>
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/auth.py" timestamp="1567517431607" />
       <file name="$USER_HOME$/aibee/bosideng_sku/.bumpversion.cfg" timestamp="1566540978481">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -59,6 +62,7 @@
         <mark key="^" line="22" column="39" />
         <mark key="." line="22" column="39" />
       </file>
+      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/rfid.py" timestamp="1567517261534" />
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567149551117">
         <mark key="[" line="47" column="16" />
         <mark key="]" line="47" column="16" />
@@ -80,6 +84,7 @@
       <file name="$USER_HOME$/github/blinker/blinker/__init__.py" timestamp="1567429477466" />
       <file name="$USER_HOME$/github/blinker/Makefile" timestamp="1567431739957" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/api/project.py" timestamp="1567392352912" />
+      <file name="$USER_HOME$/aibee/smart_counter/docker-compose-local.yml" timestamp="1567517206663" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/.bumpversion.cfg" timestamp="1566898915079">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="17" column="25" />
