@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2120</Count>
+          <Count>2121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1646,7 +1646,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥T'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1054</Count>
+          <Count>1055</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1710,7 +1710,7 @@
           <IdeaActionID>PublishGroup.UploadTo</IdeaActionID>
           <ShortCut>'⌥⇧⌘X'</ShortCut>
           <Description>Upload to...</Description>
-          <Count>89</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">

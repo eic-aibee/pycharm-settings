@@ -10,11 +10,11 @@
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-ingress.yaml" timestamp="1567580414808" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/auth.py" timestamp="1567517431607" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/rfid.py" timestamp="1567517261534" />
-      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567562335923">
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="47" column="16" />
-        <mark key="^" line="46" column="32" />
-        <mark key="." line="47" column="16" />
+      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567596068502">
+        <mark key="[" line="49" column="4" />
+        <mark key="]" line="49" column="4" />
+        <mark key="^" line="49" column="4" />
+        <mark key="." line="49" column="4" />
       </file>
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/bosideng-sku-detector-grpc-ingress.yaml" timestamp="1567590022453" />
       <file name="$USER_HOME$/github/blinker/blinker/__init__.py" timestamp="1567517767834" />
@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/github/blinker/blinker/_utilities.py" timestamp="1567518968714" />
       <file name="$USER_HOME$/aibee/smart_counter/Pipfile" timestamp="1567497881185" />
       <file name="$USER_HOME$/aibee/label-tool/init_online.sh" timestamp="1567393404806" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" timestamp="1567568348125">
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" timestamp="1567595638909">
         <mark key="'" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/bosideng_sku/Makefile" timestamp="1567579168096" />
