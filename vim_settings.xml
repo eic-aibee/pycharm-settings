@@ -112,6 +112,9 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
       </file>
+      <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1567568083053">
+        <mark key="'" line="350" column="6" />
+      </file>
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/config/config.yml" timestamp="1567150525601">
         <mark key="[" line="41" column="106" />
         <mark key="]" line="41" column="107" />
@@ -119,6 +122,7 @@
         <mark key="^" line="41" column="101" />
       </file>
       <file name="$USER_HOME$/github/blinker/tests/test_signals.py" timestamp="1567560561716" />
+      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1567568456177" />
       <file name="$USER_HOME$/github/blinker/blinker/_utilities.py" timestamp="1567518968714" />
       <file name="$USER_HOME$/aibee/smart_counter/Pipfile" timestamp="1567497881185" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/k8s/k11-product-recognition-service-deployment.yaml" timestamp="1566898414657">
@@ -134,6 +138,9 @@
         <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/aibee/label-tool/init_online.sh" timestamp="1567393404806" />
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" timestamp="1567568348125">
+        <mark key="'" line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/aibee/label-tool/k8s/label-tool-service-deployment.yaml" timestamp="1567396723646">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
@@ -142,24 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1815" column="11" filename="$USER_HOME$/.local/share/virtualenvs/sku-NL9Q8_NY/lib/python2.7/site-packages/grpc/__init__.py" />
-      <jump line="1830" column="6" filename="$USER_HOME$/.local/share/virtualenvs/sku-NL9Q8_NY/lib/python2.7/site-packages/grpc/__init__.py" />
-      <jump line="1846" column="57" filename="$USER_HOME$/.local/share/virtualenvs/sku-NL9Q8_NY/lib/python2.7/site-packages/grpc/__init__.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/aibee/image_search/image_search/config/config.yml" />
-      <jump line="65" column="22" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
-      <jump line="131" column="4" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
-      <jump line="83" column="10" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/aibee/sku/sku/sku_server.py" />
-      <jump line="68" column="0" filename="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_server.py" />
-      <jump line="35" column="12" filename="$USER_HOME$/aibee/label-tool/requirements.txt" />
-      <jump line="37" column="0" filename="$USER_HOME$/aibee/label-tool/requirements.txt" />
-      <jump line="7" column="12" filename="$USER_HOME$/aibee/smart_counter/smart_counter/__init__.py" />
-      <jump line="37" column="35" filename="$USER_HOME$/aibee/smart_counter/smart_counter/flask_prometheus/__init__.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/aibee/smart_counter/.gitignore" />
-      <jump line="9" column="0" filename="$USER_HOME$/aibee/smart_counter/.dockerignore" />
-      <jump line="0" column="0" filename="$USER_HOME$/aibee/smart_counter/.dockerignore" />
-      <jump line="71" column="25" filename="$USER_HOME$/aibee/smart_counter/smart_counter/flask_prometheus/__init__.py" />
       <jump line="91" column="0" filename="$USER_HOME$/aibee/smart_counter/.gitignore" />
       <jump line="27" column="0" filename="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/prometheus/__init__.py" />
       <jump line="25" column="53" filename="$USER_HOME$/aibee/cookiecutter-flask/{{cookiecutter.project_name}}/{{cookiecutter.project_name}}/__init__.py" />
@@ -242,6 +231,24 @@
       <jump line="13" column="96" filename="$USER_HOME$/aibee/k11-label/Dockerfile" />
       <jump line="14" column="102" filename="$USER_HOME$/aibee/k11-label/Dockerfile" />
       <jump line="31" column="12" filename="$USER_HOME$/aibee/k11-label/requirements.txt" />
+      <jump line="16" column="13" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="260" column="0" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="355" column="4" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="525" column="30" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="618" column="4" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="714" column="6" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="726" column="29" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="820" column="6" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="828" column="44" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="228" column="6" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="234" column="6" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="243" column="53" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="350" column="6" filename="$USER_HOME$/aibee/ctf-api/ctf/settings.py" />
+      <jump line="62" column="2" filename="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" />
+      <jump line="30" column="25" filename="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" />
+      <jump line="32" column="2" filename="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" />
+      <jump line="64" column="0" filename="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -251,7 +258,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>k11-human</text>
+        <text encoding="base64">XDxLQUZLQV9UT1BJQ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSAtciByZXF1aXJlbWVudHMudHh0Cg==</text>
@@ -287,13 +294,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>11</text>
+        <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search>k11-human</last-search>
+      <last-search encoding="base64">XDxLQUZLQV9UT1BJQ1w+</last-search>
       <last-offset />
-      <last-pattern>k11-human</last-pattern>
+      <last-pattern encoding="base64">XDxLQUZLQV9UT1BJQ1w+</last-pattern>
       <last-replace>bosideng-sku</last-replace>
       <last-substitute>example</last-substitute>
       <last-dir>1</last-dir>
@@ -301,8 +308,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHRyYWN0X2FuZF9jbGFzc2lmeV9iZXN0XD4=</entry>
-        <entry encoding="base64">XDxzdGFydF9odHRwX3NlcnZlclw+</entry>
         <entry encoding="base64">XDxza3VfZGV0ZWN0b3JcPg==</entry>
         <entry>smart</entry>
         <entry>smart_counter</entry>
@@ -321,6 +326,8 @@
         <entry>requirements</entry>
         <entry>k11-huamn</entry>
         <entry>k11-human</entry>
+        <entry>KAFKA_FACE_PUSH_TOPIC</entry>
+        <entry encoding="base64">XDxLQUZLQV9UT1BJQ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sku/sku-detector/g</entry>
@@ -341,8 +348,8 @@
         <entry>%s/sku-detector/bosideng-sku-detector/g</entry>
         <entry>%s/sku/bosideng-sku/g</entry>
         <entry>32,$s/example/bosideng-sku/g</entry>
-        <entry>sp</entry>
         <entry>11</entry>
+        <entry>sp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
