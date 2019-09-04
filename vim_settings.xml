@@ -7,6 +7,7 @@
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/weekly_files.py" timestamp="1567517316440" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/schedule/job.py" timestamp="1567392880914" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/models/user.py" timestamp="1567517406316" />
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-ingress.yaml" timestamp="1567580414808" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/auth.py" timestamp="1567517431607" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/rfid.py" timestamp="1567517261534" />
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567562335923">
@@ -15,13 +16,15 @@
         <mark key="^" line="46" column="32" />
         <mark key="." line="47" column="16" />
       </file>
+      <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/bosideng-sku-detector-grpc-ingress.yaml" timestamp="1567580541824" />
       <file name="$USER_HOME$/github/blinker/blinker/__init__.py" timestamp="1567517767834" />
       <file name="$USER_HOME$/github/blinker/Makefile" timestamp="1567431739957" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/api/project.py" timestamp="1567392352912" />
       <file name="$USER_HOME$/aibee/smart_counter/docker-compose-local.yml" timestamp="1567517206663" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1567579054924" />
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1567580445103" />
       <file name="$USER_HOME$/github/blinker/blinker/_saferef.py" timestamp="1567518784561" />
       <file name="$USER_HOME$/aibee/label-tool/Makefile" timestamp="1567426486853" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/k8s_test/bosideng-sku-grpc-ingress.yaml" timestamp="1567580531530" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/counter.py" timestamp="1567567693589" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1567568083053">
         <mark key="'" line="350" column="6" />
