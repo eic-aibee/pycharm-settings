@@ -3,65 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/aibee/k11_product_recognition/apidoc.json" timestamp="1566898810218">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/aibee/k11_product_recognition/k8s_test/k11-product-recognition-service-schedule-deployment.yaml" timestamp="1566898467316">
-        <mark key="[" line="15" column="74" />
-        <mark key="]" line="15" column="78" />
-        <mark key="." line="15" column="78" />
-        <mark key="^" line="15" column="78" />
-      </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/README.md" timestamp="1566267962016">
-        <mark key="[" line="64" column="1" />
-        <mark key="]" line="65" column="12" />
-        <mark key="^" line="65" column="12" />
-        <mark key="." line="65" column="12" />
-      </file>
       <file name="$USER_HOME$/github/blinker/blinker/base.py" timestamp="1567519386201" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/protos/sku.proto" timestamp="1566549700592">
-        <mark key="[" line="27" column="98" />
-        <mark key="]" line="27" column="98" />
-        <mark key="." line="27" column="98" />
-        <mark key="^" line="27" column="97" />
-      </file>
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/weekly_files.py" timestamp="1567517316440" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/schedule/job.py" timestamp="1567392880914" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/models/user.py" timestamp="1567517406316" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/README.md" timestamp="1566369571272">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="77" column="80" />
-        <mark key="." line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/aibee/label-tool/README.md" timestamp="1567395965656">
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="11" />
-        <mark key="." line="32" column="11" />
-        <mark key="^" line="32" column="10" />
-      </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/sku_detector/sku_detector_server.py" timestamp="1566268386897">
-        <mark key="[" line="174" column="25" />
-        <mark key="]" line="174" column="25" />
-        <mark key="." line="174" column="25" />
-        <mark key="^" line="57" column="106" />
-      </file>
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/auth.py" timestamp="1567517431607" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/.bumpversion.cfg" timestamp="1566540978481">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="6" column="59" />
-      </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_client.py" timestamp="1565946406191">
-        <mark key="[" line="22" column="31" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="39" />
-      </file>
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/rfid.py" timestamp="1567517261534" />
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567562335923">
         <mark key="[" line="47" column="16" />
@@ -69,84 +15,26 @@
         <mark key="^" line="46" column="32" />
         <mark key="." line="47" column="16" />
       </file>
-      <file name="$USER_HOME$/aibee/k11_product_recognition/k8s_test/k11-product-recognition-service-deployment.yaml" timestamp="1566898455263">
-        <mark key="[" line="15" column="74" />
-        <mark key="]" line="15" column="78" />
-        <mark key="." line="15" column="78" />
-        <mark key="^" line="15" column="78" />
-      </file>
-      <file name="$USER_HOME$/aibee/k11_product_recognition/k8s/nginx-deployment.yaml" timestamp="1566898428191">
-        <mark key="[" line="16" column="70" />
-        <mark key="]" line="16" column="74" />
-        <mark key="." line="16" column="74" />
-        <mark key="^" line="16" column="74" />
-      </file>
       <file name="$USER_HOME$/github/blinker/blinker/__init__.py" timestamp="1567517767834" />
       <file name="$USER_HOME$/github/blinker/Makefile" timestamp="1567431739957" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/api/project.py" timestamp="1567392352912" />
       <file name="$USER_HOME$/aibee/smart_counter/docker-compose-local.yml" timestamp="1567517206663" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/.bumpversion.cfg" timestamp="1566898915079">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-      </file>
-      <file name="$USER_HOME$/aibee/smart_counter/init_test.sh" timestamp="1567150554342">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
-        <mark key="^" line="6" column="33" />
-      </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1567579054924" />
       <file name="$USER_HOME$/github/blinker/blinker/_saferef.py" timestamp="1567518784561" />
       <file name="$USER_HOME$/aibee/label-tool/Makefile" timestamp="1567426486853" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/k8s_test/nginx-deployment.yaml" timestamp="1566898475544">
-        <mark key="[" line="16" column="70" />
-        <mark key="]" line="16" column="74" />
-        <mark key="." line="16" column="74" />
-        <mark key="^" line="16" column="74" />
-      </file>
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/counter.py" timestamp="1567567693589" />
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/Makefile" timestamp="1566542508509">
-        <mark key="[" line="39" column="54" />
-        <mark key="]" line="39" column="54" />
-        <mark key="." line="39" column="54" />
-        <mark key="^" line="39" column="54" />
-      </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1567568083053">
         <mark key="'" line="350" column="6" />
-      </file>
-      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/config/config.yml" timestamp="1567150525601">
-        <mark key="[" line="41" column="106" />
-        <mark key="]" line="41" column="107" />
-        <mark key="." line="41" column="107" />
-        <mark key="^" line="41" column="101" />
       </file>
       <file name="$USER_HOME$/github/blinker/tests/test_signals.py" timestamp="1567560561716" />
       <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1567568456177" />
       <file name="$USER_HOME$/github/blinker/blinker/_utilities.py" timestamp="1567518968714" />
       <file name="$USER_HOME$/aibee/smart_counter/Pipfile" timestamp="1567497881185" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/k8s/k11-product-recognition-service-deployment.yaml" timestamp="1566898414657">
-        <mark key="[" line="45" column="74" />
-        <mark key="]" line="45" column="78" />
-        <mark key="." line="45" column="78" />
-        <mark key="^" line="45" column="78" />
-      </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku/start.sh" timestamp="1565944696080">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-      </file>
       <file name="$USER_HOME$/aibee/label-tool/init_online.sh" timestamp="1567393404806" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" timestamp="1567568348125">
         <mark key="'" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/label-tool/k8s/label-tool-service-deployment.yaml" timestamp="1567396723646">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="12" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="11" column="12" />
-      </file>
+      <file name="$USER_HOME$/aibee/bosideng_sku/Makefile" timestamp="1567579168096" />
     </filemarks>
     <jumps>
       <jump line="91" column="0" filename="$USER_HOME$/aibee/smart_counter/.gitignore" />
