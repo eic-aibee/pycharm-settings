@@ -10,21 +10,30 @@
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-ingress.yaml" timestamp="1567580414808" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/auth.py" timestamp="1567517431607" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/rfid.py" timestamp="1567517261534" />
-      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567651990151">
-        <mark key="]" line="1" column="32" />
+      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567652578397">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="8" />
+        <mark key="^" line="60" column="23" />
+        <mark key="." line="60" column="8" />
       </file>
       <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/bosideng-sku-detector-grpc-ingress.yaml" timestamp="1567590022453" />
-      <file name="$USER_HOME$/aibee/label-tool/nginx/k8s/Dockerfile" timestamp="1567652252942" />
+      <file name="$USER_HOME$/aibee/label-tool/nginx/k8s/Dockerfile" timestamp="1567652288550" />
       <file name="$USER_HOME$/github/blinker/blinker/__init__.py" timestamp="1567517767834" />
       <file name="$USER_HOME$/github/blinker/Makefile" timestamp="1567431739957" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/api/project.py" timestamp="1567392352912" />
       <file name="$USER_HOME$/aibee/smart_counter/docker-compose-local.yml" timestamp="1567517206663" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1567590030192" />
       <file name="$USER_HOME$/github/blinker/blinker/_saferef.py" timestamp="1567518784561" />
-      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/Dockerfile" timestamp="1567652264000" />
+      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/Dockerfile" timestamp="1567652292874">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+      </file>
       <file name="$USER_HOME$/aibee/label-tool/Makefile" timestamp="1567426486853" />
       <file name="$USER_HOME$/aibee/bosideng_sku/k8s_test/bosideng-sku-grpc-ingress.yaml" timestamp="1567580531530" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/counter.py" timestamp="1567567693589" />
+      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/nginx.conf" timestamp="1567652609253" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1567568083053">
         <mark key="'" line="350" column="6" />
       </file>
@@ -142,7 +151,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRfYm9keV9idWZmZXJfc2l6ZSAyMG07CiAgICAgICAgcHJveHlfaHR0cF92ZXJzaW9uIDEuMTsKICAgICAgICBwcm94eV9zZXRfaGVhZGVyIENvbm5lY3Rpb24gIiI7CiAgICAgICAgcHJveHlfYnVmZmVyaW5nIG9mZjsKICAgICAgICBwcm94eV9jb25uZWN0X3RpbWVvdXQgOTAwczsKICAgICAgICBwcm94eV9zZW5kX3RpbWVvdXQgOTAwczsKICAgICAgICBwcm94eV9yZWFkX3RpbWVvdXQgOTAwczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0IDkwMHM7CiAgICAgICAgICAgIHByb3h5X3NlbmRfdGltZW91dCA5MDBzOwogICAgICAgICAgICBwcm94eV9yZWFkX3RpbWVvdXQgOTAwczsK</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -151,7 +160,7 @@
         <text encoding="base64">XDxLQUZLQV9UT1BJQ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSAtciByZXF1aXJlbWVudHMudHh0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJveHlfY29ubmVjdF90aW1lb3V0IDkwMHM7CiAgICAgICAgICAgIHByb3h5X3NlbmRfdGltZW91dCA5MDBzOwogICAgICAgICAgICBwcm94eV9yZWFkX3RpbWVvdXQgOTAwczsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjbGllbnRfYm9keV9idWZmZXJfc2l6ZSAyMG07CiAgICAgICAgcHJveHlfaHR0cF92ZXJzaW9uIDEuMTsKICAgICAgICBwcm94eV9zZXRfaGVhZGVyIENvbm5lY3Rpb24gIiI7CiAgICAgICAgcHJveHlfYnVmZmVyaW5nIG9mZjsKICAgICAgICBwcm94eV9jb25uZWN0X3RpbWVvdXQgOTAwczsKICAgICAgICBwcm94eV9zZW5kX3RpbWVvdXQgOTAwczsKICAgICAgICBwcm94eV9yZWFkX3RpbWVvdXQgOTAwczsK</text>
