@@ -8,6 +8,7 @@
       <file name="$USER_HOME$/aibee/label-tool/label_tool/schedule/job.py" timestamp="1567392880914" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/models/user.py" timestamp="1567517406316" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-ingress.yaml" timestamp="1567580414808" />
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/utils.py" timestamp="1567689593783" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/auth.py" timestamp="1567517431607" />
       <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/rfid.py" timestamp="1567517261534" />
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567652578397">
