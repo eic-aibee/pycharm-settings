@@ -3,52 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/github/blinker/blinker/base.py" timestamp="1567519386201" />
-      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/weekly_files.py" timestamp="1567517316440" />
-      <file name="$USER_HOME$/aibee/label-tool/label_tool/schedule/job.py" timestamp="1567392880914" />
-      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/models/user.py" timestamp="1567517406316" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-ingress.yaml" timestamp="1567580414808" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/utils.py" timestamp="1567690578971" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Pipfile" timestamp="1567739978493" />
-      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/auth.py" timestamp="1567517431607" />
-      <file name="$USER_HOME$/aibee/ctf-fileserver/fileserver/api/files.py" timestamp="1567741622738" />
-      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/rfid.py" timestamp="1567517261534" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/Pipfile" timestamp="1567763269850" />
+      <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1567568083053">
+        <mark key="'" line="350" column="6" />
+      </file>
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567652578397">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="8" />
         <mark key="^" line="60" column="23" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku_detector/k8s_test/bosideng-sku-detector-grpc-ingress.yaml" timestamp="1567590022453" />
-      <file name="$USER_HOME$/aibee/label-tool/nginx/k8s/Dockerfile" timestamp="1567652288550" />
-      <file name="$USER_HOME$/github/blinker/blinker/__init__.py" timestamp="1567517767834" />
-      <file name="$USER_HOME$/github/blinker/Makefile" timestamp="1567431739957" />
-      <file name="$USER_HOME$/aibee/label-tool/label_tool/api/project.py" timestamp="1567392352912" />
-      <file name="$USER_HOME$/aibee/smart_counter/docker-compose-local.yml" timestamp="1567517206663" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1567590030192" />
-      <file name="$USER_HOME$/github/blinker/blinker/_saferef.py" timestamp="1567518784561" />
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/Dockerfile" timestamp="1567652292874">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="13" column="36" />
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/aibee/label-tool/Makefile" timestamp="1567426486853" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/k8s_test/bosideng-sku-grpc-ingress.yaml" timestamp="1567580531530" />
-      <file name="$USER_HOME$/aibee/smart_counter/smart_counter/api/counter.py" timestamp="1567567693589" />
-      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/nginx.conf" timestamp="1567652609253" />
-      <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1567568083053">
-        <mark key="'" line="350" column="6" />
-      </file>
-      <file name="$USER_HOME$/github/blinker/tests/test_signals.py" timestamp="1567560561716" />
-      <file name="$USER_HOME$/aibee/k11_product_recognition/k11_product_recognition/settings.py" timestamp="1567568456177" />
-      <file name="$USER_HOME$/github/blinker/blinker/_utilities.py" timestamp="1567518968714" />
-      <file name="$USER_HOME$/aibee/smart_counter/Pipfile" timestamp="1567497881185" />
-      <file name="$USER_HOME$/aibee/label-tool/init_online.sh" timestamp="1567393404806" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/k8s_test/bosideng-sku-grpc-ingress.yaml" timestamp="1567759866198" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" timestamp="1567595638909">
         <mark key="'" line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/bosideng_sku/Makefile" timestamp="1567579168096" />
+      <file name="$USER_HOME$/aibee/bosideng_sku/Makefile" timestamp="1567763292846" />
     </filemarks>
     <jumps>
       <jump line="91" column="0" filename="$USER_HOME$/aibee/smart_counter/.gitignore" />
