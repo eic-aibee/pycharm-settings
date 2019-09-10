@@ -21,7 +21,7 @@
         <mark key="^" line="54" column="26" />
         <mark key="." line="55" column="26" />
       </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-celery-deployment.yaml" timestamp="1568101310718">
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-celery-deployment.yaml" timestamp="1568105324811">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
@@ -32,10 +32,10 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-kafka-consume-deployment.yaml" timestamp="1568102672450">
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-kafka-consume-deployment.yaml" timestamp="1568105328998">
         <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="12" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/Dockerfile" timestamp="1567652292874">
@@ -66,16 +66,16 @@
         <mark key="." line="41" column="17" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568104396815">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="16" />
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568106112469">
+        <mark key="'" line="21" column="16" />
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="18" />
+        <mark key="^" line="40" column="18" />
+        <mark key="." line="40" column="18" />
       </file>
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/redis-deployment.yaml" timestamp="1568104186840" />
     </filemarks>
     <jumps>
-      <jump line="35" column="15" filename="$USER_HOME$/aibee/sku/sku/sku_client.py" />
       <jump line="37" column="25" filename="$USER_HOME$/aibee/sku/sku/sku_client.py" />
       <jump line="153" column="4" filename="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_server.py" />
       <jump line="26" column="30" filename="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_server.py" />
@@ -175,66 +175,66 @@
       <jump line="25" column="21" filename="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/auth.py" />
       <jump line="53" column="61" filename="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/auth.py" />
       <jump line="54" column="21" filename="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/auth.py" />
+      <jump line="21" column="16" filename="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">YXBwbHkg</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">YXBwbHkg</text>
       </register>
       <register name="/" type="4">
-        <text>登出接口</text>
+        <text>staging-cpu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgTG9naW5SZXNvdXJjZShSZXNvdXJjZSk6CiAgICBAZXJyb3JfY29kZV9tZXNzYWdlX2hhbmRsZXIKICAgIEBzaWduYXR1cmVfdmVyaWZ5CiAgICBkZWYgcG9zdChzZWxmKToKICAgICAgICAiIiIKICAgICAgICAgICAgQGFwaSB7cG9zdH0gL3NtYXJ0X2RyZXNzaW5nX21pcnJvci9hcGkvdjEvbG9naW4g55m75b2V5o6l5Y+jCiAgICAgICAgICAgIEBhcGlOYW1lIOeZu+W9leaOpeWPowogICAgICAgICAgICBAYXBpR3JvdXAgYXV0aAoKICAgICAgICAgICAgQGFwaVBhcmFtIHtTdHJpbmd9IGFjY291bnRfbmFtZSDotKbmiLflkI0KICAgICAgICAgICAgQGFwaVBhcmFtIHtTdHJpbmd9IHBhc3N3b3JkIOWvhueggQoKICAgICAgICAgICAgQGFwaVN1Y2Nlc3NFeGFtcGxlIFN1Y2Nlc3MtUmVzcG9uc2U6CiAgICAgICAgICAgICAgSFRUUC8xLjEgMjAwIE9LCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgImVycm9yX25vIjogMCwKICAgICAgICAgICAgICAgICAgICAiZXJyb3JfbXNnIjogIiIsCiAgICAgICAgICAgICAgICAgICAgImRhdGEiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICJ0b2tlbiI6ICJleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcFlYUWlPakUxTmpnd09UVTRPVGdzSW5OMVlpSTZJak1pTENKbGVIQWlPakUxTnpBMk9EYzRPVGg5LlhwSS1LQUNxZFc4YTJ0czY5S3VIQk9maDRROEEyQk53TGV3ZG9UVldXViIKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICDmjqXlj6PkuK3pg73luKbkuIpBdXRob3JpemF0aW9u55qEaGVhZGVyLCDkvovlpoI6CiAgICAgICAgICAgIEF1dGhvcml6YXRpb246IGV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWVhRaU9qRTFOamd3T1RVNE9UZ3NJbk4xWWlJNklqTWlMQ0psZUhBaU9qRTFOekEyT0RjNE9UaDkuWHBJLUtBQ3FkVzhhMnRzNjlLdUhCT2ZoNFE4QTJCTndMZXdkb1RWV1dWMAoKICAgICAgICAiIiIKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">azhzX3Rlc3Q6CgkjIOS9v+eUqOWMl+S6rOeahOmbhue+pOi3kXN0YWdpbmfmtYvor5UKCWt1YmVjdGwgY29uZmlnIHVzZS1jb250ZXh0IGJqCglkb2NrZXIgYnVpbGQgLiAtdCByZWdpc3RyeS5haWJlZS5jbi9zbWFydC1kcmVzc2luZy1taXJyb3Ivc21hcnQtZHJlc3NpbmctbWlycm9yLXNlcnZpY2U6JChWRVJTSU9OKQoJZG9ja2VyIHB1c2ggcmVnaXN0cnkuYWliZWUuY24vc21hcnQtZHJlc3NpbmctbWlycm9yL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci1zZXJ2aWNlOiQoVkVSU0lPTikKCSPmraTlpIRURVNU5YaZ5q2755qE5a2X6Z2i5YC8CglrdWJlY3RsIGFwcGx5IC0tbmFtZXNwYWNlPW1hbmFnZSAtZiBrOHMvcmVkaXMtZGVwbG95bWVudC55YW1sCglrdWJlY3RsIGFwcGx5IC0tbmFtZXNwYWNlPW1hbmFnZSAtZiBrOHMvcmVkaXMtc2VydmljZS55YW1sCgljYXQgazhzL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci1zZXJ2aWNlLWRlcGxveW1lbnQueWFtbCB8IHNlZCAicy97e1ZFUlNJT059fS8kKFZFUlNJT04pL2ciIHwgc2VkICJzL3t7T1JEQk9LX0VOVklST05NRU5UfX0vVEVTVC9nIiAgfCBrdWJlY3RsIGFwcGx5IC0tbmFtZXNwYWNlPW1hbmFnZSAtZiAtCgljYXQgazhzL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci1rYWZrYS1jb25zdW1lLWRlcGxveW1lbnQueWFtbCB8IHNlZCAicy97e1ZFUlNJT059fS8kKFZFUlNJT04pL2ciIHwgc2VkICJzL3t7T1JEQk9LX0VOVklST05NRU5UfX0vVEVTVC9nIiAgfCBrdWJlY3RsIGFwcGx5IC0tbmFtZXNwYWNlPW1hbmFnZSAtZiAtCgljYXQgazhzL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci1jZWxlcnktZGVwbG95bWVudC55YW1sIHwgc2VkICJzL3t7VkVSU0lPTn19LyQoVkVSU0lPTikvZyIgfCBzZWQgInMve3tPUkRCT0tfRU5WSVJPTk1FTlR9fS9URVNUL2ciICB8IGt1YmVjdGwgYXBwbHkgLS1uYW1lc3BhY2U9bWFuYWdlIC1mIC0KCWt1YmVjdGwgYXBwbHkgLS1uYW1lc3BhY2U9bWFuYWdlIC1mIGs4cy9zbWFydC1kcmVzc2luZy1taXJyb3Itc2VydmljZS1zZXJ2aWNlLnlhbWwKCSPmraTlpITln5/lkI3lhpnmrbvnmoTlrZfpnaLlgLzvvIzlm6DkuLrmib7liLDkvKDpgJLlj5jph4/nmoTlkIjpgILlip7ms5UKCWNhdCBrOHMvc21hcnQtZHJlc3NpbmctbWlycm9yLWluZ3Jlc3MueWFtbCB8IHNlZCAicy97e0RPTUFJTl9OQU1FfX0vc21hcnQtZHJlc3NpbmctbWlycm9yLWd6LXRlc3QuYWliZWUuY24vZyIgfCBrdWJlY3RsIGFwcGx5IC0tbmFtZXNwYWNlPW1hbmFnZSAtZiAtCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5o6l5Y+j5Lit6YO95bim5LiKQXV0aG9yaXphdGlvbueahGhlYWRlciwg5L6L5aaCOgo=</text>
+        <text encoding="base64">CWRvY2tlciBwdXNoIHJlZ2lzdHJ5LmFpYmVlLmNuL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci9zbWFydC1kcmVzc2luZy1taXJyb3Itc2VydmljZTokKFZFUlNJT04pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGF0YSI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgInRva2VuIjogImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWVhRaU9qRTFOamd3T1RVNE9UZ3NJbk4xWWlJNklqTWlMQ0psZUhBaU9qRTFOekEyT0RjNE9UaDkuWHBJLUtBQ3FkVzhhMnRzNjlLdUhCT2ZoNFE4QTJCTndMZXdkb1RWV1dWIgogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CWRvY2tlciBidWlsZCAuIC10IHJlZ2lzdHJ5LmFpYmVlLmNuL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci9zbWFydC1kcmVzc2luZy1taXJyb3Itc2VydmljZTokKFZFUlNJT04pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg5o6l5Y+j5Lit6YO95bim5LiKQXV0aG9yaXphdGlvbueahGhlYWRlciwg5L6L5aaCOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGFwaVBhcmFtIHtTdHJpbmd9IHBhc3N3b3JkIOWvhueggQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGF0YSI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgInRva2VuIjogImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWVhRaU9qRTFOamd3T1RVNE9UZ3NJbk4xWWlJNklqTWlMQ0psZUhBaU9qRTFOekEyT0RjNE9UaDkuWHBJLUtBQ3FkVzhhMnRzNjlLdUhCT2ZoNFE4QTJCTndMZXdkb1RWV1dWIgogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGFwaVBhcmFtIHtTdHJpbmd9IGFjY291bnRfbmFtZSDotKbmiLflkI0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGFwaVBhcmFtIHtTdHJpbmd9IHBhc3N3b3JkIOWvhueggQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGFwaVBhcmFtIHtTdHJpbmd9IGFjY291bnRfbmFtZSDotKbmiLflkI0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>sp</text>
+        <text>%s/staging-cpu/manage/g</text>
       </register>
     </registers>
     <search>
-      <last-search>登出接口</last-search>
+      <last-search>staging-cpu</last-search>
       <last-offset />
-      <last-pattern>登出接口</last-pattern>
-      <last-replace>bosideng-sku</last-replace>
-      <last-substitute>example</last-substitute>
+      <last-pattern>staging-cpu</last-pattern>
+      <last-replace>manage</last-replace>
+      <last-substitute>staging-cpu</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>smart_counter</entry>
         <entry>sentry</entry>
         <entry encoding="base64">XDxfcm93c1w+</entry>
         <entry>REMEMBER_COOKIE_NAME</entry>
@@ -254,9 +254,9 @@
         <entry encoding="base64">XDxLQUZLQV9UT1BJQ1w+</entry>
         <entry>登录接口</entry>
         <entry>登出接口</entry>
+        <entry>staging-cpu</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/sku/sku-detector/g</entry>
         <entry>%s/centrifugo/service/g</entry>
         <entry>%s/smart-counter/image-search/g</entry>
         <entry>%s/smart-counter/image_search/g</entry>
@@ -276,6 +276,7 @@
         <entry>32,$s/example/bosideng-sku/g</entry>
         <entry>11</entry>
         <entry>sp</entry>
+        <entry>%s/staging-cpu/manage/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
