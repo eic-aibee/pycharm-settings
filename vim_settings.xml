@@ -27,22 +27,31 @@
         <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/utils.py" timestamp="1568095689813" />
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-service-deployment.yaml" timestamp="1568103053410">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-kafka-consume-deployment.yaml" timestamp="1568102672450">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/Dockerfile" timestamp="1567652292874">
         <mark key="[" line="12" column="37" />
         <mark key="]" line="13" column="36" />
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1567568083053">
-        <mark key="'" line="350" column="6" />
-      </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/utils.py" timestamp="1568102598570" />
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567652578397">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="8" />
         <mark key="^" line="60" column="23" />
         <mark key="." line="60" column="8" />
       </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" timestamp="1568101839247">
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" timestamp="1568102472132">
         <mark key="'" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/apidoc.json" timestamp="1568096955052">
@@ -57,7 +66,7 @@
         <mark key="." line="41" column="17" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568101427629">
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568102960330">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="15" />
@@ -168,10 +177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>登出接口</text>
