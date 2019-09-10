@@ -31,6 +31,7 @@
         <mark key="." line="42" column="13" />
         <mark key="^" line="42" column="13" />
       </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/README.md" timestamp="1568108957299" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-kafka-consume-deployment.yaml" timestamp="1568107216179">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="43" column="22" />
@@ -64,12 +65,12 @@
         <mark key="." line="41" column="17" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568107025983">
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568109292792">
         <mark key="'" line="21" column="16" />
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="18" />
-        <mark key="^" line="40" column="18" />
-        <mark key="." line="40" column="18" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="42" column="15" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/redis-deployment.yaml" timestamp="1568106887338">
         <mark key="[" line="38" column="0" />
