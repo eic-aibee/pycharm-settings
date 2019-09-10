@@ -13,7 +13,7 @@
         <mark key="^" line="16" column="46" />
       </file>
       <file name="$USER_HOME$/aibee/bosideng_sku/k8s_test/bosideng-sku-grpc-deployment.yaml" timestamp="1568094688298" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/image_file.py" timestamp="1568095130533" />
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/image_file.py" timestamp="1568104237349" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/auth.py" timestamp="1568097044675">
         <mark key="'" line="54" column="21" />
         <mark key="[" line="55" column="26" />
@@ -27,7 +27,7 @@
         <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/utils.py" timestamp="1568095689813" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-service-deployment.yaml" timestamp="1568103053410">
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-service-deployment.yaml" timestamp="1568104427924">
         <mark key="[" line="7" column="12" />
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
@@ -66,12 +66,13 @@
         <mark key="." line="41" column="17" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568102960330">
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568104396815">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/redis-deployment.yaml" timestamp="1568104186840" />
     </filemarks>
     <jumps>
       <jump line="35" column="15" filename="$USER_HOME$/aibee/sku/sku/sku_client.py" />
