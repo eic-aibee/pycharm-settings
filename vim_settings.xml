@@ -12,7 +12,7 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/aibee/sku/Dockerfile" timestamp="1568860888528" />
+      <file name="$USER_HOME$/aibee/sku/Dockerfile" timestamp="1568894511057" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/auth.py" timestamp="1568097044675">
         <mark key="'" line="54" column="21" />
         <mark key="[" line="55" column="26" />
@@ -44,7 +44,7 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1568883930751" />
+      <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1568894192082" />
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567652578397">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="8" />
@@ -61,6 +61,7 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/aibee/sku/requirements.txt" timestamp="1568893858850" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/__init__.py" timestamp="1568095264578">
         <mark key="[" line="41" column="14" />
         <mark key="]" line="41" column="17" />
@@ -68,7 +69,7 @@
         <mark key="^" line="41" column="17" />
       </file>
       <file name="$USER_HOME$/aibee/sku/docker-compose.yml" timestamp="1568877468234" />
-      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1568875135049" />
+      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1568894285417" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568860323789">
         <mark key="'" line="22" column="40" />
         <mark key="[" line="16" column="3" />
