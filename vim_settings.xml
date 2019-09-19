@@ -12,7 +12,8 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/aibee/sku/Dockerfile" timestamp="1568894511057" />
+      <file name="$USER_HOME$/aibee/sku/Dockerfile" timestamp="1568897083339" />
+      <file name="$USER_HOME$/aibee/sku/sku/sku_server_caffe.py" timestamp="1568897225153" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/auth.py" timestamp="1568097044675">
         <mark key="'" line="54" column="21" />
         <mark key="[" line="55" column="26" />
@@ -25,6 +26,7 @@
         <mark key="]" line="43" column="22" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/aibee/sku/sku/caffemodels/CTF_jelwery_deploy.prototxt" timestamp="1568896964484" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-service-deployment.yaml" timestamp="1568106857110">
         <mark key="'" line="7" column="12" />
         <mark key="[" line="41" column="0" />
@@ -44,7 +46,7 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1568894192082" />
+      <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1568897144414" />
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567652578397">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="8" />
@@ -69,7 +71,7 @@
         <mark key="^" line="41" column="17" />
       </file>
       <file name="$USER_HOME$/aibee/sku/docker-compose.yml" timestamp="1568877468234" />
-      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1568894285417" />
+      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1568896918140" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568860323789">
         <mark key="'" line="22" column="40" />
         <mark key="[" line="16" column="3" />
