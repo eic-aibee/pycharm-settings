@@ -28,6 +28,7 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
+      <file name="$USER_HOME$/aibee/image_search/init_prod.sh" timestamp="1568984596719" />
       <file name="$USER_HOME$/aibee/sku/start.sh" timestamp="1568947504022">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="3" column="16" />
@@ -35,7 +36,13 @@
         <mark key="." line="3" column="16" />
       </file>
       <file name="$USER_HOME$/aibee/sku/sku/caffemodels/CTF_jelwery_deploy.prototxt" timestamp="1568896964484" />
+      <file name="$USER_HOME$/aibee/image_search/Dockerfile" timestamp="1568984148152">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/aibee/sku/Pipfile" timestamp="1568946037556" />
+      <file name="$USER_HOME$/aibee/image_search/start.sh" timestamp="1568984857849" />
       <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1568897144414" />
       <file name="/Django Console" timestamp="1568945993728">
         <mark key="[" line="0" column="0" />
@@ -50,7 +57,7 @@
       </file>
       <file name="$USER_HOME$/aibee/sku/sku/utils.py" timestamp="1568947932174" />
       <file name="$USER_HOME$/aibee/sku/requirements.txt" timestamp="1568947189926" />
-      <file name="$USER_HOME$/aibee/image_search/Makefile" timestamp="1568981653253" />
+      <file name="$USER_HOME$/aibee/image_search/Makefile" timestamp="1568983749015" />
       <file name="$USER_HOME$/aibee/sku/docker-compose.yml" timestamp="1568945078115" />
       <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1568947031936">
         <mark key="'" line="5" column="23" />
@@ -64,6 +71,7 @@
       </file>
       <file name="$USER_HOME$/aibee/sku/sku/sku_client.py" timestamp="1568948966298" />
       <file name="$USER_HOME$/aibee/sku/Makefile" timestamp="1568949557697" />
+      <file name="$USER_HOME$/aibee/image_search/init_dev.sh" timestamp="1568984953628" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-kafka-consume-deployment.yaml" timestamp="1568107216179">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="43" column="22" />
@@ -77,10 +85,6 @@
         <mark key="." line="13" column="36" />
       </file>
       <file name="$USER_HOME$/aibee/sku/Pipfile.lock" timestamp="1568945825930" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/config/config.yml" timestamp="1568615609398">
-        <mark key="a" line="15" column="12" />
-        <mark key="'" line="64" column="0" />
-      </file>
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/apidoc.json" timestamp="1568096955052">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="20" />
@@ -199,16 +203,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>下</text>
+        <text encoding="base64">Y29tIA==</text>
       </register>
       <register name="-" type="4">
-        <text>下</text>
+        <text encoding="base64">Y29tIA==</text>
       </register>
       <register name="/" type="4">
         <text>np</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbm9kZVNlbGVjdG9yOgogICAgICAgIG1hbmFnZTogInRydWUiCg==</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSBwaXBlbnYK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>

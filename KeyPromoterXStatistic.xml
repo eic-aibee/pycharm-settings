@@ -617,6 +617,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'k8s_image_search_prod_build_push'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'k8s_image_search_prod_build_push'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'k8s_image_search_service_build_push_test'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -958,7 +966,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>271</Count>
+          <Count>273</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ctf-smart-tray'">
@@ -1686,7 +1694,7 @@
           <IdeaActionID>PublishGroup.Upload</IdeaActionID>
           <ShortCut>'⌥U'</ShortCut>
           <Description>Upload to cpu237</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to ctf-test">
