@@ -1694,7 +1694,7 @@
           <IdeaActionID>PublishGroup.Upload</IdeaActionID>
           <ShortCut>'⌥U'</ShortCut>
           <Description>Upload to cpu237</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to ctf-test">
