@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2137</Count>
+          <Count>2141</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1670,7 +1670,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥T'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1056</Count>
+          <Count>1057</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1702,7 +1702,7 @@
           <IdeaActionID>PublishGroup.Upload</IdeaActionID>
           <ShortCut>'⌥U'</ShortCut>
           <Description>Upload to gpu018</Description>
-          <Count>80</Count>
+          <Count>88</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to gpu018.aibee.cn">
