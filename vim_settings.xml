@@ -9,6 +9,7 @@
         <mark key="^" line="52" column="11" />
         <mark key="." line="52" column="11" />
       </file>
+      <file name="$USER_HOME$/aibee/ctf-api/docker-compose-aliyun.yml" timestamp="1569410860645" />
       <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_client.py" timestamp="1568020317906">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="16" column="46" />
@@ -21,6 +22,7 @@
         <mark key="." line="46" column="32" />
         <mark key="^" line="46" column="32" />
       </file>
+      <file name="$USER_HOME$/aibee/ctf-api/start_aliyun_face_push_consume.sh" timestamp="1569410932564" />
       <file name="$USER_HOME$/aibee/sku/sku/sku_server_caffe.py" timestamp="1568949722871">
         <mark key="'" line="9" column="12" />
         <mark key="[" line="15" column="11" />
@@ -28,39 +30,38 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/aibee/image_search/init_prod.sh" timestamp="1568984596719" />
       <file name="$USER_HOME$/aibee/sku/start.sh" timestamp="1568947504022">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="3" column="16" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/aibee/sku/sku/caffemodels/CTF_jelwery_deploy.prototxt" timestamp="1568896964484" />
       <file name="$USER_HOME$/aibee/image_search/Dockerfile" timestamp="1568984148152">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/aibee/sku/Pipfile" timestamp="1568946037556" />
-      <file name="$USER_HOME$/aibee/image_search/start.sh" timestamp="1568984857849" />
-      <file name="$USER_HOME$/aibee/sku/sku/protos/sku.proto" timestamp="1568897144414" />
+      <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1569411235300">
+        <mark key="[" line="621" column="31" />
+        <mark key="]" line="621" column="94" />
+        <mark key="." line="621" column="94" />
+        <mark key="^" line="621" column="94" />
+      </file>
       <file name="/Django Console" timestamp="1568945993728">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1569391879622">
+      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1569410152931">
         <mark key="[" line="63" column="9" />
         <mark key="]" line="63" column="11" />
         <mark key="^" line="63" column="11" />
         <mark key="." line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/aibee/sku/sku/utils.py" timestamp="1568947932174" />
-      <file name="$USER_HOME$/aibee/sku/requirements.txt" timestamp="1568947189926" />
-      <file name="$USER_HOME$/aibee/image_search/Makefile" timestamp="1568986868674" />
-      <file name="$USER_HOME$/aibee/sku/docker-compose.yml" timestamp="1568945078115" />
-      <file name="$USER_HOME$/aibee/sku/sku/sku_server.py" timestamp="1568947031936">
-        <mark key="'" line="5" column="23" />
+      <file name="$USER_HOME$/aibee/ctf-api/ctf/kafka/kafka.py" timestamp="1569411004477">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="44" column="47" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568860323789">
         <mark key="'" line="22" column="40" />
@@ -69,17 +70,16 @@
         <mark key="^" line="42" column="15" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/aibee/sku/sku/sku_client.py" timestamp="1568948966298" />
-      <file name="$USER_HOME$/aibee/sku/Makefile" timestamp="1569204945614" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/error_handler.py" timestamp="1569242695237" />
-      <file name="$USER_HOME$/aibee/crm/crm/api/face_order.py" timestamp="1569242854627" />
-      <file name="$USER_HOME$/aibee/image_search/init_dev.sh" timestamp="1568984953628" />
-      <file name="$USER_HOME$/aibee/ctf-api/ctf/utils.py" timestamp="1569391709607" />
+      <file name="$USER_HOME$/aibee/ctf-api/start_docker_20.sh" timestamp="1569410899869" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-kafka-consume-deployment.yaml" timestamp="1568107216179">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="43" column="22" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/aibee/label-tool/label_tool/kafka.py" timestamp="1569410538658">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="27" column="48" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/Dockerfile" timestamp="1567652292874">
         <mark key="[" line="12" column="37" />
@@ -87,21 +87,18 @@
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
       </file>
-      <file name="$USER_HOME$/aibee/sku/Pipfile.lock" timestamp="1568945825930" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/apidoc.json" timestamp="1568096955052">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/aibee/image_search/image_search/utils.py" timestamp="1569243094322" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/__init__.py" timestamp="1568095264578">
         <mark key="[" line="41" column="14" />
         <mark key="]" line="41" column="17" />
         <mark key="." line="41" column="17" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/aibee/image_search/image_search/config/config.yml" timestamp="1568981903759" />
     </filemarks>
     <jumps>
       <jump line="331" column="13" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
@@ -207,46 +204,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>xujingzhou</text>
+        <text>CTF_trafficfull_offline_result</text>
       </register>
       <register name="-" type="4">
-        <text>xujingzhou</text>
+        <text>CTF_trafficfull_offline_result</text>
       </register>
       <register name="/" type="4">
         <text>np</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC1pIGh0dHA6Ly9taXJyb3JzLmFsaXl1bi5jb20vcHlwaS9zaW1wbGUvIC0tdHJ1c3RlZC1ob3N0IG1pcnJvcnMuYWxpeXVuLmNvbSBwaXBlbnYK</text>
+        <text encoding="base64">ICAgICJib290c3RyYXAuc2VydmVycyI6ICJrYWZrYS5zdS5iYWlkdWJjZS5jb206OTA5MSIsCiAgICAic2VjdXJpdHkucHJvdG9jb2wiOiAic3NsIiwKICAgICJzc2wuY2EubG9jYXRpb24iOiAiY3RmL2thZmthL2NhLnBlbSIsCiAgICAic3NsLmNlcnRpZmljYXRlLmxvY2F0aW9uIjogImN0Zi9rYWZrYS9jbGllbnQucGVtIiwKICAgICJzc2wua2V5LmxvY2F0aW9uIjogImN0Zi9rYWZrYS9jbGllbnQua2V5IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">ICAgICdib290c3RyYXAuc2VydmVycyc6ICdrYWZrYS5iai5iYWlkdWJjZS5jb206OTA5MScsCiAgICAjIHRvZG8g57uE55qE6YWN572u6ZyA6KaB54m55Yir5rOo5oSPLCDlkIzkuIDkuKrnu4QKICAgICMg6YWN572u5pys5Zyw5ZKM5rWL6K+V546v5aKD5LiN5ZCM57uELCDpu5jorqTmmK9yZWFsdGltZV9sYWJlbF9ncm91cAogICAgJ2dyb3VwLmlkJzogRGVmYXVsdENvbmZpZy5ERUZBVUxUX0tBRktBX0NPTlNVTUVSX0dST1VQLAogICAgJ3NlY3VyaXR5LnByb3RvY29sJzogJ3NzbCcsCiAgICAnc3NsLmNhLmxvY2F0aW9uJzogJ2xhYmVsX3Rvb2wvY2EucGVtJywKICAgICdzc2wuY2VydGlmaWNhdGUubG9jYXRpb24nOiAnbGFiZWxfdG9vbC9jbGllbnQucGVtJywKICAgICdzc2wua2V5LmxvY2F0aW9uJzogJ2xhYmVsX3Rvb2wvY2xpZW50LmtleScsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hbmFnZTogdHJ1ZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWRvY2tlciBwdXNoIHJlZ2lzdHJ5LmFpYmVlLmNuL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci9zbWFydC1kcmVzc2luZy1taXJyb3Itc2VydmljZTokKFZFUlNJT04pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CWRvY2tlciBidWlsZCAuIC10IHJlZ2lzdHJ5LmFpYmVlLmNuL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci9zbWFydC1kcmVzc2luZy1taXJyb3Itc2VydmljZTokKFZFUlNJT04pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5o6l5Y+j5Lit6YO95bim5LiKQXV0aG9yaXphdGlvbueahGhlYWRlciwg5L6L5aaCOgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGF0YSI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgInRva2VuIjogImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWVhRaU9qRTFOamd3T1RVNE9UZ3NJbk4xWWlJNklqTWlMQ0psZUhBaU9qRTFOekEyT0RjNE9UaDkuWHBJLUtBQ3FkVzhhMnRzNjlLdUhCT2ZoNFE4QTJCTndMZXdkb1RWV1dWIgogICAgICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1hbmFnZTogdHJ1ZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWRvY2tlciBwdXNoIHJlZ2lzdHJ5LmFpYmVlLmNuL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci9zbWFydC1kcmVzc2luZy1taXJyb3Itc2VydmljZTokKFZFUlNJT04pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWRvY2tlciBidWlsZCAuIC10IHJlZ2lzdHJ5LmFpYmVlLmNuL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci9zbWFydC1kcmVzc2luZy1taXJyb3Itc2VydmljZTokKFZFUlNJT04pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAg5o6l5Y+j5Lit6YO95bim5LiKQXV0aG9yaXphdGlvbueahGhlYWRlciwg5L6L5aaCOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGF0YSI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgInRva2VuIjogImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWVhRaU9qRTFOamd3T1RVNE9UZ3NJbk4xWWlJNklqTWlMQ0psZUhBaU9qRTFOekEyT0RjNE9UaDkuWHBJLUtBQ3FkVzhhMnRzNjlLdUhCT2ZoNFE4QTJCTndMZXdkb1RWV1dWIgogICAgICAgICAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGFwaVBhcmFtIHtTdHJpbmd9IHBhc3N3b3JkIOWvhueggQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
