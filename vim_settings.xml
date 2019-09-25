@@ -49,11 +49,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1567652578397">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="8" />
-        <mark key="^" line="60" column="23" />
-        <mark key="." line="60" column="8" />
+      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1569391879622">
+        <mark key="[" line="63" column="9" />
+        <mark key="]" line="63" column="11" />
+        <mark key="^" line="63" column="11" />
+        <mark key="." line="63" column="11" />
       </file>
       <file name="$USER_HOME$/aibee/sku/sku/utils.py" timestamp="1568947932174" />
       <file name="$USER_HOME$/aibee/sku/requirements.txt" timestamp="1568947189926" />
@@ -71,7 +71,10 @@
       </file>
       <file name="$USER_HOME$/aibee/sku/sku/sku_client.py" timestamp="1568948966298" />
       <file name="$USER_HOME$/aibee/sku/Makefile" timestamp="1569204945614" />
+      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/error_handler.py" timestamp="1569242695237" />
+      <file name="$USER_HOME$/aibee/crm/crm/api/face_order.py" timestamp="1569242854627" />
       <file name="$USER_HOME$/aibee/image_search/init_dev.sh" timestamp="1568984953628" />
+      <file name="$USER_HOME$/aibee/ctf-api/ctf/utils.py" timestamp="1569391709607" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-kafka-consume-deployment.yaml" timestamp="1568107216179">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="43" column="22" />
@@ -91,6 +94,7 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/aibee/image_search/image_search/utils.py" timestamp="1569243094322" />
       <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/__init__.py" timestamp="1568095264578">
         <mark key="[" line="41" column="14" />
         <mark key="]" line="41" column="17" />
@@ -203,10 +207,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29tIA==</text>
+        <text>xujingzhou</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29tIA==</text>
+        <text>xujingzhou</text>
       </register>
       <register name="/" type="4">
         <text>np</text>
