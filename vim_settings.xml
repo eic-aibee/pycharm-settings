@@ -3,39 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/aibee/sku/README.md" timestamp="1568946349083">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="52" column="11" />
-        <mark key="^" line="52" column="11" />
-        <mark key="." line="52" column="11" />
-      </file>
       <file name="$USER_HOME$/aibee/ctf-api/docker-compose-aliyun.yml" timestamp="1569410860645" />
-      <file name="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_client.py" timestamp="1568020317906">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="46" />
-        <mark key="." line="16" column="46" />
-        <mark key="^" line="16" column="46" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku/Dockerfile" timestamp="1568948998577">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="46" column="32" />
-        <mark key="." line="46" column="32" />
-        <mark key="^" line="46" column="32" />
-      </file>
       <file name="$USER_HOME$/aibee/ctf-api/start_aliyun_face_push_consume.sh" timestamp="1569410932564" />
-      <file name="$USER_HOME$/aibee/sku/sku/sku_server_caffe.py" timestamp="1568949722871">
-        <mark key="'" line="9" column="12" />
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-      </file>
-      <file name="$USER_HOME$/aibee/sku/start.sh" timestamp="1568947504022">
-        <mark key="[" line="2" column="22" />
-        <mark key="]" line="3" column="16" />
-        <mark key="^" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-      </file>
+      <file name="$USER_HOME$/aibee/ctf-api/start_aliyun_face_update_consume.sh" timestamp="1569479178065" />
       <file name="$USER_HOME$/aibee/image_search/Dockerfile" timestamp="1568984148152">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
@@ -63,42 +33,12 @@
         <mark key="]" line="44" column="47" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/Makefile" timestamp="1568860323789">
-        <mark key="'" line="22" column="40" />
-        <mark key="[" line="16" column="3" />
-        <mark key="]" line="16" column="3" />
-        <mark key="^" line="42" column="15" />
-        <mark key="." line="16" column="3" />
-      </file>
       <file name="$USER_HOME$/aibee/ctf-api/start_docker_20.sh" timestamp="1569410899869" />
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/k8s/smart-dressing-mirror-kafka-consume-deployment.yaml" timestamp="1568107216179">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="43" column="22" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="7" column="12" />
-      </file>
       <file name="$USER_HOME$/aibee/label-tool/label_tool/kafka.py" timestamp="1569410538658">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/Dockerfile" timestamp="1567652292874">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-      </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/apidoc.json" timestamp="1568096955052">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/aibee/smart_dressing_mirror/smart_dressing_mirror/api/__init__.py" timestamp="1568095264578">
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="17" />
-        <mark key="." line="41" column="17" />
-        <mark key="^" line="41" column="17" />
-      </file>
+      <file name="$USER_HOME$/aibee/ctf-api/Makefile" timestamp="1569479205294" />
     </filemarks>
     <jumps>
       <jump line="331" column="13" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
