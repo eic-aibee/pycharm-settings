@@ -3,13 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/aibee/ctf-api/docker-compose-aliyun.yml" timestamp="1569410860645" />
-      <file name="$USER_HOME$/aibee/ctf-api/start_aliyun_face_push_consume.sh" timestamp="1569410932564" />
-      <file name="$USER_HOME$/aibee/ctf-api/start_aliyun_face_update_consume.sh" timestamp="1569479178065" />
       <file name="$USER_HOME$/aibee/image_search/Dockerfile" timestamp="1568984148152">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
+      </file>
+      <file name="$USER_HOME$/aibee/label-tool/label_tool/kafka.py" timestamp="1569410538658">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="27" column="48" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1569411235300">
         <mark key="[" line="621" column="31" />
@@ -28,18 +29,13 @@
         <mark key="^" line="63" column="11" />
         <mark key="." line="63" column="11" />
       </file>
+      <file name="$USER_HOME$/aibee/ctf-api/start_baiduyun_common_face_update_consume.sh" timestamp="1569479542634" />
+      <file name="$USER_HOME$/aibee/ctf-api/Makefile" timestamp="1569479762953" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/kafka/kafka.py" timestamp="1569411004477">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="47" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-api/start_baiduyun_common_face_push_consume.sh" timestamp="1569479226762" />
-      <file name="$USER_HOME$/aibee/ctf-api/start_docker_20.sh" timestamp="1569410899869" />
-      <file name="$USER_HOME$/aibee/label-tool/label_tool/kafka.py" timestamp="1569410538658">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="27" column="48" />
-      </file>
-      <file name="$USER_HOME$/aibee/ctf-api/Makefile" timestamp="1569479205294" />
     </filemarks>
     <jumps>
       <jump line="331" column="13" filename="$USER_HOME$/github/PyMySQL/pymysql/cursors.py" />
