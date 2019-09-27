@@ -30,6 +30,7 @@
         <mark key="." line="63" column="11" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/start_baiduyun_common_face_update_consume.sh" timestamp="1569479542634" />
+      <file name="$USER_HOME$/aibee/ctf-api/nginx_baiduyun/flask.conf" timestamp="1569583010917" />
       <file name="$USER_HOME$/aibee/ctf-api/Makefile" timestamp="1569479762953" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/kafka/kafka.py" timestamp="1569411004477">
         <mark key="[" line="40" column="0" />
