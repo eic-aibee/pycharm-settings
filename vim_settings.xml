@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/aibee/ctf-api/aps_mgr.pem" timestamp="1570691909933" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/kafka.py" timestamp="1569410538658">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="27" column="48" />
@@ -18,14 +19,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-api/bi_data_insert.sql" timestamp="1569761833490" />
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1569410152931">
         <mark key="[" line="63" column="9" />
         <mark key="]" line="63" column="11" />
         <mark key="^" line="63" column="11" />
         <mark key="." line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-api/nginx_baiduyun/flask.conf" timestamp="1569750683987" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/rfid.py" timestamp="1570692024843" />
       <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" timestamp="1569585666808">
         <mark key="'" line="38" column="2" />
       </file>
