@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/aibee/ctf-api/aps_mgr.pem" timestamp="1570691909933" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/kafka.py" timestamp="1569410538658">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="27" column="48" />
       </file>
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/centrifugo_token.py" timestamp="1570696654949" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1569411235300">
         <mark key="[" line="621" column="31" />
         <mark key="]" line="621" column="94" />
@@ -25,7 +25,8 @@
         <mark key="^" line="63" column="11" />
         <mark key="." line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/rfid.py" timestamp="1570692024843" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/rfid.py" timestamp="1570696189402" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/models/tray_log.py" timestamp="1570696465048" />
       <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" timestamp="1569585666808">
         <mark key="'" line="38" column="2" />
       </file>
