@@ -3,9 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/db/Dockerfile" timestamp="1570700025276" />
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/models/tray_log.py" timestamp="1570696465048" />
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" timestamp="1569585666808">
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" timestamp="1570779257280">
         <mark key="'" line="38" column="2" />
       </file>
       <file name="$USER_HOME$/aibee/image_search/Dockerfile" timestamp="1568984148152">
@@ -13,19 +11,19 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/cargo.py" timestamp="1570697281887" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/README.md" timestamp="1570778879879" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/kafka.py" timestamp="1569410538658">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/centrifugo_token.py" timestamp="1570696853623" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/centrifugo_token.py" timestamp="1570778231906" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1569411235300">
         <mark key="[" line="621" column="31" />
         <mark key="]" line="621" column="94" />
         <mark key="." line="621" column="94" />
         <mark key="^" line="621" column="94" />
       </file>
-      <file name="/Django Console" timestamp="1568945993728">
+      <file name="/Django Console" timestamp="1570780280129">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -36,9 +34,18 @@
         <mark key="^" line="63" column="11" />
         <mark key="." line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/rfid.py" timestamp="1570697353685" />
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/models/rfid.py" timestamp="1570700011694" />
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/customer.py" timestamp="1570697099425" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/docker-compose-test.yml" timestamp="1570780668369">
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="30" />
+        <mark key="^" line="43" column="30" />
+        <mark key="." line="43" column="30" />
+      </file>
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/rfid.py" timestamp="1570780354367">
+        <mark key="[" line="192" column="95" />
+        <mark key="]" line="192" column="103" />
+        <mark key="." line="192" column="103" />
+        <mark key="^" line="192" column="103" />
+      </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/kafka/kafka.py" timestamp="1569411004477">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="47" />
@@ -149,16 +156,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CTF_trafficfull_offline_result</text>
+        <text>.startswith('54')</text>
       </register>
       <register name="-" type="4">
-        <text>CTF_trafficfull_offline_result</text>
+        <text>.startswith('54')</text>
       </register>
       <register name="/" type="4">
         <text>CENTRIFUGO_API_SECRET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJib290c3RyYXAuc2VydmVycyI6ICJrYWZrYS5zdS5iYWlkdWJjZS5jb206OTA5MSIsCiAgICAic2VjdXJpdHkucHJvdG9jb2wiOiAic3NsIiwKICAgICJzc2wuY2EubG9jYXRpb24iOiAiY3RmL2thZmthL2NhLnBlbSIsCiAgICAic3NsLmNlcnRpZmljYXRlLmxvY2F0aW9uIjogImN0Zi9rYWZrYS9jbGllbnQucGVtIiwKICAgICJzc2wua2V5LmxvY2F0aW9uIjogImN0Zi9rYWZrYS9jbGllbnQua2V5IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlYWRlcl9pZC5zdGFydHN3aXRoKCc1NCcpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICdib290c3RyYXAuc2VydmVycyc6ICdrYWZrYS5iai5iYWlkdWJjZS5jb206OTA5MScsCiAgICAjIHRvZG8g57uE55qE6YWN572u6ZyA6KaB54m55Yir5rOo5oSPLCDlkIzkuIDkuKrnu4QKICAgICMg6YWN572u5pys5Zyw5ZKM5rWL6K+V546v5aKD5LiN5ZCM57uELCDpu5jorqTmmK9yZWFsdGltZV9sYWJlbF9ncm91cAogICAgJ2dyb3VwLmlkJzogRGVmYXVsdENvbmZpZy5ERUZBVUxUX0tBRktBX0NPTlNVTUVSX0dST1VQLAogICAgJ3NlY3VyaXR5LnByb3RvY29sJzogJ3NzbCcsCiAgICAnc3NsLmNhLmxvY2F0aW9uJzogJ2xhYmVsX3Rvb2wvY2EucGVtJywKICAgICdzc2wuY2VydGlmaWNhdGUubG9jYXRpb24nOiAnbGFiZWxfdG9vbC9jbGllbnQucGVtJywKICAgICdzc2wua2V5LmxvY2F0aW9uJzogJ2xhYmVsX3Rvb2wvY2xpZW50LmtleScsCg==</text>
