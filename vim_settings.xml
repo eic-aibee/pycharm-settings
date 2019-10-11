@@ -46,11 +46,11 @@
         <mark key="^" line="42" column="30" />
         <mark key="." line="42" column="30" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/rfid.py" timestamp="1570793185510">
-        <mark key="[" line="128" column="29" />
-        <mark key="]" line="128" column="28" />
-        <mark key="." line="128" column="28" />
-        <mark key="^" line="128" column="28" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/rfid.py" timestamp="1570797066905">
+        <mark key="[" line="127" column="41" />
+        <mark key="]" line="127" column="43" />
+        <mark key="." line="127" column="43" />
+        <mark key="^" line="127" column="43" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-smart-tray/centrifugo/config/config.json" timestamp="1570786658989" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/kafka/kafka.py" timestamp="1569411004477">
