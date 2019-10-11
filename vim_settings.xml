@@ -46,11 +46,11 @@
         <mark key="^" line="42" column="30" />
         <mark key="." line="42" column="30" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/rfid.py" timestamp="1570786786307">
-        <mark key="[" line="192" column="95" />
-        <mark key="]" line="192" column="103" />
-        <mark key="." line="192" column="103" />
-        <mark key="^" line="192" column="103" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/rfid.py" timestamp="1570788724918">
+        <mark key="[" line="128" column="29" />
+        <mark key="]" line="128" column="28" />
+        <mark key="." line="128" column="28" />
+        <mark key="^" line="128" column="28" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-smart-tray/centrifugo/config/config.json" timestamp="1570786658989" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/kafka/kafka.py" timestamp="1569411004477">
@@ -163,11 +163,11 @@
       <jump line="38" column="2" filename="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cDovLzQyLjYyLjEwMS4xMzo5MTgzL2N0Zi1zbWFydC10cmF5LWNlbnRyaWZ1Z28vCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>外</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>CENTRIFUGO_API_SECRET</text>
