@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/db/Dockerfile" timestamp="1570781316711" />
       <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" timestamp="1570779257280">
         <mark key="'" line="38" column="2" />
       </file>
@@ -18,11 +17,12 @@
         <mark key="^" line="55" column="53" />
         <mark key="." line="55" column="53" />
       </file>
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/utils.py" timestamp="1571038533627" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/kafka.py" timestamp="1569410538658">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/api/centrifugo_token.py" timestamp="1570778231906" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/service/grg_face_service.py" timestamp="1571038616526" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1569411235300">
         <mark key="[" line="621" column="31" />
         <mark key="]" line="621" column="94" />
@@ -52,13 +52,11 @@
         <mark key="." line="127" column="65" />
         <mark key="^" line="127" column="65" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/centrifugo/config/config.json" timestamp="1570786658989" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/kafka/kafka.py" timestamp="1569411004477">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="47" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/nginx_test/flask.conf" timestamp="1570786370436" />
     </filemarks>
     <jumps>
       <jump line="18" column="9" filename="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_server.py" />
