@@ -3,19 +3,42 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" timestamp="1571225022087">
-        <mark key="'" line="38" column="2" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/nginx_minipc/Dockerfile" timestamp="1571227527275" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/start.sh" timestamp="1571228972088">
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="63" />
+        <mark key="." line="12" column="63" />
+        <mark key="^" line="12" column="63" />
+      </file>
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/Dockerfile" timestamp="1571229271393">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="11" column="15" />
+      </file>
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/init_minipc.sh" timestamp="1571229117844">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" timestamp="1571227204492">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="112" column="51" />
+        <mark key="]" line="112" column="54" />
+        <mark key="^" line="112" column="54" />
+        <mark key="." line="112" column="54" />
       </file>
       <file name="$USER_HOME$/aibee/image_search/Dockerfile" timestamp="1568984148152">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/README.md" timestamp="1570787930493">
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="55" column="53" />
-        <mark key="^" line="55" column="53" />
-        <mark key="." line="55" column="53" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/README.md" timestamp="1571229473110">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="89" column="13" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/utils.py" timestamp="1571038533627" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/kafka.py" timestamp="1569410538658">
@@ -23,6 +46,12 @@
         <mark key="]" line="27" column="48" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/service/grg_face_service.py" timestamp="1571038616526" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/docker-compose-minipc.yml" timestamp="1571227325048">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="21" column="24" />
+        <mark key="^" line="21" column="24" />
+      </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1569411235300">
         <mark key="[" line="621" column="31" />
         <mark key="]" line="621" column="94" />
@@ -34,13 +63,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/start_minipc.sh" timestamp="1571228947784">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+      </file>
       <file name="$USER_HOME$/aibee/ctf-api/nginx_aliyun/flask.conf" timestamp="1569410152931">
         <mark key="[" line="63" column="9" />
         <mark key="]" line="63" column="11" />
         <mark key="^" line="63" column="11" />
         <mark key="." line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/docker-compose-test.yml" timestamp="1570782232641">
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/docker-compose-test.yml" timestamp="1571226841383">
         <mark key="[" line="42" column="29" />
         <mark key="]" line="42" column="30" />
         <mark key="^" line="42" column="30" />
@@ -59,7 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="9" filename="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_server.py" />
       <jump line="44" column="91" filename="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_server.py" />
       <jump line="14" column="33" filename="$USER_HOME$/aibee/bosideng_sku/docker-compose-example.yml" />
       <jump line="645" column="13" filename="$USER_HOME$/github/werkzeug/src/werkzeug/routing.py" />
@@ -159,49 +193,50 @@
       <jump line="9" column="12" filename="$USER_HOME$/aibee/sku/sku/sku_server_caffe.py" />
       <jump line="33" column="0" filename="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" />
       <jump line="38" column="2" filename="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" />
+      <jump line="40" column="0" filename="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>TEST</text>
       </register>
       <register name="/" type="4">
         <text>CENTRIFUGO_API_SECRET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">5rWL6K+V546v5aKDY2VudHJpZnVnb+Wklue9keWcsOWdgApodHRwOi8vNDIuNjIuMTAxLjEzOjkxODMvY3RmLXNtYXJ0LXRyYXktY2VudHJpZnVnby8K</text>
+        <text encoding="base64">ZWxpZiBbICIkT1JEQk9LX0VOVklST05NRU5UIiA9ICJURVNUIiBdOyB0aGVuCiAgICBzaCBzdGFydF90ZXN0LnNoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cDovLzQyLjYyLjEwMS4xMzo5MTgzL2N0Zi1zbWFydC10cmF5LWNlbnRyaWZ1Z28vCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdib290c3RyYXAuc2VydmVycyc6ICdrYWZrYS5iai5iYWlkdWJjZS5jb206OTA5MScsCiAgICAjIHRvZG8g57uE55qE6YWN572u6ZyA6KaB54m55Yir5rOo5oSPLCDlkIzkuIDkuKrnu4QKICAgICMg6YWN572u5pys5Zyw5ZKM5rWL6K+V546v5aKD5LiN5ZCM57uELCDpu5jorqTmmK9yZWFsdGltZV9sYWJlbF9ncm91cAogICAgJ2dyb3VwLmlkJzogRGVmYXVsdENvbmZpZy5ERUZBVUxUX0tBRktBX0NPTlNVTUVSX0dST1VQLAogICAgJ3NlY3VyaXR5LnByb3RvY29sJzogJ3NzbCcsCiAgICAnc3NsLmNhLmxvY2F0aW9uJzogJ2xhYmVsX3Rvb2wvY2EucGVtJywKICAgICdzc2wuY2VydGlmaWNhdGUubG9jYXRpb24nOiAnbGFiZWxfdG9vbC9jbGllbnQucGVtJywKICAgICdzc2wua2V5LmxvY2F0aW9uJzogJ2xhYmVsX3Rvb2wvY2xpZW50LmtleScsCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAtIEZMQVNLX0VOVj10ZXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hbmFnZTogdHJ1ZQo=</text>
+        <text encoding="base64">aHR0cDovLzQyLjYyLjEwMS4xMzo5MTgzL2N0Zi1zbWFydC10cmF5LWNlbnRyaWZ1Z28vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWRvY2tlciBwdXNoIHJlZ2lzdHJ5LmFpYmVlLmNuL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci9zbWFydC1kcmVzc2luZy1taXJyb3Itc2VydmljZTokKFZFUlNJT04pCg==</text>
+        <text encoding="base64">ICAgICdib290c3RyYXAuc2VydmVycyc6ICdrYWZrYS5iai5iYWlkdWJjZS5jb206OTA5MScsCiAgICAjIHRvZG8g57uE55qE6YWN572u6ZyA6KaB54m55Yir5rOo5oSPLCDlkIzkuIDkuKrnu4QKICAgICMg6YWN572u5pys5Zyw5ZKM5rWL6K+V546v5aKD5LiN5ZCM57uELCDpu5jorqTmmK9yZWFsdGltZV9sYWJlbF9ncm91cAogICAgJ2dyb3VwLmlkJzogRGVmYXVsdENvbmZpZy5ERUZBVUxUX0tBRktBX0NPTlNVTUVSX0dST1VQLAogICAgJ3NlY3VyaXR5LnByb3RvY29sJzogJ3NzbCcsCiAgICAnc3NsLmNhLmxvY2F0aW9uJzogJ2xhYmVsX3Rvb2wvY2EucGVtJywKICAgICdzc2wuY2VydGlmaWNhdGUubG9jYXRpb24nOiAnbGFiZWxfdG9vbC9jbGllbnQucGVtJywKICAgICdzc2wua2V5LmxvY2F0aW9uJzogJ2xhYmVsX3Rvb2wvY2xpZW50LmtleScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWRvY2tlciBidWlsZCAuIC10IHJlZ2lzdHJ5LmFpYmVlLmNuL3NtYXJ0LWRyZXNzaW5nLW1pcnJvci9zbWFydC1kcmVzc2luZy1taXJyb3Itc2VydmljZTokKFZFUlNJT04pCg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5o6l5Y+j5Lit6YO95bim5LiKQXV0aG9yaXphdGlvbueahGhlYWRlciwg5L6L5aaCOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGF0YSI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgInRva2VuIjogImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWVhRaU9qRTFOamd3T1RVNE9UZ3NJbk4xWWlJNklqTWlMQ0psZUhBaU9qRTFOekEyT0RjNE9UaDkuWHBJLUtBQ3FkVzhhMnRzNjlLdUhCT2ZoNFE4QTJCTndMZXdkb1RWV1dWIgogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIG1hbmFnZTogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>

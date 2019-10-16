@@ -86,7 +86,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2150</Count>
+          <Count>2151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1727,6 +1727,14 @@
           <ShortCut>'⌥U'</ShortCut>
           <Description>Upload to idc_237</Description>
           <Count>49</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Upload to minipc">
+        <Item>
+          <IdeaActionID>PublishGroup.Upload</IdeaActionID>
+          <ShortCut>'⌥U'</ShortCut>
+          <Description>Upload to minipc</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to mongo">
