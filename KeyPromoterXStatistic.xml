@@ -1734,7 +1734,7 @@
           <IdeaActionID>PublishGroup.Upload</IdeaActionID>
           <ShortCut>'⌥U'</ShortCut>
           <Description>Upload to minipc</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to mongo">
