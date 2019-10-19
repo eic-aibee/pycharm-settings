@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/nginx_minipc/Dockerfile" timestamp="1571227527275" />
       <file name="$USER_HOME$/aibee/ctf-smart-tray/start.sh" timestamp="1571228972088">
         <mark key="[" line="12" column="57" />
         <mark key="]" line="12" column="63" />
@@ -22,35 +21,34 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" timestamp="1571227204492">
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" timestamp="1571456314061">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="112" column="51" />
-        <mark key="]" line="112" column="54" />
-        <mark key="^" line="112" column="54" />
-        <mark key="." line="112" column="54" />
+        <mark key="[" line="113" column="49" />
+        <mark key="]" line="113" column="49" />
+        <mark key="^" line="113" column="49" />
+        <mark key="." line="113" column="49" />
       </file>
       <file name="$USER_HOME$/aibee/image_search/Dockerfile" timestamp="1568984148152">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/README.md" timestamp="1571229473110">
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/README.md" timestamp="1571456291694">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="^" line="89" column="13" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/utils.py" timestamp="1571038533627" />
       <file name="$USER_HOME$/aibee/label-tool/label_tool/kafka.py" timestamp="1569410538658">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/service/grg_face_service.py" timestamp="1571038616526" />
-      <file name="$USER_HOME$/aibee/ctf-smart-tray/docker-compose-minipc.yml" timestamp="1571227325048">
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="21" column="24" />
-        <mark key="^" line="21" column="24" />
+      <file name="$USER_HOME$/aibee/ctf-smart-tray/docker-compose-minipc.yml" timestamp="1571455930329">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="19" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1569411235300">
         <mark key="[" line="621" column="31" />
@@ -94,9 +92,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="91" filename="$USER_HOME$/aibee/bosideng_sku/bosideng_sku/sku_server.py" />
-      <jump line="14" column="33" filename="$USER_HOME$/aibee/bosideng_sku/docker-compose-example.yml" />
-      <jump line="645" column="13" filename="$USER_HOME$/github/werkzeug/src/werkzeug/routing.py" />
       <jump line="664" column="33" filename="$USER_HOME$/github/werkzeug/src/werkzeug/routing.py" />
       <jump line="674" column="8" filename="$USER_HOME$/github/werkzeug/src/werkzeug/routing.py" />
       <jump line="706" column="24" filename="$USER_HOME$/github/werkzeug/src/werkzeug/routing.py" />
@@ -194,19 +189,22 @@
       <jump line="33" column="0" filename="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" />
       <jump line="38" column="2" filename="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" />
       <jump line="40" column="0" filename="$USER_HOME$/aibee/ctf-smart-tray/ctf_smart_tray/config/config.yml" />
+      <jump line="26" column="4" filename="$USER_HOME$/aibee/ctf-smart-tray/docker-compose-minipc.yml" />
+      <jump line="8" column="4" filename="$USER_HOME$/aibee/ctf-smart-tray/docker-compose-minipc.yml" />
+      <jump line="23" column="4" filename="$USER_HOME$/aibee/ctf-smart-tray/docker-compose-minipc.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>TEST</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
-        <text>CENTRIFUGO_API_SECRET</text>
+        <text>restart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWxpZiBbICIkT1JEQk9LX0VOVklST05NRU5UIiA9ICJURVNUIiBdOyB0aGVuCiAgICBzaCBzdGFydF90ZXN0LnNoCg==</text>
+        <text encoding="base64">ICBDRU5UUklGVUdPX1BVQkxJQ19TRVJWRVJfQUREUkVTUzogJzE5Mi4xNjguODAuMzc6NTAwMi9jdGYtc21hcnQtdHJheS1jZW50cmlmdWdvJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IAo=</text>
@@ -243,9 +241,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CENTRIFUGO_API_SECRET</last-search>
+      <last-search>restart</last-search>
       <last-offset />
-      <last-pattern>CENTRIFUGO_API_SECRET</last-pattern>
+      <last-pattern>restart</last-pattern>
       <last-replace>manage</last-replace>
       <last-substitute>staging-cpu</last-substitute>
       <last-dir>1</last-dir>
@@ -253,7 +251,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sku-detector</entry>
         <entry>sku</entry>
         <entry>example</entry>
         <entry encoding="base64">XDxzZXNzaW9uX2pzb25fc2VyaWFsaXplclw+</entry>
@@ -273,6 +270,7 @@
         <entry encoding="base64">XDxmdXR1cmVzXD4=</entry>
         <entry>np</entry>
         <entry>CENTRIFUGO_API_SECRET</entry>
+        <entry>restart</entry>
       </history-search>
       <history-cmd>
         <entry>%s/centrifugo/service/g</entry>

@@ -1678,7 +1678,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥T'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1058</Count>
+          <Count>1059</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1734,7 +1734,7 @@
           <IdeaActionID>PublishGroup.Upload</IdeaActionID>
           <ShortCut>'⌥U'</ShortCut>
           <Description>Upload to minipc</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to mongo">
