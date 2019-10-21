@@ -28,6 +28,7 @@
         <mark key="^" line="113" column="49" />
         <mark key="." line="113" column="49" />
       </file>
+      <file name="$USER_HOME$/aibee/label-tool/k8s/label-tool-service-schedule-deployment.yaml" timestamp="1571648835703" />
       <file name="$USER_HOME$/aibee/image_search/Dockerfile" timestamp="1568984148152">
         <mark key="[" line="13" column="16" />
         <mark key="]" line="13" column="16" />
@@ -50,6 +51,7 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/aibee/sku_detector/sku_detector/sku_detector_pb2_grpc.py" timestamp="1571649094804" />
       <file name="$USER_HOME$/aibee/ctf-api/ctf/settings.py" timestamp="1569411235300">
         <mark key="[" line="621" column="31" />
         <mark key="]" line="621" column="94" />
@@ -90,7 +92,7 @@
         <mark key="]" line="44" column="47" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/aibee/label-tool/k8s/label-tool-service-deployment.yaml" timestamp="1571628817193" />
+      <file name="$USER_HOME$/aibee/label-tool/k8s/label-tool-service-deployment.yaml" timestamp="1571648673416" />
     </filemarks>
     <jumps>
       <jump line="664" column="33" filename="$USER_HOME$/github/werkzeug/src/werkzeug/routing.py" />
