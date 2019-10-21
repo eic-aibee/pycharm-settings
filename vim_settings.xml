@@ -90,6 +90,7 @@
         <mark key="]" line="44" column="47" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/aibee/label-tool/k8s/label-tool-service-deployment.yaml" timestamp="1571628817193" />
     </filemarks>
     <jumps>
       <jump line="664" column="33" filename="$USER_HOME$/github/werkzeug/src/werkzeug/routing.py" />
